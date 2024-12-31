@@ -1,0 +1,69 @@
+// Export pages
+export '/dms/authentication/login_page/login_page_widget.dart'
+    show LoginPageWidget;
+export '/dms/authentication/forget_password_page/forget_password_page_widget.dart'
+    show ForgetPasswordPageWidget;
+export '/dms/authentication/register_page/register_page_widget.dart'
+    show RegisterPageWidget;
+export '/dms/home_page/home_page_widget.dart' show HomePageWidget;
+export '/backup_files/backup_workflow/pg_sign_not_use/pg_sign_not_use_widget.dart'
+    show PgSignNotUseWidget;
+export '/dms/report/report_page/report_page_widget.dart' show ReportPageWidget;
+export '/dms/documents/page_documents/page_documents_widget.dart'
+    show PageDocumentsWidget;
+export '/backup_files/backup_workflow/pg_sign_edit_not_use/pg_sign_edit_not_use_widget.dart'
+    show PgSignEditNotUseWidget;
+export '/backup_files/backup_home/page_home_20240912211400/page_home20240912211400_widget.dart'
+    show PageHome20240912211400Widget;
+export '/dms/work_flow/page/page_workflow_process/page_workflow_process_widget.dart'
+    show PageWorkflowProcessWidget;
+export '/backup_files/backup_reports/page_reports_v1/page_reports_v1_widget.dart'
+    show PageReportsV1Widget;
+export '/backup_files/backup_home/page_home_20240913140500/page_home20240913140500_widget.dart'
+    show PageHome20240913140500Widget;
+export '/components/overview/overview_widget.dart' show OverviewWidget;
+export '/backup_files/backup_reports/page_reports_activity_log/page_reports_activity_log_widget.dart'
+    show PageReportsActivityLogWidget;
+export '/backup_files/backup_reports/page_reports_v2/page_reports_v2_widget.dart'
+    show PageReportsV2Widget;
+export '/components/home/home_widget.dart' show HomeWidget;
+export '/dms/home/settings/setting_page/setting_page_widget.dart'
+    show SettingPageWidget;
+export '/dms/home/settings/account_setting_page/account_setting_page_widget.dart'
+    show AccountSettingPageWidget;
+export '/backup_files/backup_reports/page_reports_v318/page_reports_v318_widget.dart'
+    show PageReportsV318Widget;
+export '/dms/authentication/landing_page/landing_page_widget.dart'
+    show LandingPageWidget;
+export '/backup_files/backup_home/page_homev1180924/page_homev1180924_widget.dart'
+    show PageHomev1180924Widget;
+export '/dms/work_flow/page/page_workflow_actions/page_workflow_actions_widget.dart'
+    show PageWorkflowActionsWidget;
+export '/dms/notification_page/notification_page_widget.dart'
+    show NotificationPageWidget;
+export '/dms/work_flow/page/page_main_workflow/page_main_workflow_widget.dart'
+    show PageMainWorkflowWidget;
+export '/componentsetting_configuration/configuration_setting_page/configuration_setting_page_widget.dart'
+    show ConfigurationSettingPageWidget;
+export '/dms/work_flow/page/page_preview_document/page_preview_document_widget.dart'
+    show PagePreviewDocumentWidget;
+export '/backup_files/backup_home/page_homev2230924/page_homev2230924_widget.dart'
+    show PageHomev2230924Widget;
+export '/dms/work_flow/page/page_prepare_signature/page_prepare_signature_widget.dart'
+    show PagePrepareSignatureWidget;
+export '/dms/home/settings/account_management_page/account_management_page_widget.dart'
+    show AccountManagementPageWidget;
+export '/dms/documents/page_of_documents/page_document_upload_only/page_document_upload_only_widget.dart'
+    show PageDocumentUploadOnlyWidget;
+export '/backup_files/backup_reports/page_reportsv427/page_reportsv427_widget.dart'
+    show PageReportsv427Widget;
+export '/backup_files/backup_home/home_page_20241004134500/home_page20241004134500_widget.dart'
+    show HomePage20241004134500Widget;
+export '/component/user_authorization/user_authorization_widget.dart'
+    show UserAuthorizationWidget;
+export '/dms/home/settings/customization_page/customization_page_widget.dart'
+    show CustomizationPageWidget;
+export '/dms/documents/page_of_documents/page_document_upload/page_document_upload_widget.dart'
+    show PageDocumentUploadWidget;
+export '/other/configuration_page_backup/configuration_page_backup_widget.dart'
+    show ConfigurationPageBackupWidget;

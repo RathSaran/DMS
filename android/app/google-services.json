@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649432534185",
+    "project_id": "dms-system-7278b",
+    "storage_bucket": "dms-system-7278b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649432534185:android:53b4a46583b36d44e8edb8",
+        "android_client_info": {
+          "package_name": "com.mycompany.crmapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAukO5ui71mr-DhlKgA43oehZTKftNKFU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
