@@ -68,65 +68,7 @@ void main() async {
   });
 
   group('Saran', () {
-    group('Home page', () {
-      testWidgets('Validate home page', (WidgetTester tester) async {
-        _overrideOnError();
-
-        await tester.pumpWidget(MultiProvider(
-          providers: [
-            ChangeNotifierProvider(
-              create: (context) => FFAppState(),
-            ),
-          ],
-          child: MyApp(
-            entryPage: LoginPageWidget(),
-          ),
-        ));
-
-        await tester.pumpAndSettle();
-        await tester.enterText(
-            find.byKey(ValueKey('emailAddress_na8l')), 'saranrath33@gmail.com');
-        await tester.enterText(
-            find.byKey(ValueKey('password_oblr')), 'Rsaran@123');
-        await tester.tap(find.byKey(ValueKey('Button-Login_61ul')));
-        await tester.pumpAndSettle();
-        expect(find.byKey(ValueKey('Text_fwpd')), findsWidgets);
-        expect(find.byKey(ValueKey('Text_7avc')), findsWidgets);
-        expect(find.byKey(ValueKey('Text_hm7f')), findsWidgets);
-        expect(find.byKey(ValueKey('Text_mifi')), findsWidgets);
-        await tester.pumpAndSettle();
-      });
-
-      testWidgets('View All doc from click form dashboard',
-          (WidgetTester tester) async {
-        _overrideOnError();
-
-        await tester.pumpWidget(MultiProvider(
-          providers: [
-            ChangeNotifierProvider(
-              create: (context) => FFAppState(),
-            ),
-          ],
-          child: MyApp(
-            entryPage: LoginPageWidget(),
-          ),
-        ));
-
-        await tester.pumpAndSettle();
-        await tester.enterText(
-            find.byKey(ValueKey('emailAddress_na8l')), 'saranrath33@gmail.com');
-        await tester.enterText(
-            find.byKey(ValueKey('password_oblr')), 'Rsaran@123');
-        await tester.tap(find.byKey(ValueKey('Button-Login_61ul')));
-        await tester.pumpAndSettle();
-        expect(find.byKey(ValueKey('Text_fwpd')), findsWidgets);
-        await tester.pumpAndSettle();
-        await tester.tap(find.byKey(ValueKey('Row_vh2c')));
-        await tester.pumpAndSettle(Duration(milliseconds: 10000));
-        expect(find.byKey(ValueKey('TabAll_fayl')), findsWidgets);
-        await tester.pumpAndSettle();
-      });
-    });
+    group('Home page', () {});
 
     testWidgets('loginpage verify', (WidgetTester tester) async {
       _overrideOnError();
@@ -144,6 +86,64 @@ void main() async {
       expect(find.byKey(ValueKey('emailAddress_na8l')), findsOneWidget);
       expect(find.byKey(ValueKey('password_oblr')), findsOneWidget);
       expect(find.byKey(ValueKey('Button-Login_61ul')), findsOneWidget);
+      await tester.pumpAndSettle();
+    });
+
+    testWidgets('Validate home page', (WidgetTester tester) async {
+      _overrideOnError();
+
+      await tester.pumpWidget(MultiProvider(
+        providers: [
+          ChangeNotifierProvider(
+            create: (context) => FFAppState(),
+          ),
+        ],
+        child: MyApp(
+          entryPage: LoginPageWidget(),
+        ),
+      ));
+
+      await tester.pumpAndSettle();
+      await tester.enterText(
+          find.byKey(ValueKey('emailAddress_na8l')), 'saranrath33@gmail.com');
+      await tester.enterText(
+          find.byKey(ValueKey('password_oblr')), 'Rsaran@123');
+      await tester.tap(find.byKey(ValueKey('Button-Login_61ul')));
+      await tester.pumpAndSettle();
+      expect(find.byKey(ValueKey('Text_fwpd')), findsWidgets);
+      expect(find.byKey(ValueKey('Text_7avc')), findsWidgets);
+      expect(find.byKey(ValueKey('Text_hm7f')), findsWidgets);
+      expect(find.byKey(ValueKey('Text_mifi')), findsWidgets);
+      await tester.pumpAndSettle();
+    });
+
+    testWidgets('View All doc from click form dashboard',
+        (WidgetTester tester) async {
+      _overrideOnError();
+
+      await tester.pumpWidget(MultiProvider(
+        providers: [
+          ChangeNotifierProvider(
+            create: (context) => FFAppState(),
+          ),
+        ],
+        child: MyApp(
+          entryPage: LoginPageWidget(),
+        ),
+      ));
+
+      await tester.pumpAndSettle();
+      await tester.enterText(
+          find.byKey(ValueKey('emailAddress_na8l')), 'saranrath33@gmail.com');
+      await tester.enterText(
+          find.byKey(ValueKey('password_oblr')), 'Rsaran@123');
+      await tester.tap(find.byKey(ValueKey('Button-Login_61ul')));
+      await tester.pumpAndSettle();
+      expect(find.byKey(ValueKey('Text_fwpd')), findsWidgets);
+      await tester.pumpAndSettle();
+      await tester.tap(find.byKey(ValueKey('Row_vh2c')));
+      await tester.pumpAndSettle(Duration(milliseconds: 10000));
+      expect(find.byKey(ValueKey('TabAll_fayl')), findsWidgets);
       await tester.pumpAndSettle();
     });
 
