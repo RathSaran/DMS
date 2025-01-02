@@ -121,7 +121,7 @@ void main() async {
         await tester.pumpAndSettle();
         expect(find.byKey(ValueKey('Text_fwpd')), findsWidgets);
         await tester.pumpAndSettle();
-        await tester.tap(find.byKey(ValueKey('Column_xgfb')));
+        await tester.tap(find.byKey(ValueKey('Row_vh2c')));
         await tester.pumpAndSettle(Duration(milliseconds: 10000));
         expect(find.byKey(ValueKey('TabAll_fayl')), findsWidgets);
         await tester.pumpAndSettle();

@@ -377,6 +377,8 @@ class _HomePageWidgetState extends State<HomePageWidget>
                                                                 );
                                                               },
                                                               child: Row(
+                                                                key: ValueKey(
+                                                                    'Row_vh2c'),
                                                                 mainAxisSize:
                                                                     MainAxisSize
                                                                         .max,
