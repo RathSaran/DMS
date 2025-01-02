@@ -68,6 +68,66 @@ void main() async {
   });
 
   group('Saran', () {
+    group('Home page', () {
+      testWidgets('Validate home page', (WidgetTester tester) async {
+        _overrideOnError();
+
+        await tester.pumpWidget(MultiProvider(
+          providers: [
+            ChangeNotifierProvider(
+              create: (context) => FFAppState(),
+            ),
+          ],
+          child: MyApp(
+            entryPage: LoginPageWidget(),
+          ),
+        ));
+
+        await tester.pumpAndSettle();
+        await tester.enterText(
+            find.byKey(ValueKey('emailAddress_na8l')), 'saranrath33@gmail.com');
+        await tester.enterText(
+            find.byKey(ValueKey('password_oblr')), 'Rsaran@123');
+        await tester.tap(find.byKey(ValueKey('Button-Login_61ul')));
+        await tester.pumpAndSettle();
+        expect(find.byKey(ValueKey('Text_fwpd')), findsWidgets);
+        expect(find.byKey(ValueKey('Text_7avc')), findsWidgets);
+        expect(find.byKey(ValueKey('Text_hm7f')), findsWidgets);
+        expect(find.byKey(ValueKey('Text_mifi')), findsWidgets);
+        await tester.pumpAndSettle();
+      });
+
+      testWidgets('View All doc from click form dashboard',
+          (WidgetTester tester) async {
+        _overrideOnError();
+
+        await tester.pumpWidget(MultiProvider(
+          providers: [
+            ChangeNotifierProvider(
+              create: (context) => FFAppState(),
+            ),
+          ],
+          child: MyApp(
+            entryPage: LoginPageWidget(),
+          ),
+        ));
+
+        await tester.pumpAndSettle();
+        await tester.enterText(
+            find.byKey(ValueKey('emailAddress_na8l')), 'saranrath33@gmail.com');
+        await tester.enterText(
+            find.byKey(ValueKey('password_oblr')), 'Rsaran@123');
+        await tester.tap(find.byKey(ValueKey('Button-Login_61ul')));
+        await tester.pumpAndSettle();
+        expect(find.byKey(ValueKey('Text_fwpd')), findsWidgets);
+        await tester.pumpAndSettle();
+        await tester.tap(find.byKey(ValueKey('Column_xgfb')));
+        await tester.pumpAndSettle(Duration(milliseconds: 10000));
+        expect(find.byKey(ValueKey('TabAll_fayl')), findsWidgets);
+        await tester.pumpAndSettle();
+      });
+    });
+
     testWidgets('loginpage verify', (WidgetTester tester) async {
       _overrideOnError();
 
@@ -110,7 +170,7 @@ void main() async {
       await tester.pumpAndSettle();
       await tester.tap(find.byKey(ValueKey('userProfile')));
       await tester.pumpAndSettle(Duration(milliseconds: 5000));
-      await tester.tap(find.text('Log Out'));
+      await tester.tap(find.text('Log out'));
       await tester.pumpAndSettle();
       expect(find.byKey(ValueKey('Text_rsdh')), findsOneWidget);
       await tester.pumpAndSettle();

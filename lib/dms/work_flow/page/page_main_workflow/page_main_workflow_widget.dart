@@ -811,6 +811,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                     ),
                                                   ),
                                                   Tab(
+                                                    key:
+                                                        ValueKey('TabAll_fayl'),
                                                     text: FFLocalizations.of(
                                                             context)
                                                         .getText(

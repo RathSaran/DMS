@@ -427,6 +427,8 @@ class _HomePageWidgetState extends State<HomePageWidget>
                                                                             0.0),
                                                                         child:
                                                                             AutoSizeText(
+                                                                          key: ValueKey(
+                                                                              'Text_fwpd'),
                                                                           FFLocalizations.of(context)
                                                                               .getText(
                                                                             'ksn08pdc' /* All */,
@@ -679,6 +681,8 @@ class _HomePageWidgetState extends State<HomePageWidget>
                                                                             0.0),
                                                                         child:
                                                                             AutoSizeText(
+                                                                          key: ValueKey(
+                                                                              'Text_7avc'),
                                                                           FFLocalizations.of(context)
                                                                               .getText(
                                                                             'sigebxd9' /* Inbox */,
@@ -925,6 +929,8 @@ class _HomePageWidgetState extends State<HomePageWidget>
                                                                             0.0),
                                                                         child:
                                                                             AutoSizeText(
+                                                                          key: ValueKey(
+                                                                              'Text_hm7f'),
                                                                           FFLocalizations.of(context)
                                                                               .getText(
                                                                             'jbfvv4eq' /* Send out */,
@@ -1171,6 +1177,8 @@ class _HomePageWidgetState extends State<HomePageWidget>
                                                                             0.0),
                                                                         child:
                                                                             AutoSizeText(
+                                                                          key: ValueKey(
+                                                                              'Text_mifi'),
                                                                           FFLocalizations.of(context)
                                                                               .getText(
                                                                             'ago09cox' /* Favorite */,
