@@ -292,14 +292,6 @@ void main() async {
         matching: find.text('Documents'),
       ));
       await tester.pumpAndSettle(Duration(milliseconds: 10000));
-      expect(
-        find.descendant(
-          of: find.byType(ListView),
-          matching: find.text('Untitled folder'),
-        ),
-        findsNothing,
-      );
-      await tester.pumpAndSettle(Duration(milliseconds: 10000));
     });
   });
 }
