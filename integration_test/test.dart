@@ -284,12 +284,33 @@ void main() async {
       await tester.tap(find.text('Delete'));
       await tester.pumpAndSettle();
       await tester.tap(find.text('Delete'));
-      await tester.pumpAndSettle(Duration(milliseconds: 10000));
+      await tester.pumpAndSettle(Duration(milliseconds: 15000));
       await tester.tap(find.descendant(
         of: find.byKey(ValueKey('sidebar_5ytp')),
         matching: find.text('Documents'),
       ));
-      await tester.pumpAndSettle(Duration(milliseconds: 10000));
+      await tester.pumpAndSettle(Duration(milliseconds: 20000));
+    });
+  });
+
+  group('Demo', () {
+    testWidgets('Verify login form', (WidgetTester tester) async {
+      _overrideOnError();
+
+      await tester.pumpWidget(MultiProvider(
+        providers: [
+          ChangeNotifierProvider(
+            create: (context) => FFAppState(),
+          ),
+        ],
+        child: MyApp(
+          entryPage: LoginPageWidget(),
+        ),
+      ));
+
+      expect(find.byKey(ValueKey('Text_rsdh')), findsOneWidget);
+      expect(find.byKey(ValueKey('Button-Login_61ul')), findsOneWidget);
+      expect(find.byKey(ValueKey('emailAddress_na8l')), findsOneWidget);
     });
   });
 }

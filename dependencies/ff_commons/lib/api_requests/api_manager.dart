@@ -11,7 +11,7 @@ import 'package:equatable/equatable.dart';
 import 'package:http_parser/http_parser.dart';
 import 'package:mime_type/mime_type.dart';
 
-import 'package:d_m_s_s_y_s_t_e_m_automate_test/flutter_flow/uploaded_file.dart';
+import 'package:ff_commons/flutter_flow/uploaded_file.dart';
 
 import 'get_streamed_response.dart';
 enum ApiCallType {
