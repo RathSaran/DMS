@@ -308,9 +308,36 @@ void main() async {
         ),
       ));
 
+      await tester.pumpAndSettle();
       expect(find.byKey(ValueKey('Text_rsdh')), findsOneWidget);
       expect(find.byKey(ValueKey('Button-Login_61ul')), findsOneWidget);
       expect(find.byKey(ValueKey('emailAddress_na8l')), findsOneWidget);
+      await tester.pumpAndSettle();
+    });
+
+    testWidgets('loging', (WidgetTester tester) async {
+      _overrideOnError();
+
+      await tester.pumpWidget(MultiProvider(
+        providers: [
+          ChangeNotifierProvider(
+            create: (context) => FFAppState(),
+          ),
+        ],
+        child: MyApp(
+          entryPage: LoginPageWidget(),
+        ),
+      ));
+
+      await tester.pumpAndSettle();
+      await tester.enterText(
+          find.byKey(ValueKey('emailAddress_na8l')), 'saranrath33@gmail.com');
+      await tester.enterText(
+          find.byKey(ValueKey('password_oblr')), 'Rsaran@123');
+      await tester.pumpAndSettle();
+      await tester.tap(find.byKey(ValueKey('Button-Login_61ul')));
+      await tester.pumpAndSettle();
+      expect(find.byKey(ValueKey('PageHeader_vepg')), findsWidgets);
     });
   });
 }
