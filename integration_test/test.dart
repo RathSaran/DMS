@@ -340,6 +340,29 @@ void main() async {
       expect(find.byKey(ValueKey('PageHeader_vepg')), findsWidgets);
     });
   });
+
+  group('Chantha', () {
+    testWidgets('LoginPageVerifiy', (WidgetTester tester) async {
+      _overrideOnError();
+
+      await tester.pumpWidget(MultiProvider(
+        providers: [
+          ChangeNotifierProvider(
+            create: (context) => FFAppState(),
+          ),
+        ],
+        child: MyApp(
+          entryPage: LoginPageWidget(),
+        ),
+      ));
+
+      await tester.pumpAndSettle();
+      expect(find.byKey(ValueKey('emailAddress_na8l')), findsOneWidget);
+      expect(find.byKey(ValueKey('password_oblr')), findsOneWidget);
+      expect(find.byKey(ValueKey('Button-Login_61ul')), findsOneWidget);
+      await tester.pumpAndSettle();
+    });
+  });
 }
 
 // There are certain types of errors that can happen during tests but

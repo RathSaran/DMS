@@ -258,7 +258,7 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       fontSize: 16.0,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w600,
@@ -355,8 +355,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                   context)
                                                               .titleSmall
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .info,
@@ -420,8 +420,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                   context)
                                                               .titleSmall
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primaryText,
@@ -534,8 +534,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                     context)
                                                                 .titleSmall
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .info,
@@ -881,8 +881,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                       .of(context)
                                                                   .headlineSmall
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Outfit',
+                                                                    font: GoogleFonts
+                                                                        .outfit(),
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .primaryText,
@@ -919,8 +919,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                   .of(context)
                                                               .bodySmall
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .secondaryText,
@@ -1072,7 +1072,7 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                               'xsuglobf' /* Gender */,
                                                                             ),
                                                                             style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                  fontFamily: 'Plus Jakarta Sans',
+                                                                                  font: GoogleFonts.plusJakartaSans(),
                                                                                   letterSpacing: 0.0,
                                                                                 ),
                                                                           ),
@@ -1089,7 +1089,7 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodyMedium
                                                                             .override(
-                                                                              fontFamily: 'Plus Jakarta Sans',
+                                                                              font: GoogleFonts.plusJakartaSans(),
                                                                               letterSpacing: 0.0,
                                                                             ),
                                                                       ),
@@ -1134,8 +1134,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                             context)
                                                                         .bodyMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Plus Jakarta Sans',
+                                                                          font:
+                                                                              GoogleFonts.plusJakartaSans(),
                                                                           letterSpacing:
                                                                               0.0,
                                                                         ),
@@ -1446,8 +1446,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                         context)
                                                                     .titleSmall
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       color: Colors
                                                                           .white,
                                                                       letterSpacing:
@@ -1490,7 +1490,7 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       fontSize: 16.0,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w600,
@@ -1617,8 +1617,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                       .of(context)
                                                                   .bodySmall
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Plus Jakarta Sans',
+                                                                    font: GoogleFonts
+                                                                        .plusJakartaSans(),
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .secondaryText,
@@ -1739,7 +1739,7 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodyMedium
                                                                             .override(
-                                                                              fontFamily: 'Plus Jakarta Sans',
+                                                                              font: GoogleFonts.plusJakartaSans(),
                                                                               letterSpacing: 0.0,
                                                                             ),
                                                                       ),
@@ -1759,8 +1759,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                             context)
                                                                         .bodyMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Plus Jakarta Sans',
+                                                                          font:
+                                                                              GoogleFonts.plusJakartaSans(),
                                                                           letterSpacing:
                                                                               0.0,
                                                                         ),
@@ -1783,8 +1783,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                           context)
                                                                       .labelMedium
                                                                       .override(
-                                                                        fontFamily:
-                                                                            'Outfit',
+                                                                        font: GoogleFonts
+                                                                            .outfit(),
                                                                         letterSpacing:
                                                                             0.0,
                                                                       ),
@@ -1792,8 +1792,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                           context)
                                                                       .labelMedium
                                                                       .override(
-                                                                        fontFamily:
-                                                                            'Outfit',
+                                                                        font: GoogleFonts
+                                                                            .outfit(),
                                                                         letterSpacing:
                                                                             0.0,
                                                                       ),
@@ -1866,8 +1866,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       letterSpacing:
                                                                           0.0,
                                                                     ),
@@ -1981,8 +1981,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                         context)
                                                                     .titleSmall
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       color: FlutterFlowTheme.of(
                                                                               context)
                                                                           .info,
@@ -2169,7 +2169,7 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       fontSize: 16.0,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w600,
@@ -2283,8 +2283,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .primaryText,
@@ -2308,8 +2308,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primaryText,
@@ -2585,8 +2585,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .primaryText,
@@ -2610,8 +2610,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -2725,8 +2725,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primaryText,
@@ -2756,8 +2756,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -2872,8 +2872,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primaryText,
@@ -2903,8 +2903,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3019,8 +3019,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primaryText,
@@ -3050,8 +3050,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3167,8 +3167,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primaryText,
@@ -3198,8 +3198,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3258,7 +3258,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 fontSize: 18.0,
                                                 letterSpacing: 0.0,
                                                 fontWeight: FontWeight.w600,
@@ -3355,8 +3356,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3467,8 +3468,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                     context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .primaryText,
@@ -3499,8 +3500,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -3562,7 +3563,7 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       fontSize: 16.0,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w600,
@@ -3613,7 +3614,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                           style: FlutterFlowTheme.of(context)
                                               .bodySmall
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .secondaryText,
@@ -3697,23 +3699,24 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                 FlutterFlowTheme.of(context)
                                                     .labelMedium
                                                     .override(
-                                                      fontFamily: 'Outfit',
+                                                      font:
+                                                          GoogleFonts.outfit(),
                                                       letterSpacing: 0.0,
                                                     ),
                                             searchTextStyle:
                                                 FlutterFlowTheme.of(context)
                                                     .bodyMedium
                                                     .override(
-                                                      fontFamily:
-                                                          'Plus Jakarta Sans',
+                                                      font: GoogleFonts
+                                                          .plusJakartaSans(),
                                                       letterSpacing: 0.0,
                                                     ),
                                             textStyle:
                                                 FlutterFlowTheme.of(context)
                                                     .bodyMedium
                                                     .override(
-                                                      fontFamily:
-                                                          'Plus Jakarta Sans',
+                                                      font: GoogleFonts
+                                                          .plusJakartaSans(),
                                                       letterSpacing: 0.0,
                                                     ),
                                             hintText:
@@ -3800,7 +3803,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 letterSpacing: 0.0,
                                               ),
                                         ),
@@ -3821,7 +3825,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                         textStyle: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               letterSpacing: 0.0,
                                             ),
                                         hideFlags: true,
@@ -3865,18 +3870,18 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                     .getText(
                                                   'fp8n9i9c' /* Update the theme of your appli... */,
                                                 ),
-                                                style:
-                                                    FlutterFlowTheme.of(context)
-                                                        .labelLarge
-                                                        .override(
-                                                          fontFamily: 'Outfit',
-                                                          color:
-                                                              Color(0xFF606A85),
-                                                          fontSize: 14.0,
-                                                          letterSpacing: 0.0,
-                                                          fontWeight:
-                                                              FontWeight.normal,
-                                                        ),
+                                                style: FlutterFlowTheme.of(
+                                                        context)
+                                                    .labelLarge
+                                                    .override(
+                                                      font:
+                                                          GoogleFonts.outfit(),
+                                                      color: Color(0xFF606A85),
+                                                      fontSize: 14.0,
+                                                      letterSpacing: 0.0,
+                                                      fontWeight:
+                                                          FontWeight.normal,
+                                                    ),
                                               ),
                                             ),
                                             Padding(
@@ -4001,7 +4006,7 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                                   'fvcjnb2m' /* Dark Mode */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).titleLarge.override(
-                                                                                      fontFamily: 'Outfit',
+                                                                                      font: GoogleFonts.outfit(),
                                                                                       color: Colors.white,
                                                                                       fontSize: 16.0,
                                                                                       letterSpacing: 0.0,
@@ -4223,7 +4228,7 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                                                   'g818gi73' /* Light Mode */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).titleLarge.override(
-                                                                                      fontFamily: 'Outfit',
+                                                                                      font: GoogleFonts.outfit(),
                                                                                       color: Color(0xFF1B1D27),
                                                                                       fontSize: 16.0,
                                                                                       letterSpacing: 0.0,
@@ -4361,7 +4366,7 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       fontSize: 16.0,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w600,
@@ -4451,8 +4456,8 @@ class _AccountSettingPageWidgetState extends State<AccountSettingPageWidget>
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        fontFamily:
-                                                            'Plus Jakarta Sans',
+                                                        font: GoogleFonts
+                                                            .plusJakartaSans(),
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)

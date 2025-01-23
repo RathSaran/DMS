@@ -95,7 +95,7 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                     'its7mru4' /* Customers */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        fontFamily: 'Outfit',
+                        font: GoogleFonts.outfit(),
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -382,8 +382,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w500,
@@ -486,8 +486,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w500,
@@ -590,8 +590,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w500,
@@ -780,8 +780,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -865,8 +865,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                                       context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Plus Jakarta Sans',
+                                                                    font: GoogleFonts
+                                                                        .plusJakartaSans(),
                                                                     letterSpacing:
                                                                         0.0,
                                                                   ),
@@ -960,8 +960,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1011,8 +1011,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1096,8 +1096,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1147,8 +1147,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1241,8 +1241,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1294,8 +1294,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1522,7 +1522,8 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                                           context)
                                                       .labelLarge
                                                       .override(
-                                                        fontFamily: 'Outfit',
+                                                        font: GoogleFonts
+                                                            .outfit(),
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -1651,7 +1652,7 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         color: FlutterFlowTheme.of(context)
                                             .primaryText,
                                         letterSpacing: 0.0,
@@ -1758,7 +1759,7 @@ class _PageWorkflowProcessWidgetState extends State<PageWorkflowProcessWidget> {
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         color:
                                             FlutterFlowTheme.of(context).info,
                                         fontSize: 16.0,

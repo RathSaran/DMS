@@ -87,7 +87,7 @@ class _ComponentCreateFolderWidgetState
                         '0kvy6bb3' /* Create Folder */,
                       ),
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                            fontFamily: 'Plus Jakarta Sans',
+                            font: GoogleFonts.plusJakartaSans(),
                             fontSize: 16.0,
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.w600,
@@ -103,7 +103,7 @@ class _ComponentCreateFolderWidgetState
                     )
                   ],
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         fontSize: 16.0,
                         letterSpacing: 0.0,
                         fontWeight: FontWeight.w600,
@@ -125,13 +125,13 @@ class _ComponentCreateFolderWidgetState
                     isDense: true,
                     labelStyle:
                         FlutterFlowTheme.of(context).labelMedium.override(
-                              fontFamily: 'Outfit',
+                              font: GoogleFonts.outfit(),
                               letterSpacing: 0.0,
                               fontWeight: FontWeight.normal,
                             ),
                     hintStyle:
                         FlutterFlowTheme.of(context).labelMedium.override(
-                              fontFamily: 'Outfit',
+                              font: GoogleFonts.outfit(),
                               fontSize: 16.0,
                               letterSpacing: 0.0,
                               fontWeight: FontWeight.normal,
@@ -169,7 +169,7 @@ class _ComponentCreateFolderWidgetState
                     contentPadding: EdgeInsets.all(16.0),
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         letterSpacing: 0.0,
                       ),
                   cursorColor: FlutterFlowTheme.of(context).primaryText,
@@ -186,7 +186,7 @@ class _ComponentCreateFolderWidgetState
                 ),
                 textAlign: TextAlign.start,
                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                      fontFamily: 'Plus Jakarta Sans',
+                      font: GoogleFonts.plusJakartaSans(),
                       fontSize: 16.0,
                       letterSpacing: 0.0,
                       fontWeight: FontWeight.w600,
@@ -1099,7 +1099,7 @@ class _ComponentCreateFolderWidgetState
                         EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
                     color: FlutterFlowTheme.of(context).lineColor,
                     textStyle: FlutterFlowTheme.of(context).titleSmall.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           color: FlutterFlowTheme.of(context).primaryText,
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
@@ -1183,7 +1183,7 @@ class _ComponentCreateFolderWidgetState
                         EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
                     color: FlutterFlowTheme.of(context).primary,
                     textStyle: FlutterFlowTheme.of(context).titleSmall.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           color: FlutterFlowTheme.of(context).info,
                           fontSize: 16.0,
                           letterSpacing: 0.0,

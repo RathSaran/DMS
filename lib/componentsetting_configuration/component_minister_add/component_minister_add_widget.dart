@@ -95,7 +95,7 @@ class _ComponentMinisterAddWidgetState
                         'zh7djel4' /* Add Minister */,
                       ),
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                            fontFamily: 'Plus Jakarta Sans',
+                            font: GoogleFonts.plusJakartaSans(),
                             fontSize: 17.0,
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.w600,
@@ -160,7 +160,8 @@ class _ComponentMinisterAddWidgetState
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               color: Color(0xFFFF0000),
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.bold,
@@ -179,7 +180,7 @@ class _ComponentMinisterAddWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           fontSize: 16.0,
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w600,
@@ -207,7 +208,7 @@ class _ComponentMinisterAddWidgetState
                                         labelStyle: FlutterFlowTheme.of(context)
                                             .labelMedium
                                             .override(
-                                              fontFamily: 'Outfit',
+                                              font: GoogleFonts.outfit(),
                                               fontSize: 16.0,
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.w600,
@@ -215,7 +216,7 @@ class _ComponentMinisterAddWidgetState
                                         hintStyle: FlutterFlowTheme.of(context)
                                             .labelMedium
                                             .override(
-                                              fontFamily: 'Outfit',
+                                              font: GoogleFonts.outfit(),
                                               letterSpacing: 0.0,
                                             ),
                                         enabledBorder: OutlineInputBorder(
@@ -261,7 +262,7 @@ class _ComponentMinisterAddWidgetState
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Plus Jakarta Sans',
+                                            font: GoogleFonts.plusJakartaSans(),
                                             fontSize: 16.0,
                                             letterSpacing: 0.0,
                                             fontWeight: FontWeight.w600,
@@ -296,7 +297,8 @@ class _ComponentMinisterAddWidgetState
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               color: Color(0xFFFF0000),
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.bold,
@@ -315,7 +317,7 @@ class _ComponentMinisterAddWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           fontSize: 16.0,
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w600,
@@ -343,7 +345,7 @@ class _ComponentMinisterAddWidgetState
                                         labelStyle: FlutterFlowTheme.of(context)
                                             .labelMedium
                                             .override(
-                                              fontFamily: 'Outfit',
+                                              font: GoogleFonts.outfit(),
                                               fontSize: 16.0,
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.w600,
@@ -351,7 +353,7 @@ class _ComponentMinisterAddWidgetState
                                         hintStyle: FlutterFlowTheme.of(context)
                                             .labelMedium
                                             .override(
-                                              fontFamily: 'Outfit',
+                                              font: GoogleFonts.outfit(),
                                               fontSize: 16.0,
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.w600,
@@ -399,7 +401,7 @@ class _ComponentMinisterAddWidgetState
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Plus Jakarta Sans',
+                                            font: GoogleFonts.plusJakartaSans(),
                                             fontSize: 16.0,
                                             letterSpacing: 0.0,
                                             fontWeight: FontWeight.w600,
@@ -434,7 +436,8 @@ class _ComponentMinisterAddWidgetState
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               color: Color(0xFFFF0000),
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.bold,
@@ -453,7 +456,7 @@ class _ComponentMinisterAddWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           fontSize: 16.0,
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w600,
@@ -505,8 +508,8 @@ class _ComponentMinisterAddWidgetState
                                                               context)
                                                           .headlineLarge
                                                           .override(
-                                                            fontFamily:
-                                                                'Outfit',
+                                                            font: GoogleFonts
+                                                                .outfit(),
                                                             fontSize: 32.0,
                                                             letterSpacing: 0.0,
                                                             fontWeight:
@@ -561,8 +564,8 @@ class _ComponentMinisterAddWidgetState
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  fontFamily:
-                                                      'Plus Jakarta Sans',
+                                                  font: GoogleFonts
+                                                      .plusJakartaSans(),
                                                   fontSize: 16.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.w600,
@@ -596,7 +599,8 @@ class _ComponentMinisterAddWidgetState
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               color: Color(0xFFFF0000),
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.bold,
@@ -615,7 +619,7 @@ class _ComponentMinisterAddWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           fontSize: 16.0,
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w600,
@@ -694,7 +698,8 @@ class _ComponentMinisterAddWidgetState
                                         textStyle: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               fontSize: 16.0,
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.w600,
@@ -762,7 +767,7 @@ class _ComponentMinisterAddWidgetState
                           color: FlutterFlowTheme.of(context).alternate,
                           textStyle:
                               FlutterFlowTheme.of(context).titleSmall.override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     color: FlutterFlowTheme.of(context).primary,
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.bold,
@@ -815,7 +820,7 @@ class _ComponentMinisterAddWidgetState
                           color: FlutterFlowTheme.of(context).primary,
                           textStyle:
                               FlutterFlowTheme.of(context).titleSmall.override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     color: Colors.white,
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.bold,

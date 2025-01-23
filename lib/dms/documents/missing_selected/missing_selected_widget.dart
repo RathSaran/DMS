@@ -89,7 +89,7 @@ class _MissingSelectedWidgetState extends State<MissingSelectedWidget> {
                   'Message',
                 ),
                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                      fontFamily: 'Plus Jakarta Sans',
+                      font: GoogleFonts.plusJakartaSans(),
                       letterSpacing: 0.0,
                     ),
               ),
@@ -110,7 +110,7 @@ class _MissingSelectedWidgetState extends State<MissingSelectedWidget> {
                         'ja22xhxi' /* No */,
                       ),
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                            fontFamily: 'Plus Jakarta Sans',
+                            font: GoogleFonts.plusJakartaSans(),
                             color: FlutterFlowTheme.of(context).removeStatus,
                             letterSpacing: 0.0,
                           ),
@@ -121,7 +121,7 @@ class _MissingSelectedWidgetState extends State<MissingSelectedWidget> {
                       'b38sjxzm' /* /  */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -132,7 +132,7 @@ class _MissingSelectedWidgetState extends State<MissingSelectedWidget> {
                         'cutg6blq' /* Yes */,
                       ),
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                            fontFamily: 'Plus Jakarta Sans',
+                            font: GoogleFonts.plusJakartaSans(),
                             color: FlutterFlowTheme.of(context).primary,
                             letterSpacing: 0.0,
                           ),

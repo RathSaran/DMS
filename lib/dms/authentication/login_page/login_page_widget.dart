@@ -345,7 +345,7 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                           borderRadius: 10.0,
                           textStyle:
                               FlutterFlowTheme.of(context).bodyMedium.override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     letterSpacing: 0.0,
                                   ),
                           hideFlags: true,
@@ -399,7 +399,7 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                         style: FlutterFlowTheme.of(context)
                                             .displaySmall
                                             .override(
-                                              fontFamily: 'Outfit',
+                                              font: GoogleFonts.outfit(),
                                               color:
                                                   FlutterFlowTheme.of(context)
                                                       .primaryText,
@@ -418,7 +418,7 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                         style: FlutterFlowTheme.of(context)
                                             .labelLarge
                                             .override(
-                                              fontFamily: 'Outfit',
+                                              font: GoogleFonts.outfit(),
                                               letterSpacing: 0.0,
                                             ),
                                       ).animateOnPageLoad(animationsMap[
@@ -458,8 +458,8 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -481,8 +481,8 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -503,14 +503,16 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                                             .of(context)
                                                         .labelMedium
                                                         .override(
-                                                          fontFamily: 'Outfit',
+                                                          font: GoogleFonts
+                                                              .outfit(),
                                                           letterSpacing: 0.0,
                                                         ),
                                                     hintStyle: FlutterFlowTheme
                                                             .of(context)
                                                         .labelMedium
                                                         .override(
-                                                          fontFamily: 'Outfit',
+                                                          font: GoogleFonts
+                                                              .outfit(),
                                                           letterSpacing: 0.0,
                                                         ),
                                                     enabledBorder:
@@ -576,8 +578,8 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        fontFamily:
-                                                            'Plus Jakarta Sans',
+                                                        font: GoogleFonts
+                                                            .plusJakartaSans(),
                                                         letterSpacing: 0.0,
                                                       ),
                                                   keyboardType: TextInputType
@@ -631,8 +633,8 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -654,8 +656,8 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -677,14 +679,16 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                                             .of(context)
                                                         .labelMedium
                                                         .override(
-                                                          fontFamily: 'Outfit',
+                                                          font: GoogleFonts
+                                                              .outfit(),
                                                           letterSpacing: 0.0,
                                                         ),
                                                     hintStyle: FlutterFlowTheme
                                                             .of(context)
                                                         .labelMedium
                                                         .override(
-                                                          fontFamily: 'Outfit',
+                                                          font: GoogleFonts
+                                                              .outfit(),
                                                           letterSpacing: 0.0,
                                                         ),
                                                     enabledBorder:
@@ -772,8 +776,8 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        fontFamily:
-                                                            'Plus Jakarta Sans',
+                                                        font: GoogleFonts
+                                                            .plusJakartaSans(),
                                                         letterSpacing: 0.0,
                                                       ),
                                                   cursorColor:
@@ -831,8 +835,8 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        fontFamily:
-                                                            'Plus Jakarta Sans',
+                                                        font: GoogleFonts
+                                                            .plusJakartaSans(),
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -915,8 +919,8 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                                       context)
                                                   .titleSmall
                                                   .override(
-                                                    fontFamily:
-                                                        'Plus Jakarta Sans',
+                                                    font: GoogleFonts
+                                                        .plusJakartaSans(),
                                                     color: FlutterFlowTheme.of(
                                                             context)
                                                         .info,
@@ -955,7 +959,7 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                             style: FlutterFlowTheme.of(context)
                                                 .labelMedium
                                                 .override(
-                                                  fontFamily: 'Outfit',
+                                                  font: GoogleFonts.outfit(),
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -1056,7 +1060,7 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                             style: FlutterFlowTheme.of(context)
                                                 .labelMedium
                                                 .override(
-                                                  fontFamily: 'Outfit',
+                                                  font: GoogleFonts.outfit(),
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -1095,8 +1099,8 @@ class _LoginPageWidgetState extends State<LoginPageWidget>
                                                       context)
                                                   .bodyMedium
                                                   .override(
-                                                    fontFamily:
-                                                        'Plus Jakarta Sans',
+                                                    font: GoogleFonts
+                                                        .plusJakartaSans(),
                                                     color: FlutterFlowTheme.of(
                                                             context)
                                                         .primary,

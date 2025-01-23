@@ -127,7 +127,7 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                     '0uxyhlq2' /* Customers */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        fontFamily: 'Outfit',
+                        font: GoogleFonts.outfit(),
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -361,8 +361,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                   fontWeight:
@@ -380,8 +380,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .secondaryText,
@@ -694,7 +694,7 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                   context)
                                               .labelMedium
                                               .override(
-                                                fontFamily: 'Outfit',
+                                                font: GoogleFonts.outfit(),
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .secondaryText,
@@ -709,7 +709,7 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                               FlutterFlowTheme.of(context)
                                                   .labelMedium
                                                   .override(
-                                                    fontFamily: 'Outfit',
+                                                    font: GoogleFonts.outfit(),
                                                     letterSpacing: 0.0,
                                                   ),
                                           enabledBorder: OutlineInputBorder(
@@ -759,7 +759,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               color:
                                                   FlutterFlowTheme.of(context)
                                                       .secondaryText,
@@ -915,8 +916,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                   context)
                                                               .titleSmall
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primaryText,
@@ -974,8 +975,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                   context)
                                                               .titleSmall
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .info,
@@ -1148,8 +1149,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        fontFamily:
-                                                                            'Plus Jakarta Sans',
+                                                                        font: GoogleFonts
+                                                                            .plusJakartaSans(),
                                                                         fontSize:
                                                                             12.0,
                                                                         letterSpacing:
@@ -1257,8 +1258,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                             context)
                                                                         .titleSmall
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Plus Jakarta Sans',
+                                                                          font:
+                                                                              GoogleFonts.plusJakartaSans(),
                                                                           color:
                                                                               FlutterFlowTheme.of(context).primaryText,
                                                                           letterSpacing:
@@ -1295,8 +1296,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                               context)
                                                                           .bodyLarge
                                                                           .override(
-                                                                            fontFamily:
-                                                                                'Plus Jakarta Sans',
+                                                                            font:
+                                                                                GoogleFonts.plusJakartaSans(),
                                                                             letterSpacing:
                                                                                 0.0,
                                                                           ),
@@ -1420,7 +1421,7 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                             color:
                                                                                 FlutterFlowTheme.of(context).primary,
                                                                             textStyle: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                  fontFamily: 'Plus Jakarta Sans',
+                                                                                  font: GoogleFonts.plusJakartaSans(),
                                                                                   color: FlutterFlowTheme.of(context).info,
                                                                                   fontSize: 16.0,
                                                                                   letterSpacing: 0.0,
@@ -1464,7 +1465,7 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                             color:
                                                                                 FlutterFlowTheme.of(context).primary,
                                                                             textStyle: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                  fontFamily: 'Plus Jakarta Sans',
+                                                                                  font: GoogleFonts.plusJakartaSans(),
                                                                                   color: FlutterFlowTheme.of(context).info,
                                                                                   fontSize: 16.0,
                                                                                   letterSpacing: 0.0,
@@ -1543,8 +1544,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                             context)
                                                                         .titleSmall
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Plus Jakarta Sans',
+                                                                          font:
+                                                                              GoogleFonts.plusJakartaSans(),
                                                                           color:
                                                                               Colors.white,
                                                                           letterSpacing:
@@ -1597,8 +1598,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                             context)
                                                                         .titleSmall
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Plus Jakarta Sans',
+                                                                          font:
+                                                                              GoogleFonts.plusJakartaSans(),
                                                                           color:
                                                                               FlutterFlowTheme.of(context).info,
                                                                           fontSize:
@@ -1711,8 +1712,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                               context)
                                                                           .titleSmall
                                                                           .override(
-                                                                            fontFamily:
-                                                                                'Plus Jakarta Sans',
+                                                                            font:
+                                                                                GoogleFonts.plusJakartaSans(),
                                                                             color:
                                                                                 FlutterFlowTheme.of(context).info,
                                                                             fontSize:
@@ -1796,8 +1797,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                             context)
                                                                         .titleSmall
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Plus Jakarta Sans',
+                                                                          font:
+                                                                              GoogleFonts.plusJakartaSans(),
                                                                           color:
                                                                               FlutterFlowTheme.of(context).info,
                                                                           fontSize:
@@ -1836,8 +1837,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                                               context)
                                                                           .bodyLarge
                                                                           .override(
-                                                                            fontFamily:
-                                                                                'Plus Jakarta Sans',
+                                                                            font:
+                                                                                GoogleFonts.plusJakartaSans(),
                                                                             color:
                                                                                 FlutterFlowTheme.of(context).tertiary,
                                                                             fontSize:
@@ -2037,8 +2038,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                               .of(context)
                                                           .bodyLarge
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -2129,8 +2130,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                               .of(context)
                                                           .bodyLarge
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -2202,8 +2203,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                               .of(context)
                                                           .bodyLarge
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -2275,8 +2276,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                               .of(context)
                                                           .bodyLarge
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -2347,8 +2348,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                               .of(context)
                                                           .bodyLarge
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -2419,8 +2420,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                               .of(context)
                                                           .bodyLarge
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -2491,8 +2492,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                               .of(context)
                                                           .bodyLarge
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -2563,8 +2564,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                               .of(context)
                                                           .bodyLarge
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -2755,8 +2756,8 @@ class _PgSignEditNotUseWidgetState extends State<PgSignEditNotUseWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          fontFamily:
-                                                              'Plus Jakarta Sans',
+                                                          font: GoogleFonts
+                                                              .plusJakartaSans(),
                                                           letterSpacing: 0.0,
                                                         ),
                                                   ),

@@ -97,7 +97,7 @@ class _CreateCommentWidgetState extends State<CreateCommentWidget> {
                     'l2jlnhye' /* Create Note */,
                   ),
                   style: FlutterFlowTheme.of(context).headlineSmall.override(
-                        fontFamily: 'Outfit',
+                        font: GoogleFonts.outfit(),
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -109,7 +109,7 @@ class _CreateCommentWidgetState extends State<CreateCommentWidget> {
                     'd6yfe8tj' /* Find members by searching belo... */,
                   ),
                   style: FlutterFlowTheme.of(context).labelMedium.override(
-                        fontFamily: 'Outfit',
+                        font: GoogleFonts.outfit(),
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -137,7 +137,7 @@ class _CreateCommentWidgetState extends State<CreateCommentWidget> {
                         ),
                         style:
                             FlutterFlowTheme.of(context).titleMedium.override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   letterSpacing: 0.0,
                                 ),
                       ),
@@ -157,7 +157,7 @@ class _CreateCommentWidgetState extends State<CreateCommentWidget> {
                     ),
                     hintStyle:
                         FlutterFlowTheme.of(context).labelMedium.override(
-                              fontFamily: 'Outfit',
+                              font: GoogleFonts.outfit(),
                               letterSpacing: 0.0,
                             ),
                     enabledBorder: OutlineInputBorder(
@@ -192,7 +192,7 @@ class _CreateCommentWidgetState extends State<CreateCommentWidget> {
                         EdgeInsetsDirectional.fromSTEB(20.0, 32.0, 20.0, 12.0),
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         letterSpacing: 0.0,
                       ),
                   textAlign: TextAlign.start,
@@ -229,7 +229,7 @@ class _CreateCommentWidgetState extends State<CreateCommentWidget> {
                         color: FlutterFlowTheme.of(context).primary,
                         textStyle:
                             FlutterFlowTheme.of(context).titleMedium.override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   color: Colors.white,
                                   letterSpacing: 0.0,
                                 ),

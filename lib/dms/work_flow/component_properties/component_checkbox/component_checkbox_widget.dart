@@ -132,7 +132,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                         'nhfue3h7' /* Checkbox */,
                       ),
                       style: FlutterFlowTheme.of(context).bodyLarge.override(
-                            fontFamily: 'Plus Jakarta Sans',
+                            font: GoogleFonts.plusJakartaSans(),
                             color: Colors.white,
                             letterSpacing: 0.0,
                           ),
@@ -191,7 +191,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.bold,
                                 ),
@@ -217,7 +217,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                             textStyle: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   fontSize: 14.0,
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.w500,
@@ -291,7 +291,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       color: FlutterFlowTheme.of(context)
                                           .primaryText,
                                       fontSize: 14.0,
@@ -340,7 +340,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       color: FlutterFlowTheme.of(context)
                                           .primaryText,
                                       fontSize: 14.0,
@@ -389,7 +389,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       color: FlutterFlowTheme.of(context)
                                           .primaryText,
                                       fontSize: 14.0,
@@ -417,7 +417,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.bold,
                                 ),
@@ -432,7 +432,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                               labelStyle: FlutterFlowTheme.of(context)
                                   .labelMedium
                                   .override(
-                                    fontFamily: 'Outfit',
+                                    font: GoogleFonts.outfit(),
                                     color: FlutterFlowTheme.of(context)
                                         .secondaryText,
                                     fontSize: 14.0,
@@ -444,7 +444,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                               hintStyle: FlutterFlowTheme.of(context)
                                   .labelMedium
                                   .override(
-                                    fontFamily: 'Outfit',
+                                    font: GoogleFonts.outfit(),
                                     letterSpacing: 0.0,
                                   ),
                               enabledBorder: OutlineInputBorder(
@@ -483,7 +483,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   color:
                                       FlutterFlowTheme.of(context).primaryText,
                                   letterSpacing: 0.0,
@@ -512,7 +512,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.bold,
                                 ),
@@ -528,7 +528,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                               labelStyle: FlutterFlowTheme.of(context)
                                   .labelMedium
                                   .override(
-                                    fontFamily: 'Outfit',
+                                    font: GoogleFonts.outfit(),
                                     color: FlutterFlowTheme.of(context)
                                         .secondaryText,
                                     fontSize: 14.0,
@@ -540,7 +540,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                               hintStyle: FlutterFlowTheme.of(context)
                                   .labelMedium
                                   .override(
-                                    fontFamily: 'Outfit',
+                                    font: GoogleFonts.outfit(),
                                     letterSpacing: 0.0,
                                   ),
                               enabledBorder: OutlineInputBorder(
@@ -579,7 +579,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   color:
                                       FlutterFlowTheme.of(context).primaryText,
                                   letterSpacing: 0.0,
@@ -609,7 +609,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.bold,
                                 ),
@@ -624,7 +624,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                               labelStyle: FlutterFlowTheme.of(context)
                                   .labelMedium
                                   .override(
-                                    fontFamily: 'Outfit',
+                                    font: GoogleFonts.outfit(),
                                     color: FlutterFlowTheme.of(context)
                                         .secondaryText,
                                     fontSize: 14.0,
@@ -636,7 +636,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                               hintStyle: FlutterFlowTheme.of(context)
                                   .labelMedium
                                   .override(
-                                    fontFamily: 'Outfit',
+                                    font: GoogleFonts.outfit(),
                                     letterSpacing: 0.0,
                                   ),
                               enabledBorder: OutlineInputBorder(
@@ -675,7 +675,7 @@ class _ComponentCheckboxWidgetState extends State<ComponentCheckboxWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   color:
                                       FlutterFlowTheme.of(context).primaryText,
                                   letterSpacing: 0.0,

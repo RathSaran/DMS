@@ -83,7 +83,7 @@ class _ComponentDeleteFolderWidgetState
                         ),
                         style:
                             FlutterFlowTheme.of(context).headlineSmall.override(
-                                  fontFamily: 'Outfit',
+                                  font: GoogleFonts.outfit(),
                                   fontSize: 16.0,
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.bold,
@@ -108,7 +108,7 @@ class _ComponentDeleteFolderWidgetState
                           style: FlutterFlowTheme.of(context)
                               .headlineSmall
                               .override(
-                                fontFamily: 'Outfit',
+                                font: GoogleFonts.outfit(),
                                 fontSize: 16.0,
                                 letterSpacing: 0.0,
                                 fontWeight: FontWeight.w500,
@@ -135,7 +135,7 @@ class _ComponentDeleteFolderWidgetState
                           style: FlutterFlowTheme.of(context)
                               .headlineSmall
                               .override(
-                                fontFamily: 'Outfit',
+                                font: GoogleFonts.outfit(),
                                 color: FlutterFlowTheme.of(context).primary,
                                 fontSize: 16.0,
                                 letterSpacing: 0.0,
@@ -175,7 +175,7 @@ class _ComponentDeleteFolderWidgetState
                           textStyle: FlutterFlowTheme.of(context)
                               .titleSmall
                               .override(
-                                fontFamily: 'Plus Jakarta Sans',
+                                font: GoogleFonts.plusJakartaSans(),
                                 color: FlutterFlowTheme.of(context).primaryText,
                                 letterSpacing: 0.0,
                                 fontWeight: FontWeight.w600,
@@ -221,7 +221,7 @@ class _ComponentDeleteFolderWidgetState
                           color: FlutterFlowTheme.of(context).primary,
                           textStyle:
                               FlutterFlowTheme.of(context).titleSmall.override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     color: FlutterFlowTheme.of(context).info,
                                     fontSize: 16.0,
                                     letterSpacing: 0.0,

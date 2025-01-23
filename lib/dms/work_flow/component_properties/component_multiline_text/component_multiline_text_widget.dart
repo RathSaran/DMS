@@ -103,7 +103,7 @@ class _ComponentMultilineTextWidgetState
                       '2h3xsvu8' /* Multiline Text */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyLarge.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           color: Colors.white,
                           letterSpacing: 0.0,
                         ),
@@ -179,7 +179,7 @@ class _ComponentMultilineTextWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.bold,
                                       ),
@@ -206,7 +206,7 @@ class _ComponentMultilineTextWidgetState
                                   textStyle: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         fontSize: 14.0,
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.w500,
@@ -255,7 +255,7 @@ class _ComponentMultilineTextWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.bold,
                                       ),
@@ -272,7 +272,7 @@ class _ComponentMultilineTextWidgetState
                                       labelStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             letterSpacing: 0.0,
                                           ),
                                       hintText:
@@ -282,7 +282,7 @@ class _ComponentMultilineTextWidgetState
                                       hintStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             letterSpacing: 0.0,
                                           ),
                                       enabledBorder: OutlineInputBorder(
@@ -329,7 +329,7 @@ class _ComponentMultilineTextWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                         ),
                                     cursorColor: FlutterFlowTheme.of(context)
@@ -351,7 +351,7 @@ class _ComponentMultilineTextWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.bold,
                                       ),
@@ -368,7 +368,7 @@ class _ComponentMultilineTextWidgetState
                                       labelStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             letterSpacing: 0.0,
                                           ),
                                       hintText:
@@ -378,7 +378,7 @@ class _ComponentMultilineTextWidgetState
                                       hintStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             letterSpacing: 0.0,
                                           ),
                                       enabledBorder: OutlineInputBorder(
@@ -425,7 +425,7 @@ class _ComponentMultilineTextWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                         ),
                                     cursorColor: FlutterFlowTheme.of(context)
@@ -447,7 +447,7 @@ class _ComponentMultilineTextWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.bold,
                                       ),
@@ -464,7 +464,7 @@ class _ComponentMultilineTextWidgetState
                                       labelStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             letterSpacing: 0.0,
                                           ),
                                       hintText:
@@ -474,7 +474,7 @@ class _ComponentMultilineTextWidgetState
                                       hintStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             letterSpacing: 0.0,
                                           ),
                                       enabledBorder: OutlineInputBorder(
@@ -521,7 +521,7 @@ class _ComponentMultilineTextWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                         ),
                                     cursorColor: FlutterFlowTheme.of(context)
@@ -543,7 +543,7 @@ class _ComponentMultilineTextWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.bold,
                                       ),
@@ -560,7 +560,7 @@ class _ComponentMultilineTextWidgetState
                                       labelStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             letterSpacing: 0.0,
                                           ),
                                       hintText:
@@ -570,7 +570,7 @@ class _ComponentMultilineTextWidgetState
                                       hintStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             letterSpacing: 0.0,
                                           ),
                                       enabledBorder: OutlineInputBorder(
@@ -617,7 +617,7 @@ class _ComponentMultilineTextWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                         ),
                                     cursorColor: FlutterFlowTheme.of(context)
@@ -659,7 +659,7 @@ class _ComponentMultilineTextWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.bold,
                                         ),
@@ -693,7 +693,7 @@ class _ComponentMultilineTextWidgetState
                                     textStyle: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w500,
                                         ),
@@ -755,7 +755,7 @@ class _ComponentMultilineTextWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.bold,
                                         ),
@@ -784,7 +784,7 @@ class _ComponentMultilineTextWidgetState
                                     textStyle: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w500,
                                         ),
@@ -854,7 +854,8 @@ class _ComponentMultilineTextWidgetState
                                         textStyle: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               letterSpacing: 0.0,
                                             ),
                                         hintText:
@@ -905,7 +906,8 @@ class _ComponentMultilineTextWidgetState
                                                   context)
                                               .titleSmall
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryText,
@@ -953,8 +955,8 @@ class _ComponentMultilineTextWidgetState
                                               FlutterFlowTheme.of(context)
                                                   .titleSmall
                                                   .override(
-                                                    fontFamily:
-                                                        'Plus Jakarta Sans',
+                                                    font: GoogleFonts
+                                                        .plusJakartaSans(),
                                                     color: Colors.white,
                                                     letterSpacing: 0.0,
                                                   ),
@@ -1032,8 +1034,8 @@ class _ComponentMultilineTextWidgetState
                                               FlutterFlowTheme.of(context)
                                                   .titleSmall
                                                   .override(
-                                                    fontFamily:
-                                                        'Plus Jakarta Sans',
+                                                    font: GoogleFonts
+                                                        .plusJakartaSans(),
                                                     color: Colors.white,
                                                     letterSpacing: 0.0,
                                                   ),
@@ -1077,7 +1079,7 @@ class _ComponentMultilineTextWidgetState
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.bold,
                                     ),
@@ -1124,7 +1126,8 @@ class _ComponentMultilineTextWidgetState
                                                   context)
                                               .titleSmall
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryText,
@@ -1170,7 +1173,8 @@ class _ComponentMultilineTextWidgetState
                                                   context)
                                               .titleSmall
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryText,
@@ -1216,7 +1220,8 @@ class _ComponentMultilineTextWidgetState
                                                   context)
                                               .titleSmall
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryText,
@@ -1290,7 +1295,7 @@ class _ComponentMultilineTextWidgetState
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w500,
                                     ),
@@ -1346,7 +1351,7 @@ class _ComponentMultilineTextWidgetState
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w500,
                                     ),
@@ -1400,7 +1405,7 @@ class _ComponentMultilineTextWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.w500,
                                   ),
@@ -1453,7 +1458,7 @@ class _ComponentMultilineTextWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.w500,
                                   ),
@@ -1472,7 +1477,7 @@ class _ComponentMultilineTextWidgetState
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.bold,
                                 ),
@@ -1489,7 +1494,7 @@ class _ComponentMultilineTextWidgetState
                                 labelStyle: FlutterFlowTheme.of(context)
                                     .labelMedium
                                     .override(
-                                      fontFamily: 'Outfit',
+                                      font: GoogleFonts.outfit(),
                                       letterSpacing: 0.0,
                                     ),
                                 hintText: FFLocalizations.of(context).getText(
@@ -1498,7 +1503,7 @@ class _ComponentMultilineTextWidgetState
                                 hintStyle: FlutterFlowTheme.of(context)
                                     .labelMedium
                                     .override(
-                                      fontFamily: 'Outfit',
+                                      font: GoogleFonts.outfit(),
                                       letterSpacing: 0.0,
                                     ),
                                 enabledBorder: OutlineInputBorder(
@@ -1538,7 +1543,7 @@ class _ComponentMultilineTextWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     letterSpacing: 0.0,
                                   ),
                               cursorColor:

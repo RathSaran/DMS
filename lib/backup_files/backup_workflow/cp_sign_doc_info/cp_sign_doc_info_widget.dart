@@ -340,8 +340,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                             context)
                                                                         .labelMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Outfit',
+                                                                          font:
+                                                                              GoogleFonts.outfit(),
                                                                           letterSpacing:
                                                                               0.0,
                                                                           fontWeight:
@@ -424,8 +424,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        fontFamily:
-                                                                            'Plus Jakarta Sans',
+                                                                        font: GoogleFonts
+                                                                            .plusJakartaSans(),
                                                                         color: FlutterFlowTheme.of(context)
                                                                             .primaryText,
                                                                         letterSpacing:
@@ -489,8 +489,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                             context)
                                                                         .labelMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Outfit',
+                                                                          font:
+                                                                              GoogleFonts.outfit(),
                                                                           letterSpacing:
                                                                               0.0,
                                                                           fontWeight:
@@ -501,8 +501,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                             context)
                                                                         .bodyMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Plus Jakarta Sans',
+                                                                          font:
+                                                                              GoogleFonts.plusJakartaSans(),
                                                                           letterSpacing:
                                                                               0.0,
                                                                         ),
@@ -510,8 +510,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       letterSpacing:
                                                                           0.0,
                                                                     ),
@@ -709,8 +709,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                             context)
                                                                         .labelMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Outfit',
+                                                                          font:
+                                                                              GoogleFonts.outfit(),
                                                                           letterSpacing:
                                                                               0.0,
                                                                           fontWeight:
@@ -793,8 +793,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        fontFamily:
-                                                                            'Plus Jakarta Sans',
+                                                                        font: GoogleFonts
+                                                                            .plusJakartaSans(),
                                                                         color: FlutterFlowTheme.of(context)
                                                                             .primaryText,
                                                                         letterSpacing:
@@ -858,8 +858,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                             context)
                                                                         .labelMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Outfit',
+                                                                          font:
+                                                                              GoogleFonts.outfit(),
                                                                           letterSpacing:
                                                                               0.0,
                                                                           fontWeight:
@@ -870,8 +870,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                             context)
                                                                         .bodyMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Plus Jakarta Sans',
+                                                                          font:
+                                                                              GoogleFonts.plusJakartaSans(),
                                                                           letterSpacing:
                                                                               0.0,
                                                                         ),
@@ -879,8 +879,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       letterSpacing:
                                                                           0.0,
                                                                     ),
@@ -1070,8 +1070,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                       context)
                                                                   .labelMedium
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Outfit',
+                                                                    font: GoogleFonts
+                                                                        .outfit(),
                                                                     letterSpacing:
                                                                         0.0,
                                                                     fontWeight:
@@ -1083,8 +1083,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                       context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Plus Jakarta Sans',
+                                                                    font: GoogleFonts
+                                                                        .plusJakartaSans(),
                                                                     letterSpacing:
                                                                         0.0,
                                                                   ),
@@ -1093,8 +1093,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                                       context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Plus Jakarta Sans',
+                                                                    font: GoogleFonts
+                                                                        .plusJakartaSans(),
                                                                     letterSpacing:
                                                                         0.0,
                                                                   ),
@@ -1276,29 +1276,32 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                               obscureText: false,
                                               decoration: InputDecoration(
                                                 isDense: true,
-                                                labelStyle:
-                                                    FlutterFlowTheme.of(context)
-                                                        .labelMedium
-                                                        .override(
-                                                          fontFamily: 'Outfit',
-                                                          color: FlutterFlowTheme
-                                                                  .of(context)
+                                                labelStyle: FlutterFlowTheme.of(
+                                                        context)
+                                                    .labelMedium
+                                                    .override(
+                                                      font:
+                                                          GoogleFonts.outfit(),
+                                                      color:
+                                                          FlutterFlowTheme.of(
+                                                                  context)
                                                               .secondaryText,
-                                                          fontSize: 14.0,
-                                                          letterSpacing: 0.0,
-                                                        ),
+                                                      fontSize: 14.0,
+                                                      letterSpacing: 0.0,
+                                                    ),
                                                 hintText:
                                                     FFLocalizations.of(context)
                                                         .getText(
                                                   '6j8psns7' /* Description of document */,
                                                 ),
-                                                hintStyle:
-                                                    FlutterFlowTheme.of(context)
-                                                        .labelMedium
-                                                        .override(
-                                                          fontFamily: 'Outfit',
-                                                          letterSpacing: 0.0,
-                                                        ),
+                                                hintStyle: FlutterFlowTheme.of(
+                                                        context)
+                                                    .labelMedium
+                                                    .override(
+                                                      font:
+                                                          GoogleFonts.outfit(),
+                                                      letterSpacing: 0.0,
+                                                    ),
                                                 enabledBorder:
                                                     OutlineInputBorder(
                                                   borderSide: BorderSide(
@@ -1355,8 +1358,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                                       context)
                                                   .bodyMedium
                                                   .override(
-                                                    fontFamily:
-                                                        'Plus Jakarta Sans',
+                                                    font: GoogleFonts
+                                                        .plusJakartaSans(),
                                                     color: FlutterFlowTheme.of(
                                                             context)
                                                         .secondaryText,
@@ -1392,7 +1395,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryText,
@@ -1412,7 +1416,8 @@ class _CpSignDocInfoWidgetState extends State<CpSignDocInfoWidget>
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primary,

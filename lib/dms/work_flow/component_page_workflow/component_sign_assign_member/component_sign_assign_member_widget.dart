@@ -149,7 +149,7 @@ class _ComponentSignAssignMemberWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .headlineSmall
                                       .override(
-                                        fontFamily: 'Outfit',
+                                        font: GoogleFonts.outfit(),
                                         letterSpacing: 0.0,
                                       ),
                                 ),
@@ -166,7 +166,7 @@ class _ComponentSignAssignMemberWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         color: FlutterFlowTheme.of(context)
                                             .secondaryText,
                                         letterSpacing: 0.0,
@@ -192,7 +192,7 @@ class _ComponentSignAssignMemberWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.w600,
                                   ),
@@ -241,8 +241,8 @@ class _ComponentSignAssignMemberWidgetState
                                                     FlutterFlowTheme.of(context)
                                                         .titleSmall
                                                         .override(
-                                                          fontFamily:
-                                                              'Plus Jakarta Sans',
+                                                          font: GoogleFonts
+                                                              .plusJakartaSans(),
                                                           letterSpacing: 0.0,
                                                         ),
                                               ),
@@ -322,8 +322,8 @@ class _ComponentSignAssignMemberWidgetState
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -377,8 +377,8 @@ class _ComponentSignAssignMemberWidgetState
                                                                             context)
                                                                         .bodyMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Plus Jakarta Sans',
+                                                                          font:
+                                                                              GoogleFonts.plusJakartaSans(),
                                                                           letterSpacing:
                                                                               0.0,
                                                                         ),
@@ -503,7 +503,7 @@ class _ComponentSignAssignMemberWidgetState
                                                                                         'Guest',
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            fontFamily: 'Plus Jakarta Sans',
+                                                                                            font: GoogleFonts.plusJakartaSans(),
                                                                                             letterSpacing: 0.0,
                                                                                             fontWeight: FontWeight.w600,
                                                                                           ),
@@ -524,7 +524,7 @@ class _ComponentSignAssignMemberWidgetState
                                                                                           'Guest',
                                                                                         ),
                                                                                         style: FlutterFlowTheme.of(context).bodySmall.override(
-                                                                                              fontFamily: 'Plus Jakarta Sans',
+                                                                                              font: GoogleFonts.plusJakartaSans(),
                                                                                               color: FlutterFlowTheme.of(context).primary,
                                                                                               letterSpacing: 0.0,
                                                                                             ),
@@ -608,8 +608,8 @@ class _ComponentSignAssignMemberWidgetState
                                                     FlutterFlowTheme.of(context)
                                                         .titleSmall
                                                         .override(
-                                                          fontFamily:
-                                                              'Plus Jakarta Sans',
+                                                          font: GoogleFonts
+                                                              .plusJakartaSans(),
                                                           letterSpacing: 0.0,
                                                         ),
                                               ),
@@ -677,7 +677,7 @@ class _ComponentSignAssignMemberWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .titleSmall
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w600,
                                         ),
@@ -708,7 +708,7 @@ class _ComponentSignAssignMemberWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.w600,
                                       ),
@@ -736,7 +736,7 @@ class _ComponentSignAssignMemberWidgetState
                                                   context)
                                               .labelMedium
                                               .override(
-                                                fontFamily: 'Outfit',
+                                                font: GoogleFonts.outfit(),
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .secondaryText,
@@ -747,7 +747,7 @@ class _ComponentSignAssignMemberWidgetState
                                               FlutterFlowTheme.of(context)
                                                   .labelMedium
                                                   .override(
-                                                    fontFamily: 'Outfit',
+                                                    font: GoogleFonts.outfit(),
                                                     letterSpacing: 0.0,
                                                   ),
                                           enabledBorder: OutlineInputBorder(
@@ -797,7 +797,8 @@ class _ComponentSignAssignMemberWidgetState
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               color:
                                                   FlutterFlowTheme.of(context)
                                                       .secondaryText,
@@ -854,7 +855,7 @@ class _ComponentSignAssignMemberWidgetState
                             textStyle: FlutterFlowTheme.of(context)
                                 .titleSmall
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   color:
                                       FlutterFlowTheme.of(context).primaryText,
                                   letterSpacing: 0.0,
@@ -885,7 +886,7 @@ class _ComponentSignAssignMemberWidgetState
                             textStyle: FlutterFlowTheme.of(context)
                                 .titleSmall
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   color: FlutterFlowTheme.of(context).info,
                                   fontSize: 16.0,
                                   letterSpacing: 0.0,

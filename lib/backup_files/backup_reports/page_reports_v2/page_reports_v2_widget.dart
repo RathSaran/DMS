@@ -99,7 +99,7 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                     '8s2a513k' /* Contracts */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        fontFamily: 'Outfit',
+                        font: GoogleFonts.outfit(),
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -215,7 +215,7 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                           style: FlutterFlowTheme.of(context)
                                               .displaySmall
                                               .override(
-                                                fontFamily: 'Outfit',
+                                                font: GoogleFonts.outfit(),
                                                 fontSize: 28.0,
                                                 letterSpacing: 0.0,
                                               ),
@@ -435,8 +435,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        fontFamily:
-                                                            'Plus Jakarta Sans',
+                                                        font: GoogleFonts
+                                                            .plusJakartaSans(),
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -507,8 +507,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          fontFamily:
-                                                              'Plus Jakarta Sans',
+                                                          font: GoogleFonts
+                                                              .plusJakartaSans(),
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -572,8 +572,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          fontFamily:
-                                                              'Plus Jakarta Sans',
+                                                          font: GoogleFonts
+                                                              .plusJakartaSans(),
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primaryText,
@@ -623,8 +623,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                               context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                   hintText: FFLocalizations.of(
@@ -707,7 +707,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               fontSize: 16.0,
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.w600,
@@ -724,7 +725,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               fontSize: 16.0,
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.w600,
@@ -832,8 +834,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              fontFamily:
-                                                                  'Plus Jakarta Sans',
+                                                              font: GoogleFonts
+                                                                  .plusJakartaSans(),
                                                               fontSize: 16.0,
                                                               letterSpacing:
                                                                   0.0,
@@ -868,8 +870,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:
@@ -920,8 +922,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              fontFamily:
-                                                                  'Plus Jakarta Sans',
+                                                              font: GoogleFonts
+                                                                  .plusJakartaSans(),
                                                               fontSize: 16.0,
                                                               letterSpacing:
                                                                   0.0,
@@ -956,8 +958,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:
@@ -1018,8 +1020,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1036,8 +1038,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1054,8 +1056,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1072,8 +1074,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1092,8 +1094,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1118,8 +1120,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Plus Jakarta Sans',
+                                                                    font: GoogleFonts
+                                                                        .plusJakartaSans(),
                                                                     letterSpacing:
                                                                         0.0,
                                                                   ),
@@ -1173,8 +1175,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1191,8 +1193,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1209,8 +1211,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1227,8 +1229,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1247,8 +1249,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1273,8 +1275,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Plus Jakarta Sans',
+                                                                    font: GoogleFonts
+                                                                        .plusJakartaSans(),
                                                                     letterSpacing:
                                                                         0.0,
                                                                   ),
@@ -1328,8 +1330,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1346,8 +1348,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1364,8 +1366,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1382,8 +1384,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1402,8 +1404,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1428,8 +1430,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Plus Jakarta Sans',
+                                                                    font: GoogleFonts
+                                                                        .plusJakartaSans(),
                                                                     letterSpacing:
                                                                         0.0,
                                                                   ),
@@ -1483,8 +1485,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1501,8 +1503,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1519,8 +1521,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1537,8 +1539,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1557,8 +1559,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1583,8 +1585,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Plus Jakarta Sans',
+                                                                    font: GoogleFonts
+                                                                        .plusJakartaSans(),
                                                                     letterSpacing:
                                                                         0.0,
                                                                   ),
@@ -1630,8 +1632,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              fontFamily:
-                                                                  'Plus Jakarta Sans',
+                                                              font: GoogleFonts
+                                                                  .plusJakartaSans(),
                                                               fontSize: 16.0,
                                                               letterSpacing:
                                                                   0.0,
@@ -1666,8 +1668,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:
@@ -1720,8 +1722,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              fontFamily:
-                                                                  'Plus Jakarta Sans',
+                                                              font: GoogleFonts
+                                                                  .plusJakartaSans(),
                                                               fontSize: 16.0,
                                                               letterSpacing:
                                                                   0.0,
@@ -1756,8 +1758,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:
@@ -1810,8 +1812,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              fontFamily:
-                                                                  'Plus Jakarta Sans',
+                                                              font: GoogleFonts
+                                                                  .plusJakartaSans(),
                                                               fontSize: 16.0,
                                                               letterSpacing:
                                                                   0.0,
@@ -1846,8 +1848,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:
@@ -1900,8 +1902,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              fontFamily:
-                                                                  'Plus Jakarta Sans',
+                                                              font: GoogleFonts
+                                                                  .plusJakartaSans(),
                                                               fontSize: 16.0,
                                                               letterSpacing:
                                                                   0.0,
@@ -1936,8 +1938,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:
@@ -1990,8 +1992,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              fontFamily:
-                                                                  'Plus Jakarta Sans',
+                                                              font: GoogleFonts
+                                                                  .plusJakartaSans(),
                                                               fontSize: 16.0,
                                                               letterSpacing:
                                                                   0.0,
@@ -2026,8 +2028,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:
@@ -2134,8 +2136,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              fontFamily:
-                                                                  'Plus Jakarta Sans',
+                                                              font: GoogleFonts
+                                                                  .plusJakartaSans(),
                                                               fontSize: 16.0,
                                                               letterSpacing:
                                                                   0.0,
@@ -2236,8 +2238,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              fontFamily:
-                                                                  'Plus Jakarta Sans',
+                                                              font: GoogleFonts
+                                                                  .plusJakartaSans(),
                                                               fontSize: 16.0,
                                                               letterSpacing:
                                                                   0.0,
@@ -2338,8 +2340,8 @@ class _PageReportsV2WidgetState extends State<PageReportsV2Widget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              fontFamily:
-                                                                  'Plus Jakarta Sans',
+                                                              font: GoogleFonts
+                                                                  .plusJakartaSans(),
                                                               fontSize: 16.0,
                                                               letterSpacing:
                                                                   0.0,

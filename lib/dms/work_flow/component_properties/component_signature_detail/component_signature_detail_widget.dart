@@ -139,12 +139,12 @@ class _ComponentSignatureDetailWidgetState
                 unselectedLabelColor:
                     FlutterFlowTheme.of(context).secondaryText,
                 labelStyle: FlutterFlowTheme.of(context).titleMedium.override(
-                      fontFamily: 'Plus Jakarta Sans',
+                      font: GoogleFonts.plusJakartaSans(),
                       letterSpacing: 0.0,
                     ),
                 unselectedLabelStyle:
                     FlutterFlowTheme.of(context).titleMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                 indicatorColor: FlutterFlowTheme.of(context).primary,
@@ -204,7 +204,7 @@ class _ComponentSignatureDetailWidgetState
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   color:
                                       FlutterFlowTheme.of(context).primaryText,
                                   fontSize: 14.0,
@@ -270,7 +270,8 @@ class _ComponentSignatureDetailWidgetState
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .secondaryText,
@@ -309,7 +310,7 @@ class _ComponentSignatureDetailWidgetState
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         color:
                                             FlutterFlowTheme.of(context).info,
                                         fontSize: 16.0,
@@ -350,7 +351,7 @@ class _ComponentSignatureDetailWidgetState
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       color: FlutterFlowTheme.of(context)
                                           .primaryText,
                                       fontSize: 14.0,
@@ -377,7 +378,7 @@ class _ComponentSignatureDetailWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         color: FlutterFlowTheme.of(context)
                                             .primary,
                                         fontSize: 14.0,
@@ -529,7 +530,7 @@ class _ComponentSignatureDetailWidgetState
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         color:
                                             FlutterFlowTheme.of(context).info,
                                         fontSize: 16.0,
@@ -566,7 +567,7 @@ class _ComponentSignatureDetailWidgetState
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   color:
                                       FlutterFlowTheme.of(context).primaryText,
                                   fontSize: 14.0,
@@ -600,7 +601,7 @@ class _ComponentSignatureDetailWidgetState
                                       labelStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             color: FlutterFlowTheme.of(context)
                                                 .secondaryText,
                                             fontSize: 14.0,
@@ -613,7 +614,7 @@ class _ComponentSignatureDetailWidgetState
                                       hintStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             letterSpacing: 0.0,
                                           ),
                                       enabledBorder: OutlineInputBorder(
@@ -658,7 +659,7 @@ class _ComponentSignatureDetailWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           color: FlutterFlowTheme.of(context)
                                               .primaryText,
                                           letterSpacing: 0.0,
@@ -727,30 +728,29 @@ class _ComponentSignatureDetailWidgetState
                                             obscureText: false,
                                             decoration: InputDecoration(
                                               isDense: true,
-                                              labelStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .labelMedium
-                                                      .override(
-                                                        fontFamily: 'Outfit',
-                                                        color:
-                                                            FlutterFlowTheme.of(
-                                                                    context)
-                                                                .secondaryText,
-                                                        fontSize: 14.0,
-                                                        letterSpacing: 0.0,
-                                                      ),
+                                              labelStyle: FlutterFlowTheme.of(
+                                                      context)
+                                                  .labelMedium
+                                                  .override(
+                                                    font: GoogleFonts.outfit(),
+                                                    color: FlutterFlowTheme.of(
+                                                            context)
+                                                        .secondaryText,
+                                                    fontSize: 14.0,
+                                                    letterSpacing: 0.0,
+                                                  ),
                                               hintText:
                                                   FFLocalizations.of(context)
                                                       .getText(
                                                 'f314y4uj' /* User Name */,
                                               ),
-                                              hintStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .labelMedium
-                                                      .override(
-                                                        fontFamily: 'Outfit',
-                                                        letterSpacing: 0.0,
-                                                      ),
+                                              hintStyle: FlutterFlowTheme.of(
+                                                      context)
+                                                  .labelMedium
+                                                  .override(
+                                                    font: GoogleFonts.outfit(),
+                                                    letterSpacing: 0.0,
+                                                  ),
                                               enabledBorder: OutlineInputBorder(
                                                 borderSide: BorderSide(
                                                   color: FlutterFlowTheme.of(
@@ -798,7 +798,8 @@ class _ComponentSignatureDetailWidgetState
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  fontFamily: 'Dancing Script',
+                                                  font: GoogleFonts
+                                                      .dancingScript(),
                                                   color: FlutterFlowTheme.of(
                                                           context)
                                                       .primaryText,
@@ -867,30 +868,29 @@ class _ComponentSignatureDetailWidgetState
                                             obscureText: false,
                                             decoration: InputDecoration(
                                               isDense: true,
-                                              labelStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .labelMedium
-                                                      .override(
-                                                        fontFamily: 'Outfit',
-                                                        color:
-                                                            FlutterFlowTheme.of(
-                                                                    context)
-                                                                .secondaryText,
-                                                        fontSize: 14.0,
-                                                        letterSpacing: 0.0,
-                                                      ),
+                                              labelStyle: FlutterFlowTheme.of(
+                                                      context)
+                                                  .labelMedium
+                                                  .override(
+                                                    font: GoogleFonts.outfit(),
+                                                    color: FlutterFlowTheme.of(
+                                                            context)
+                                                        .secondaryText,
+                                                    fontSize: 14.0,
+                                                    letterSpacing: 0.0,
+                                                  ),
                                               hintText:
                                                   FFLocalizations.of(context)
                                                       .getText(
                                                 'wvwtihfu' /* User Name */,
                                               ),
-                                              hintStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .labelMedium
-                                                      .override(
-                                                        fontFamily: 'Outfit',
-                                                        letterSpacing: 0.0,
-                                                      ),
+                                              hintStyle: FlutterFlowTheme.of(
+                                                      context)
+                                                  .labelMedium
+                                                  .override(
+                                                    font: GoogleFonts.outfit(),
+                                                    letterSpacing: 0.0,
+                                                  ),
                                               enabledBorder: OutlineInputBorder(
                                                 borderSide: BorderSide(
                                                   color: FlutterFlowTheme.of(
@@ -938,7 +938,8 @@ class _ComponentSignatureDetailWidgetState
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  fontFamily: 'Yellowtail',
+                                                  font:
+                                                      GoogleFonts.yellowtail(),
                                                   color: FlutterFlowTheme.of(
                                                           context)
                                                       .primaryText,
@@ -1006,30 +1007,29 @@ class _ComponentSignatureDetailWidgetState
                                             obscureText: false,
                                             decoration: InputDecoration(
                                               isDense: true,
-                                              labelStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .labelMedium
-                                                      .override(
-                                                        fontFamily: 'Outfit',
-                                                        color:
-                                                            FlutterFlowTheme.of(
-                                                                    context)
-                                                                .secondaryText,
-                                                        fontSize: 14.0,
-                                                        letterSpacing: 0.0,
-                                                      ),
+                                              labelStyle: FlutterFlowTheme.of(
+                                                      context)
+                                                  .labelMedium
+                                                  .override(
+                                                    font: GoogleFonts.outfit(),
+                                                    color: FlutterFlowTheme.of(
+                                                            context)
+                                                        .secondaryText,
+                                                    fontSize: 14.0,
+                                                    letterSpacing: 0.0,
+                                                  ),
                                               hintText:
                                                   FFLocalizations.of(context)
                                                       .getText(
                                                 'f46pmabm' /* User Name */,
                                               ),
-                                              hintStyle:
-                                                  FlutterFlowTheme.of(context)
-                                                      .labelMedium
-                                                      .override(
-                                                        fontFamily: 'Outfit',
-                                                        letterSpacing: 0.0,
-                                                      ),
+                                              hintStyle: FlutterFlowTheme.of(
+                                                      context)
+                                                  .labelMedium
+                                                  .override(
+                                                    font: GoogleFonts.outfit(),
+                                                    letterSpacing: 0.0,
+                                                  ),
                                               enabledBorder: OutlineInputBorder(
                                                 borderSide: BorderSide(
                                                   color: FlutterFlowTheme.of(
@@ -1077,7 +1077,8 @@ class _ComponentSignatureDetailWidgetState
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  fontFamily: 'Kaushan Script',
+                                                  font: GoogleFonts
+                                                      .kaushanScript(),
                                                   color: FlutterFlowTheme.of(
                                                           context)
                                                       .primaryText,
@@ -1124,7 +1125,7 @@ class _ComponentSignatureDetailWidgetState
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         color:
                                             FlutterFlowTheme.of(context).info,
                                         fontSize: 16.0,

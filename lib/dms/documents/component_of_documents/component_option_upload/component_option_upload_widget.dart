@@ -154,7 +154,7 @@ class _ComponentOptionUploadWidgetState
                                       style: FlutterFlowTheme.of(context)
                                           .bodyLarge
                                           .override(
-                                            fontFamily: 'Plus Jakarta Sans',
+                                            font: GoogleFonts.plusJakartaSans(),
                                             letterSpacing: 0.0,
                                           ),
                                     ),
@@ -233,7 +233,7 @@ class _ComponentOptionUploadWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyLarge
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           color: FlutterFlowTheme.of(context)
                                               .dangerButton,
                                           letterSpacing: 0.0,

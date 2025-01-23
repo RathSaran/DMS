@@ -818,7 +818,7 @@ class _PageHome20240912211400WidgetState
                     'z4cx0usi' /* Dashboard */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        fontFamily: 'Outfit',
+                        font: GoogleFonts.outfit(),
                         color: FlutterFlowTheme.of(context).primaryBtnText,
                         letterSpacing: 0.0,
                       ),
@@ -937,7 +937,7 @@ class _PageHome20240912211400WidgetState
                                             style: FlutterFlowTheme.of(context)
                                                 .displaySmall
                                                 .override(
-                                                  fontFamily: 'Outfit',
+                                                  font: GoogleFonts.outfit(),
                                                   fontSize: 28.0,
                                                   letterSpacing: 0.0,
                                                 ),
@@ -1122,7 +1122,8 @@ class _PageHome20240912211400WidgetState
                                           style: FlutterFlowTheme.of(context)
                                               .titleSmall
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 letterSpacing: 0.0,
                                               ),
                                         ).animateOnPageLoad(animationsMap[
@@ -1244,8 +1245,8 @@ class _PageHome20240912211400WidgetState
                                                                   .of(context)
                                                               .labelMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Outfit',
+                                                                font: GoogleFonts
+                                                                    .outfit(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1270,8 +1271,8 @@ class _PageHome20240912211400WidgetState
                                                                     .of(context)
                                                                 .displaySmall
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Outfit',
+                                                                  font: GoogleFonts
+                                                                      .outfit(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1387,8 +1388,8 @@ class _PageHome20240912211400WidgetState
                                                                   .of(context)
                                                               .labelMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Outfit',
+                                                                font: GoogleFonts
+                                                                    .outfit(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1413,8 +1414,8 @@ class _PageHome20240912211400WidgetState
                                                                     .of(context)
                                                                 .displaySmall
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Outfit',
+                                                                  font: GoogleFonts
+                                                                      .outfit(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1530,8 +1531,8 @@ class _PageHome20240912211400WidgetState
                                                                   .of(context)
                                                               .labelMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Outfit',
+                                                                font: GoogleFonts
+                                                                    .outfit(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1556,8 +1557,8 @@ class _PageHome20240912211400WidgetState
                                                                     .of(context)
                                                                 .displaySmall
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Outfit',
+                                                                  font: GoogleFonts
+                                                                      .outfit(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1667,7 +1668,7 @@ class _PageHome20240912211400WidgetState
                                       style: FlutterFlowTheme.of(context)
                                           .headlineMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             color: FlutterFlowTheme.of(context)
                                                 .primaryBtnText,
                                             fontSize: 20.0,
@@ -1683,7 +1684,7 @@ class _PageHome20240912211400WidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .titleSmall
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           color: Color(0x9AFFFFFF),
                                           letterSpacing: 0.0,
                                         ),
@@ -1785,8 +1786,8 @@ class _PageHome20240912211400WidgetState
                                                                     context)
                                                                 .titleMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -1811,8 +1812,8 @@ class _PageHome20240912211400WidgetState
                                                                   .of(context)
                                                               .bodySmall
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1997,8 +1998,8 @@ class _PageHome20240912211400WidgetState
                                                                     context)
                                                                 .titleMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -2023,8 +2024,8 @@ class _PageHome20240912211400WidgetState
                                                                   .of(context)
                                                               .bodySmall
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -2207,8 +2208,8 @@ class _PageHome20240912211400WidgetState
                                                           context)
                                                       .titleMedium
                                                       .override(
-                                                        fontFamily:
-                                                            'Plus Jakarta Sans',
+                                                        font: GoogleFonts
+                                                            .plusJakartaSans(),
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ).animateOnPageLoad(animationsMap[
@@ -2226,8 +2227,8 @@ class _PageHome20240912211400WidgetState
                                                             context)
                                                         .bodySmall
                                                         .override(
-                                                          fontFamily:
-                                                              'Plus Jakarta Sans',
+                                                          font: GoogleFonts
+                                                              .plusJakartaSans(),
                                                           letterSpacing: 0.0,
                                                         ),
                                                   ).animateOnPageLoad(animationsMap[
@@ -2394,8 +2395,8 @@ class _PageHome20240912211400WidgetState
                                                           context)
                                                       .titleMedium
                                                       .override(
-                                                        fontFamily:
-                                                            'Plus Jakarta Sans',
+                                                        font: GoogleFonts
+                                                            .plusJakartaSans(),
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ).animateOnPageLoad(animationsMap[
@@ -2413,8 +2414,8 @@ class _PageHome20240912211400WidgetState
                                                             context)
                                                         .bodySmall
                                                         .override(
-                                                          fontFamily:
-                                                              'Plus Jakarta Sans',
+                                                          font: GoogleFonts
+                                                              .plusJakartaSans(),
                                                           letterSpacing: 0.0,
                                                         ),
                                                   ).animateOnPageLoad(animationsMap[

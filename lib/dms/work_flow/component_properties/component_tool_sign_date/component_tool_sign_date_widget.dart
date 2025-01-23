@@ -116,7 +116,7 @@ class _ComponentToolSignDateWidgetState
                       locale: FFLocalizations.of(context).languageCode,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -187,7 +187,7 @@ class _ComponentToolSignDateWidgetState
                     locale: FFLocalizations.of(context).languageCode,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         letterSpacing: 0.0,
                       ),
                 ),

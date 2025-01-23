@@ -97,7 +97,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                           'qtreyesd' /* Field Property */,
                         ),
                         style: FlutterFlowTheme.of(context).titleLarge.override(
-                              fontFamily: 'Outfit',
+                              font: GoogleFonts.outfit(),
                               color: FlutterFlowTheme.of(context).primaryText,
                               letterSpacing: 0.0,
                             ),
@@ -122,7 +122,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   letterSpacing: 0.0,
                                 ),
                           ),
@@ -139,7 +139,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                                 labelStyle: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       letterSpacing: 0.0,
                                     ),
                                 hintText: FFLocalizations.of(context).getText(
@@ -148,7 +148,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                                 hintStyle: FlutterFlowTheme.of(context)
                                     .labelMedium
                                     .override(
-                                      fontFamily: 'Outfit',
+                                      font: GoogleFonts.outfit(),
                                       letterSpacing: 0.0,
                                       lineHeight: 2.0,
                                     ),
@@ -188,7 +188,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     color: FlutterFlowTheme.of(context)
                                         .primaryText,
                                     letterSpacing: 0.0,
@@ -220,7 +220,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   letterSpacing: 0.0,
                                 ),
                           ),
@@ -252,7 +252,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                               textStyle: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     letterSpacing: 0.0,
                                   ),
                               icon: Icon(
@@ -301,7 +301,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         letterSpacing: 0.0,
                                       ),
                                 ),
@@ -319,7 +319,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                                       labelStyle: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Plus Jakarta Sans',
+                                            font: GoogleFonts.plusJakartaSans(),
                                             letterSpacing: 0.0,
                                           ),
                                       hintText:
@@ -329,7 +329,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                                       hintStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            fontFamily: 'Outfit',
+                                            font: GoogleFonts.outfit(),
                                             letterSpacing: 0.0,
                                             lineHeight: 2.0,
                                           ),
@@ -375,7 +375,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           color: FlutterFlowTheme.of(context)
                                               .primaryText,
                                           letterSpacing: 0.0,
@@ -434,7 +434,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         color: FlutterFlowTheme.of(context)
                                             .dangerButton,
                                         letterSpacing: 0.0,
@@ -478,7 +478,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                                 textStyle: FlutterFlowTheme.of(context)
                                     .titleSmall
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       color: FlutterFlowTheme.of(context)
                                           .primaryText,
                                       letterSpacing: 0.0,
@@ -511,7 +511,7 @@ class _ComponentSignAddFieldPropertyWidgetState
                                 textStyle: FlutterFlowTheme.of(context)
                                     .titleSmall
                                     .override(
-                                      fontFamily: 'Plus Jakarta Sans',
+                                      font: GoogleFonts.plusJakartaSans(),
                                       color: FlutterFlowTheme.of(context).info,
                                       fontSize: 16.0,
                                       letterSpacing: 0.0,

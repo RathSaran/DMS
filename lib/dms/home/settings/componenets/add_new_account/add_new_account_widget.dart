@@ -62,7 +62,7 @@ class _AddNewAccountWidgetState extends State<AddNewAccountWidget> {
                 'l2fewu0a' /* Add Account */,
               ),
               style: FlutterFlowTheme.of(context).bodyMedium.override(
-                    fontFamily: 'Plus Jakarta Sans',
+                    font: GoogleFonts.plusJakartaSans(),
                     fontSize: 28.0,
                     letterSpacing: 0.0,
                     fontWeight: FontWeight.w600,
@@ -155,7 +155,7 @@ class _AddNewAccountWidgetState extends State<AddNewAccountWidget> {
                         color: FlutterFlowTheme.of(context).primary,
                         textStyle:
                             FlutterFlowTheme.of(context).titleSmall.override(
-                                  fontFamily: 'Plus Jakarta Sans',
+                                  font: GoogleFonts.plusJakartaSans(),
                                   color: FlutterFlowTheme.of(context).info,
                                   fontSize: 16.0,
                                   letterSpacing: 0.0,

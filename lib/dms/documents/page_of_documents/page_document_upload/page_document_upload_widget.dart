@@ -95,7 +95,7 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                     '35lkb87f' /* Customers */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        fontFamily: 'Outfit',
+                        font: GoogleFonts.outfit(),
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -382,8 +382,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w500,
@@ -486,8 +486,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w500,
@@ -590,8 +590,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w500,
@@ -780,8 +780,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -869,8 +869,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                                       context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Plus Jakarta Sans',
+                                                                    font: GoogleFonts
+                                                                        .plusJakartaSans(),
                                                                     letterSpacing:
                                                                         0.0,
                                                                   ),
@@ -964,8 +964,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1015,8 +1015,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1100,8 +1100,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1151,8 +1151,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1245,8 +1245,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1298,8 +1298,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -1526,7 +1526,8 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                                           context)
                                                       .labelLarge
                                                       .override(
-                                                        fontFamily: 'Outfit',
+                                                        font: GoogleFonts
+                                                            .outfit(),
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -1578,7 +1579,7 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                       textStyle: FlutterFlowTheme.of(context)
                                           .titleSmall
                                           .override(
-                                            fontFamily: 'Plus Jakarta Sans',
+                                            font: GoogleFonts.plusJakartaSans(),
                                             color: FlutterFlowTheme.of(context)
                                                 .primaryText,
                                             letterSpacing: 0.0,
@@ -1719,7 +1720,7 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                     textStyle: FlutterFlowTheme.of(context)
                                         .titleSmall
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           color:
                                               FlutterFlowTheme.of(context).info,
                                           fontSize: 16.0,
@@ -1828,7 +1829,7 @@ class _PageDocumentUploadWidgetState extends State<PageDocumentUploadWidget> {
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         color: FlutterFlowTheme.of(context)
                                             .primaryText,
                                         letterSpacing: 0.0,

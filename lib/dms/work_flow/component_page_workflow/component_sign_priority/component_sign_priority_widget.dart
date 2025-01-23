@@ -78,7 +78,7 @@ class _ComponentSignPriorityWidgetState
                           'ykf8h2vy' /* Priority:   */,
                         ),
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              fontFamily: 'Plus Jakarta Sans',
+                              font: GoogleFonts.plusJakartaSans(),
                               letterSpacing: 0.0,
                               fontWeight: FontWeight.w600,
                             ),
@@ -107,7 +107,7 @@ class _ComponentSignPriorityWidgetState
                       )
                     ],
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -122,7 +122,7 @@ class _ComponentSignPriorityWidgetState
                           'r1gito5v' /* Sensitivity:   */,
                         ),
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              fontFamily: 'Plus Jakarta Sans',
+                              font: GoogleFonts.plusJakartaSans(),
                               letterSpacing: 0.0,
                               fontWeight: FontWeight.w600,
                             ),
@@ -147,7 +147,7 @@ class _ComponentSignPriorityWidgetState
                       )
                     ],
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),

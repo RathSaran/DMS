@@ -136,7 +136,8 @@ class _ComponentImportFromCloudWidgetState
                                           style: FlutterFlowTheme.of(context)
                                               .bodyLarge
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 letterSpacing: 0.0,
                                               ),
                                         ),
@@ -224,7 +225,8 @@ class _ComponentImportFromCloudWidgetState
                                           style: FlutterFlowTheme.of(context)
                                               .bodyLarge
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 letterSpacing: 0.0,
                                               ),
                                         ),
@@ -313,7 +315,8 @@ class _ComponentImportFromCloudWidgetState
                                           style: FlutterFlowTheme.of(context)
                                               .bodyLarge
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 letterSpacing: 0.0,
                                               ),
                                         ),

@@ -214,7 +214,7 @@ class _ComponentAddNewDocWidgetState extends State<ComponentAddNewDocWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyLarge
                                           .override(
-                                            fontFamily: 'Plus Jakarta Sans',
+                                            font: GoogleFonts.plusJakartaSans(),
                                             letterSpacing: 0.0,
                                           ),
                                     ),
@@ -338,7 +338,8 @@ class _ComponentAddNewDocWidgetState extends State<ComponentAddNewDocWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyLarge
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               letterSpacing: 0.0,
                                             ),
                                       ),
@@ -441,7 +442,8 @@ class _ComponentAddNewDocWidgetState extends State<ComponentAddNewDocWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .bodyLarge
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 letterSpacing: 0.0,
                                               ),
                                         ),
@@ -555,7 +557,8 @@ class _ComponentAddNewDocWidgetState extends State<ComponentAddNewDocWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .bodyLarge
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 letterSpacing: 0.0,
                                               ),
                                         ),
@@ -641,7 +644,7 @@ class _ComponentAddNewDocWidgetState extends State<ComponentAddNewDocWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyLarge
                                           .override(
-                                            fontFamily: 'Plus Jakarta Sans',
+                                            font: GoogleFonts.plusJakartaSans(),
                                             letterSpacing: 0.0,
                                           ),
                                     ),
@@ -732,7 +735,8 @@ class _ComponentAddNewDocWidgetState extends State<ComponentAddNewDocWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .bodyLarge
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 letterSpacing: 0.0,
                                               ),
                                         ),
@@ -797,7 +801,7 @@ class _ComponentAddNewDocWidgetState extends State<ComponentAddNewDocWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyLarge
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                         ),
                                   ),
@@ -870,7 +874,7 @@ class _ComponentAddNewDocWidgetState extends State<ComponentAddNewDocWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyLarge
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                         ),
                                   ),

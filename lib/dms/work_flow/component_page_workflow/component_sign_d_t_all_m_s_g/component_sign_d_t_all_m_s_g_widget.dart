@@ -172,7 +172,7 @@ class _ComponentSignDTAllMSGWidgetState
                       'xkdeez65' /* Receive NO */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -189,7 +189,7 @@ class _ComponentSignDTAllMSGWidgetState
                       '4lj0wx9m' /* Message Description */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -204,7 +204,7 @@ class _ComponentSignDTAllMSGWidgetState
                       'izquq4l4' /* From */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -220,7 +220,7 @@ class _ComponentSignDTAllMSGWidgetState
                       's2bzh54a' /* Receive Date */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -237,7 +237,7 @@ class _ComponentSignDTAllMSGWidgetState
                       'q41xvdjj' /* Validate Date */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -254,7 +254,7 @@ class _ComponentSignDTAllMSGWidgetState
                       'ps3si5nr' /* Status */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -374,7 +374,7 @@ class _ComponentSignDTAllMSGWidgetState
                   ),
                   maxLines: 2,
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         color: messageDataItem.isRead == false
                             ? FlutterFlowTheme.of(context).primary
                             : FlutterFlowTheme.of(context).primaryText,
@@ -394,7 +394,7 @@ class _ComponentSignDTAllMSGWidgetState
                         ),
                         maxLines: 2,
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              fontFamily: 'Plus Jakarta Sans',
+                              font: GoogleFonts.plusJakartaSans(),
                               color: messageDataItem.isRead == false
                                   ? FlutterFlowTheme.of(context).primary
                                   : FlutterFlowTheme.of(context).primaryText,
@@ -527,7 +527,7 @@ class _ComponentSignDTAllMSGWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                         ),
                                   ),
@@ -542,7 +542,7 @@ class _ComponentSignDTAllMSGWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodySmall
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           color: FlutterFlowTheme.of(context)
                                               .secondaryText,
                                           letterSpacing: 0.0,
@@ -567,7 +567,7 @@ class _ComponentSignDTAllMSGWidgetState
                     '-',
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -581,7 +581,7 @@ class _ComponentSignDTAllMSGWidgetState
                     '-',
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -673,7 +673,7 @@ class _ComponentSignDTAllMSGWidgetState
                         ),
                         maxLines: 1,
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              fontFamily: 'Plus Jakarta Sans',
+                              font: GoogleFonts.plusJakartaSans(),
                               color: FlutterFlowTheme.of(context).primaryText,
                               fontSize: 12.0,
                               letterSpacing: 0.0,

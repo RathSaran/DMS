@@ -62,7 +62,7 @@ class _ComponentCompanyDetailWidgetState
           decoration: InputDecoration(
             isDense: true,
             labelStyle: FlutterFlowTheme.of(context).labelMedium.override(
-                  fontFamily: 'Outfit',
+                  font: GoogleFonts.outfit(),
                   color: FlutterFlowTheme.of(context).primaryText,
                   fontSize: 14.0,
                   letterSpacing: 0.0,
@@ -71,7 +71,7 @@ class _ComponentCompanyDetailWidgetState
               'rxo7sfwl' /* Company name */,
             ),
             hintStyle: FlutterFlowTheme.of(context).bodyMedium.override(
-                  fontFamily: 'Plus Jakarta Sans',
+                  font: GoogleFonts.plusJakartaSans(),
                   letterSpacing: 0.0,
                 ),
             enabledBorder: OutlineInputBorder(
@@ -104,7 +104,7 @@ class _ComponentCompanyDetailWidgetState
             ),
           ),
           style: FlutterFlowTheme.of(context).bodyMedium.override(
-                fontFamily: 'Plus Jakarta Sans',
+                font: GoogleFonts.plusJakartaSans(),
                 color: FlutterFlowTheme.of(context).primaryText,
                 letterSpacing: 0.0,
                 fontWeight: FontWeight.w500,

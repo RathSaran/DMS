@@ -75,7 +75,7 @@ class _HGFeaturesWidgetState extends State<HGFeaturesWidget> {
                       ),
                       style:
                           FlutterFlowTheme.of(context).headlineLarge.override(
-                                fontFamily: 'Outfit',
+                                font: GoogleFonts.outfit(),
                                 fontSize: 23.0,
                                 letterSpacing: 0.0,
                               ),
@@ -86,7 +86,7 @@ class _HGFeaturesWidgetState extends State<HGFeaturesWidget> {
                       ),
                       textAlign: TextAlign.center,
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                            fontFamily: 'Plus Jakarta Sans',
+                            font: GoogleFonts.plusJakartaSans(),
                             fontSize: 17.0,
                             letterSpacing: 0.0,
                           ),
@@ -117,7 +117,7 @@ class _HGFeaturesWidgetState extends State<HGFeaturesWidget> {
                       ),
                       style:
                           FlutterFlowTheme.of(context).headlineLarge.override(
-                                fontFamily: 'Outfit',
+                                font: GoogleFonts.outfit(),
                                 fontSize: 23.0,
                                 letterSpacing: 0.0,
                               ),
@@ -128,7 +128,7 @@ class _HGFeaturesWidgetState extends State<HGFeaturesWidget> {
                       ),
                       textAlign: TextAlign.center,
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                            fontFamily: 'Plus Jakarta Sans',
+                            font: GoogleFonts.plusJakartaSans(),
                             fontSize: 17.0,
                             letterSpacing: 0.0,
                           ),
@@ -159,7 +159,7 @@ class _HGFeaturesWidgetState extends State<HGFeaturesWidget> {
                       ),
                       style:
                           FlutterFlowTheme.of(context).headlineLarge.override(
-                                fontFamily: 'Outfit',
+                                font: GoogleFonts.outfit(),
                                 fontSize: 23.0,
                                 letterSpacing: 0.0,
                               ),
@@ -170,7 +170,7 @@ class _HGFeaturesWidgetState extends State<HGFeaturesWidget> {
                       ),
                       textAlign: TextAlign.center,
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                            fontFamily: 'Plus Jakarta Sans',
+                            font: GoogleFonts.plusJakartaSans(),
                             fontSize: 17.0,
                             letterSpacing: 0.0,
                           ),

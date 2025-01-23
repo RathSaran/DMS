@@ -182,7 +182,7 @@ class _ConfigurationSettingPageWidgetState
                           ),
                           style:
                               FlutterFlowTheme.of(context).bodyMedium.override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     fontSize: 17.0,
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.w600,
@@ -254,7 +254,7 @@ class _ConfigurationSettingPageWidgetState
                               labelStyle: FlutterFlowTheme.of(context)
                                   .titleMedium
                                   .override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     fontSize: 16.0,
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.w600,
@@ -262,7 +262,7 @@ class _ConfigurationSettingPageWidgetState
                               unselectedLabelStyle: FlutterFlowTheme.of(context)
                                   .titleMedium
                                   .override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     fontSize: 16.0,
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.w600,
@@ -358,8 +358,8 @@ class _ConfigurationSettingPageWidgetState
                                                     FlutterFlowTheme.of(context)
                                                         .bodyMedium
                                                         .override(
-                                                          fontFamily:
-                                                              'Plus Jakarta Sans',
+                                                          font: GoogleFonts
+                                                              .plusJakartaSans(),
                                                           fontSize: 16.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
@@ -446,8 +446,8 @@ class _ConfigurationSettingPageWidgetState
                                                                         context)
                                                                     .labelMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Outfit',
+                                                                      font: GoogleFonts
+                                                                          .outfit(),
                                                                       letterSpacing:
                                                                           0.0,
                                                                     ),
@@ -461,8 +461,8 @@ class _ConfigurationSettingPageWidgetState
                                                                         context)
                                                                     .labelMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Outfit',
+                                                                      font: GoogleFonts
+                                                                          .outfit(),
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:
@@ -532,8 +532,8 @@ class _ConfigurationSettingPageWidgetState
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Plus Jakarta Sans',
+                                                                    font: GoogleFonts
+                                                                        .plusJakartaSans(),
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .info,
@@ -641,8 +641,8 @@ class _ConfigurationSettingPageWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   fontSize:
                                                                       16.0,
                                                                   letterSpacing:
@@ -665,8 +665,8 @@ class _ConfigurationSettingPageWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   fontSize:
                                                                       16.0,
                                                                   letterSpacing:
@@ -689,8 +689,8 @@ class _ConfigurationSettingPageWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   fontSize:
                                                                       16.0,
                                                                   letterSpacing:
@@ -713,8 +713,8 @@ class _ConfigurationSettingPageWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   fontSize:
                                                                       16.0,
                                                                   letterSpacing:
@@ -883,7 +883,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                   '-',
                                                                                                 ),
                                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                                       fontSize: 15.0,
                                                                                                       letterSpacing: 0.0,
                                                                                                       fontWeight: FontWeight.w600,
@@ -982,7 +982,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                         'w893w7d6' /* Add More */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            fontFamily: 'Plus Jakarta Sans',
+                                                                                            font: GoogleFonts.plusJakartaSans(),
                                                                                             letterSpacing: 0.0,
                                                                                             fontWeight: FontWeight.w600,
                                                                                           ),
@@ -1105,7 +1105,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                   '-',
                                                                                                 ),
                                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                                       fontSize: 15.0,
                                                                                                       letterSpacing: 0.0,
                                                                                                       fontWeight: FontWeight.w600,
@@ -1239,7 +1239,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                         'j37xpdpo' /* Add More */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            fontFamily: 'Plus Jakarta Sans',
+                                                                                            font: GoogleFonts.plusJakartaSans(),
                                                                                             letterSpacing: 0.0,
                                                                                             fontWeight: FontWeight.w600,
                                                                                           ),
@@ -1370,7 +1370,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                   '-',
                                                                                                 ),
                                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                                       fontSize: 15.0,
                                                                                                       letterSpacing: 0.0,
                                                                                                       fontWeight: FontWeight.w600,
@@ -1505,7 +1505,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                             '5lbpgkgv' /* Add More */,
                                                                                           ),
                                                                                           style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                fontFamily: 'Plus Jakarta Sans',
+                                                                                                font: GoogleFonts.plusJakartaSans(),
                                                                                                 letterSpacing: 0.0,
                                                                                                 fontWeight: FontWeight.w600,
                                                                                               ),
@@ -1652,7 +1652,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                   '-',
                                                                                                 ),
                                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                                       fontSize: 15.0,
                                                                                                       letterSpacing: 0.0,
                                                                                                       fontWeight: FontWeight.w600,
@@ -1786,7 +1786,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                         'qodd0z7s' /* Add More */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            fontFamily: 'Plus Jakarta Sans',
+                                                                                            font: GoogleFonts.plusJakartaSans(),
                                                                                             letterSpacing: 0.0,
                                                                                             fontWeight: FontWeight.w600,
                                                                                           ),
@@ -1880,8 +1880,8 @@ class _ConfigurationSettingPageWidgetState
                                                     FlutterFlowTheme.of(context)
                                                         .bodyMedium
                                                         .override(
-                                                          fontFamily:
-                                                              'Plus Jakarta Sans',
+                                                          font: GoogleFonts
+                                                              .plusJakartaSans(),
                                                           fontSize: 16.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
@@ -1968,8 +1968,8 @@ class _ConfigurationSettingPageWidgetState
                                                                           context)
                                                                       .labelMedium
                                                                       .override(
-                                                                        fontFamily:
-                                                                            'Outfit',
+                                                                        font: GoogleFonts
+                                                                            .outfit(),
                                                                         letterSpacing:
                                                                             0.0,
                                                                       ),
@@ -1982,8 +1982,8 @@ class _ConfigurationSettingPageWidgetState
                                                                           context)
                                                                       .labelMedium
                                                                       .override(
-                                                                        fontFamily:
-                                                                            'Outfit',
+                                                                        font: GoogleFonts
+                                                                            .outfit(),
                                                                         fontSize:
                                                                             16.0,
                                                                         letterSpacing:
@@ -2052,8 +2052,8 @@ class _ConfigurationSettingPageWidgetState
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Plus Jakarta Sans',
+                                                                      font: GoogleFonts
+                                                                          .plusJakartaSans(),
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:
@@ -2159,8 +2159,8 @@ class _ConfigurationSettingPageWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   fontSize:
                                                                       16.0,
                                                                   letterSpacing:
@@ -2183,8 +2183,8 @@ class _ConfigurationSettingPageWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   fontSize:
                                                                       16.0,
                                                                   letterSpacing:
@@ -2207,8 +2207,8 @@ class _ConfigurationSettingPageWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   fontSize:
                                                                       16.0,
                                                                   letterSpacing:
@@ -2231,8 +2231,8 @@ class _ConfigurationSettingPageWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   fontSize:
                                                                       16.0,
                                                                   letterSpacing:
@@ -2408,7 +2408,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                       '-',
                                                                                                     ),
                                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                          fontFamily: 'Plus Jakarta Sans',
+                                                                                                          font: GoogleFonts.plusJakartaSans(),
                                                                                                           fontSize: 15.0,
                                                                                                           letterSpacing: 0.0,
                                                                                                           fontWeight: FontWeight.w600,
@@ -2499,7 +2499,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                       '-',
                                                                                                     ),
                                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                          fontFamily: 'Plus Jakarta Sans',
+                                                                                                          font: GoogleFonts.plusJakartaSans(),
                                                                                                           fontSize: 15.0,
                                                                                                           letterSpacing: 0.0,
                                                                                                           fontWeight: FontWeight.w600,
@@ -2630,7 +2630,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                         'sv2j193n' /* Add More */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            fontFamily: 'Plus Jakarta Sans',
+                                                                                            font: GoogleFonts.plusJakartaSans(),
                                                                                             letterSpacing: 0.0,
                                                                                             fontWeight: FontWeight.w600,
                                                                                           ),
@@ -2774,7 +2774,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                           '-',
                                                                                                         ),
                                                                                                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                              fontFamily: 'Plus Jakarta Sans',
+                                                                                                              font: GoogleFonts.plusJakartaSans(),
                                                                                                               fontSize: 15.0,
                                                                                                               letterSpacing: 0.0,
                                                                                                               fontWeight: FontWeight.w600,
@@ -2865,7 +2865,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                           '-',
                                                                                                         ),
                                                                                                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                              fontFamily: 'Plus Jakarta Sans',
+                                                                                                              font: GoogleFonts.plusJakartaSans(),
                                                                                                               fontSize: 15.0,
                                                                                                               letterSpacing: 0.0,
                                                                                                               fontWeight: FontWeight.w600,
@@ -3001,7 +3001,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                         'px013s70' /* Add More */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            fontFamily: 'Plus Jakarta Sans',
+                                                                                            font: GoogleFonts.plusJakartaSans(),
                                                                                             letterSpacing: 0.0,
                                                                                             fontWeight: FontWeight.w600,
                                                                                           ),
@@ -3143,7 +3143,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                       '-',
                                                                                                     ),
                                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                          fontFamily: 'Plus Jakarta Sans',
+                                                                                                          font: GoogleFonts.plusJakartaSans(),
                                                                                                           fontSize: 15.0,
                                                                                                           letterSpacing: 0.0,
                                                                                                           fontWeight: FontWeight.w600,
@@ -3234,7 +3234,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                       '-',
                                                                                                     ),
                                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                          fontFamily: 'Plus Jakarta Sans',
+                                                                                                          font: GoogleFonts.plusJakartaSans(),
                                                                                                           fontSize: 15.0,
                                                                                                           letterSpacing: 0.0,
                                                                                                           fontWeight: FontWeight.w600,
@@ -3370,7 +3370,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                             '526hw9b5' /* Add More */,
                                                                                           ),
                                                                                           style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                fontFamily: 'Plus Jakarta Sans',
+                                                                                                font: GoogleFonts.plusJakartaSans(),
                                                                                                 letterSpacing: 0.0,
                                                                                                 fontWeight: FontWeight.w600,
                                                                                               ),
@@ -3528,7 +3528,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                       '-',
                                                                                                     ),
                                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                          fontFamily: 'Plus Jakarta Sans',
+                                                                                                          font: GoogleFonts.plusJakartaSans(),
                                                                                                           fontSize: 15.0,
                                                                                                           letterSpacing: 0.0,
                                                                                                           fontWeight: FontWeight.w600,
@@ -3614,7 +3614,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                                       '-',
                                                                                                     ),
                                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                          fontFamily: 'Plus Jakarta Sans',
+                                                                                                          font: GoogleFonts.plusJakartaSans(),
                                                                                                           fontSize: 15.0,
                                                                                                           letterSpacing: 0.0,
                                                                                                           fontWeight: FontWeight.w600,
@@ -3749,7 +3749,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                         'ah9zn0xj' /* Add More */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            fontFamily: 'Plus Jakarta Sans',
+                                                                                            font: GoogleFonts.plusJakartaSans(),
                                                                                             letterSpacing: 0.0,
                                                                                             fontWeight: FontWeight.w600,
                                                                                           ),
@@ -3842,8 +3842,8 @@ class _ConfigurationSettingPageWidgetState
                                                     FlutterFlowTheme.of(context)
                                                         .bodyMedium
                                                         .override(
-                                                          fontFamily:
-                                                              'Plus Jakarta Sans',
+                                                          font: GoogleFonts
+                                                              .plusJakartaSans(),
                                                           fontSize: 16.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
@@ -3926,8 +3926,8 @@ class _ConfigurationSettingPageWidgetState
                                                                         context)
                                                                     .labelMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Outfit',
+                                                                      font: GoogleFonts
+                                                                          .outfit(),
                                                                       letterSpacing:
                                                                           0.0,
                                                                     ),
@@ -3941,8 +3941,8 @@ class _ConfigurationSettingPageWidgetState
                                                                         context)
                                                                     .labelMedium
                                                                     .override(
-                                                                      fontFamily:
-                                                                          'Outfit',
+                                                                      font: GoogleFonts
+                                                                          .outfit(),
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:
@@ -4011,8 +4011,8 @@ class _ConfigurationSettingPageWidgetState
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    fontFamily:
-                                                                        'Plus Jakarta Sans',
+                                                                    font: GoogleFonts
+                                                                        .plusJakartaSans(),
                                                                     fontSize:
                                                                         16.0,
                                                                     letterSpacing:
@@ -4130,8 +4130,8 @@ class _ConfigurationSettingPageWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   fontSize:
                                                                       15.0,
                                                                   letterSpacing:
@@ -4154,8 +4154,8 @@ class _ConfigurationSettingPageWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   fontSize:
                                                                       15.0,
                                                                   letterSpacing:
@@ -4178,8 +4178,8 @@ class _ConfigurationSettingPageWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  fontFamily:
-                                                                      'Plus Jakarta Sans',
+                                                                  font: GoogleFonts
+                                                                      .plusJakartaSans(),
                                                                   fontSize:
                                                                       15.0,
                                                                   letterSpacing:
@@ -4281,7 +4281,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'y5nsp5vu' /* Sign Date */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4295,7 +4295,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   '1sonhzn1' /* Enable */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4309,7 +4309,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'pxooss1a' /* Process */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4373,7 +4373,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'n04vvpv8' /* Signature */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4387,7 +4387,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   '671egtdm' /* Enable */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4401,7 +4401,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'fwz1aqju' /* Process */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4463,7 +4463,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'm0clnc8z' /* Initial */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4477,7 +4477,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'bab6zhto' /* Enable */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4491,7 +4491,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'pu6tz6io' /* Process */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4555,7 +4555,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'galekenf' /* Name */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4569,7 +4569,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'fwl9cvyf' /* Enable */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4583,7 +4583,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'q9e8qvg7' /* Process */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4645,7 +4645,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'c12qn7pk' /* Email */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4659,7 +4659,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'isypq3no' /* Enable */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4673,7 +4673,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'hnor35gv' /* Process */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4737,7 +4737,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'azdidjw2' /* Phone Number */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4751,7 +4751,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   '9oa9t65m' /* Enable */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4765,7 +4765,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   's3ohxd1l' /* Process */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4827,7 +4827,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'fz1gbix7' /* Text */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4841,7 +4841,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'tsmck41t' /* Enable */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4855,7 +4855,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'sxeut4g3' /* Process */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4919,7 +4919,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'msswypo5' /* Select */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4933,7 +4933,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'hxjd1gje' /* Enable */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -4947,7 +4947,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   '7r0fal0f' /* Process */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w600,
@@ -5043,8 +5043,8 @@ class _ConfigurationSettingPageWidgetState
                                                     FlutterFlowTheme.of(context)
                                                         .bodyMedium
                                                         .override(
-                                                          fontFamily:
-                                                              'Plus Jakarta Sans',
+                                                          font: GoogleFonts
+                                                              .plusJakartaSans(),
                                                           fontSize: 16.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
@@ -5178,8 +5178,8 @@ class _ConfigurationSettingPageWidgetState
                                                                             context)
                                                                         .labelMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Outfit',
+                                                                          font:
+                                                                              GoogleFonts.outfit(),
                                                                           letterSpacing:
                                                                               0.0,
                                                                         ),
@@ -5192,8 +5192,8 @@ class _ConfigurationSettingPageWidgetState
                                                                             context)
                                                                         .labelMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Outfit',
+                                                                          font:
+                                                                              GoogleFonts.outfit(),
                                                                           fontSize:
                                                                               16.0,
                                                                           letterSpacing:
@@ -5261,8 +5261,8 @@ class _ConfigurationSettingPageWidgetState
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        fontFamily:
-                                                                            'Plus Jakarta Sans',
+                                                                        font: GoogleFonts
+                                                                            .plusJakartaSans(),
                                                                         fontSize:
                                                                             16.0,
                                                                         letterSpacing:
@@ -5458,8 +5458,8 @@ class _ConfigurationSettingPageWidgetState
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        fontFamily:
-                                                                            'Plus Jakarta Sans',
+                                                                        font: GoogleFonts
+                                                                            .plusJakartaSans(),
                                                                         fontSize:
                                                                             15.0,
                                                                         letterSpacing:
@@ -5534,8 +5534,8 @@ class _ConfigurationSettingPageWidgetState
                                                                             context)
                                                                         .bodyMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Plus Jakarta Sans',
+                                                                          font:
+                                                                              GoogleFonts.plusJakartaSans(),
                                                                           fontSize:
                                                                               15.0,
                                                                           letterSpacing:
@@ -5600,8 +5600,8 @@ class _ConfigurationSettingPageWidgetState
                                                                             context)
                                                                         .bodyMedium
                                                                         .override(
-                                                                          fontFamily:
-                                                                              'Plus Jakarta Sans',
+                                                                          font:
+                                                                              GoogleFonts.plusJakartaSans(),
                                                                           fontSize:
                                                                               15.0,
                                                                           letterSpacing:
@@ -5734,7 +5734,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   '42p2w2ta' /* ក្រសួងមហាផ្ទៃ */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w500,
@@ -5810,7 +5810,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                     '8933cwbu' /* Process */,
                                                                                   ),
                                                                                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                        fontFamily: 'Plus Jakarta Sans',
+                                                                                        font: GoogleFonts.plusJakartaSans(),
                                                                                         fontSize: 15.0,
                                                                                         letterSpacing: 0.0,
                                                                                         fontWeight: FontWeight.w500,
@@ -5947,7 +5947,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   '2crqdcq0' /* ក្រសួងសសាធារណការណ៍ និងដឹកជញ្ជូ... */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w500,
@@ -6023,7 +6023,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                     '6dtxtle7' /* Process */,
                                                                                   ),
                                                                                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                        fontFamily: 'Plus Jakarta Sans',
+                                                                                        font: GoogleFonts.plusJakartaSans(),
                                                                                         fontSize: 15.0,
                                                                                         letterSpacing: 0.0,
                                                                                         fontWeight: FontWeight.w500,
@@ -6177,7 +6177,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   'i3q0y32u' /* ក្រសួងរ៉ែ និងថាមពល */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w500,
@@ -6253,7 +6253,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                     '5opygpvb' /* Process */,
                                                                                   ),
                                                                                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                        fontFamily: 'Plus Jakarta Sans',
+                                                                                        font: GoogleFonts.plusJakartaSans(),
                                                                                         fontSize: 15.0,
                                                                                         letterSpacing: 0.0,
                                                                                         fontWeight: FontWeight.w500,
@@ -6410,7 +6410,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                   '0r31ku33' /* ក្រសួងធនរ៉ែ និងថាមពល */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                      fontFamily: 'Plus Jakarta Sans',
+                                                                                      font: GoogleFonts.plusJakartaSans(),
                                                                                       fontSize: 15.0,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.w500,
@@ -6486,7 +6486,7 @@ class _ConfigurationSettingPageWidgetState
                                                                                     '34aax3yo' /* Process */,
                                                                                   ),
                                                                                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                        fontFamily: 'Plus Jakarta Sans',
+                                                                                        font: GoogleFonts.plusJakartaSans(),
                                                                                         fontSize: 15.0,
                                                                                         letterSpacing: 0.0,
                                                                                         fontWeight: FontWeight.w500,

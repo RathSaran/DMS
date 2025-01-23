@@ -62,7 +62,7 @@ class _PageReportsv427WidgetState extends State<PageReportsv427Widget> {
                     '7zr7czh3' /* Contracts */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        fontFamily: 'Outfit',
+                        font: GoogleFonts.outfit(),
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -210,7 +210,8 @@ class _PageReportsv427WidgetState extends State<PageReportsv427Widget> {
                                                   context)
                                               .bodyMedium
                                               .override(
-                                                fontFamily: 'Plus Jakarta Sans',
+                                                font: GoogleFonts
+                                                    .plusJakartaSans(),
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .secondaryText,
@@ -293,8 +294,8 @@ class _PageReportsv427WidgetState extends State<PageReportsv427Widget> {
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             color: FlutterFlowTheme
                                                                     .of(context)
                                                                 .secondaryText,
@@ -379,8 +380,8 @@ class _PageReportsv427WidgetState extends State<PageReportsv427Widget> {
                                                           .of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        fontFamily:
-                                                            'Plus Jakarta Sans',
+                                                        font: GoogleFonts
+                                                            .plusJakartaSans(),
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -465,8 +466,8 @@ class _PageReportsv427WidgetState extends State<PageReportsv427Widget> {
                                                               context)
                                                           .bodyMedium
                                                           .override(
-                                                            fontFamily:
-                                                                'Plus Jakarta Sans',
+                                                            font: GoogleFonts
+                                                                .plusJakartaSans(),
                                                             letterSpacing: 0.0,
                                                           ),
                                                   hintText: FFLocalizations.of(
@@ -555,8 +556,8 @@ class _PageReportsv427WidgetState extends State<PageReportsv427Widget> {
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        fontFamily:
-                                                            'Plus Jakarta Sans',
+                                                        font: GoogleFonts
+                                                            .plusJakartaSans(),
                                                         fontSize: 24.0,
                                                         letterSpacing: 0.0,
                                                         fontWeight:
@@ -577,8 +578,8 @@ class _PageReportsv427WidgetState extends State<PageReportsv427Widget> {
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        fontFamily:
-                                                            'Plus Jakarta Sans',
+                                                        font: GoogleFonts
+                                                            .plusJakartaSans(),
                                                         fontSize: 20.0,
                                                         letterSpacing: 0.0,
                                                         fontWeight:
@@ -599,8 +600,8 @@ class _PageReportsv427WidgetState extends State<PageReportsv427Widget> {
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        fontFamily:
-                                                            'Plus Jakarta Sans',
+                                                        font: GoogleFonts
+                                                            .plusJakartaSans(),
                                                         fontSize: 14.0,
                                                         letterSpacing: 0.0,
                                                         fontWeight:

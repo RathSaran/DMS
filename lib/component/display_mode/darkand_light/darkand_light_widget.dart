@@ -185,7 +185,7 @@ class _DarkandLightWidgetState extends State<DarkandLightWidget>
                                         style: FlutterFlowTheme.of(context)
                                             .titleLarge
                                             .override(
-                                              fontFamily: 'Outfit',
+                                              font: GoogleFonts.outfit(),
                                               color: Colors.white,
                                               fontSize: 16.0,
                                               letterSpacing: 0.0,
@@ -359,7 +359,7 @@ class _DarkandLightWidgetState extends State<DarkandLightWidget>
                                         style: FlutterFlowTheme.of(context)
                                             .titleLarge
                                             .override(
-                                              fontFamily: 'Outfit',
+                                              font: GoogleFonts.outfit(),
                                               color: Color(0xFF1B1D27),
                                               fontSize: 16.0,
                                               letterSpacing: 0.0,
@@ -533,7 +533,7 @@ class _DarkandLightWidgetState extends State<DarkandLightWidget>
                                         style: FlutterFlowTheme.of(context)
                                             .titleLarge
                                             .override(
-                                              fontFamily: 'Outfit',
+                                              font: GoogleFonts.outfit(),
                                               color:
                                                   FlutterFlowTheme.of(context)
                                                       .primaryBackground,

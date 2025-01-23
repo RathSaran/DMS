@@ -95,7 +95,7 @@ class _ComponentProcessDocumentWidgetState
                   'vfol8hww' /* Add Reciption */,
                 ),
                 style: FlutterFlowTheme.of(context).titleSmall.override(
-                      fontFamily: 'Plus Jakarta Sans',
+                      font: GoogleFonts.plusJakartaSans(),
                       letterSpacing: 0.0,
                     ),
               ),
@@ -158,7 +158,7 @@ class _ComponentProcessDocumentWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     letterSpacing: 0.0,
                                   ),
                             ),
@@ -202,7 +202,7 @@ class _ComponentProcessDocumentWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    fontFamily: 'Plus Jakarta Sans',
+                                    font: GoogleFonts.plusJakartaSans(),
                                     letterSpacing: 0.0,
                                   ),
                             ),
@@ -250,8 +250,8 @@ class _ComponentProcessDocumentWidgetState
                                             style: FlutterFlowTheme.of(context)
                                                 .titleSmall
                                                 .override(
-                                                  fontFamily:
-                                                      'Plus Jakarta Sans',
+                                                  font: GoogleFonts
+                                                      .plusJakartaSans(),
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -357,8 +357,8 @@ class _ComponentProcessDocumentWidgetState
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                fontFamily:
-                                                                    'Plus Jakarta Sans',
+                                                                font: GoogleFonts
+                                                                    .plusJakartaSans(),
                                                                 letterSpacing:
                                                                     0.0,
                                                               ),
@@ -521,8 +521,8 @@ class _ComponentProcessDocumentWidgetState
                                                                               context)
                                                                           .titleSmall
                                                                           .override(
-                                                                            fontFamily:
-                                                                                'Plus Jakarta Sans',
+                                                                            font:
+                                                                                GoogleFonts.plusJakartaSans(),
                                                                             letterSpacing:
                                                                                 0.0,
                                                                           ),
@@ -685,7 +685,7 @@ class _ComponentProcessDocumentWidgetState
                                                                                                 '-',
                                                                                               ),
                                                                                               style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                    fontFamily: 'Plus Jakarta Sans',
+                                                                                                    font: GoogleFonts.plusJakartaSans(),
                                                                                                     letterSpacing: 0.0,
                                                                                                     fontWeight: FontWeight.w600,
                                                                                                   ),
@@ -727,7 +727,7 @@ class _ComponentProcessDocumentWidgetState
                                                                                         '-',
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                            fontFamily: 'Plus Jakarta Sans',
+                                                                                            font: GoogleFonts.plusJakartaSans(),
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -855,7 +855,7 @@ class _ComponentProcessDocumentWidgetState
                                                                                                                 '-',
                                                                                                               ),
                                                                                                               style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                                    fontFamily: 'Plus Jakarta Sans',
+                                                                                                                    font: GoogleFonts.plusJakartaSans(),
                                                                                                                     letterSpacing: 0.0,
                                                                                                                     fontWeight: FontWeight.w600,
                                                                                                                   ),
@@ -892,7 +892,7 @@ class _ComponentProcessDocumentWidgetState
                                                                                                         '-',
                                                                                                       ),
                                                                                                       style: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                                            fontFamily: 'Plus Jakarta Sans',
+                                                                                                            font: GoogleFonts.plusJakartaSans(),
                                                                                                             letterSpacing: 0.0,
                                                                                                           ),
                                                                                                     ),
@@ -1020,7 +1020,7 @@ class _ComponentProcessDocumentWidgetState
                                                                                                                                 '-',
                                                                                                                               ),
                                                                                                                               style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                                                    fontFamily: 'Plus Jakarta Sans',
+                                                                                                                                    font: GoogleFonts.plusJakartaSans(),
                                                                                                                                     letterSpacing: 0.0,
                                                                                                                                     fontWeight: FontWeight.w600,
                                                                                                                                   ),
@@ -1057,7 +1057,7 @@ class _ComponentProcessDocumentWidgetState
                                                                                                                         '-',
                                                                                                                       ),
                                                                                                                       style: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                                                            fontFamily: 'Plus Jakarta Sans',
+                                                                                                                            font: GoogleFonts.plusJakartaSans(),
                                                                                                                             letterSpacing: 0.0,
                                                                                                                           ),
                                                                                                                     ),
@@ -1140,7 +1140,7 @@ class _ComponentProcessDocumentWidgetState
                                                                                                                                         '-',
                                                                                                                                       ),
                                                                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                                                            fontFamily: 'Plus Jakarta Sans',
+                                                                                                                                            font: GoogleFonts.plusJakartaSans(),
                                                                                                                                             letterSpacing: 0.0,
                                                                                                                                             fontWeight: FontWeight.w600,
                                                                                                                                           ),
@@ -1277,8 +1277,8 @@ class _ComponentProcessDocumentWidgetState
                                             style: FlutterFlowTheme.of(context)
                                                 .titleSmall
                                                 .override(
-                                                  fontFamily:
-                                                      'Plus Jakarta Sans',
+                                                  font: GoogleFonts
+                                                      .plusJakartaSans(),
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -1343,7 +1343,7 @@ class _ComponentProcessDocumentWidgetState
                   'cxbtmmt4' /* More Setting */,
                 ),
                 style: FlutterFlowTheme.of(context).titleSmall.override(
-                      fontFamily: 'Plus Jakarta Sans',
+                      font: GoogleFonts.plusJakartaSans(),
                       letterSpacing: 0.0,
                     ),
               ),
@@ -1366,7 +1366,7 @@ class _ComponentProcessDocumentWidgetState
                         '3o1znsb4' /* Validate */,
                       ),
                       style: FlutterFlowTheme.of(context).titleSmall.override(
-                            fontFamily: 'Plus Jakarta Sans',
+                            font: GoogleFonts.plusJakartaSans(),
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.w600,
                           ),
@@ -1413,7 +1413,7 @@ class _ComponentProcessDocumentWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          fontFamily: 'Plus Jakarta Sans',
+                                          font: GoogleFonts.plusJakartaSans(),
                                           letterSpacing: 0.0,
                                         ),
                                   ),
@@ -1433,7 +1433,7 @@ class _ComponentProcessDocumentWidgetState
                                               FlutterFlowTheme.of(context)
                                                   .labelMedium
                                                   .override(
-                                                    fontFamily: 'Outfit',
+                                                    font: GoogleFonts.outfit(),
                                                     letterSpacing: 0.0,
                                                   ),
                                           hintText: FFLocalizations.of(context)
@@ -1444,7 +1444,7 @@ class _ComponentProcessDocumentWidgetState
                                               FlutterFlowTheme.of(context)
                                                   .labelMedium
                                                   .override(
-                                                    fontFamily: 'Outfit',
+                                                    font: GoogleFonts.outfit(),
                                                     letterSpacing: 0.0,
                                                   ),
                                           enabledBorder: OutlineInputBorder(
@@ -1497,7 +1497,8 @@ class _ComponentProcessDocumentWidgetState
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              fontFamily: 'Plus Jakarta Sans',
+                                              font:
+                                                  GoogleFonts.plusJakartaSans(),
                                               letterSpacing: 0.0,
                                             ),
                                         cursorColor:
@@ -1539,7 +1540,8 @@ class _ComponentProcessDocumentWidgetState
                                                     FlutterFlowTheme.of(context)
                                                         .headlineLarge
                                                         .override(
-                                                          fontFamily: 'Outfit',
+                                                          font: GoogleFonts
+                                                              .outfit(),
                                                           fontSize: 32.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
@@ -1599,7 +1601,7 @@ class _ComponentProcessDocumentWidgetState
                           'jvqgt2uf' /* Reminder */,
                         ),
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              fontFamily: 'Plus Jakarta Sans',
+                              font: GoogleFonts.plusJakartaSans(),
                               fontSize: 16.0,
                               letterSpacing: 0.0,
                               fontWeight: FontWeight.w600,
@@ -1623,7 +1625,7 @@ class _ComponentProcessDocumentWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         letterSpacing: 0.0,
                                       ),
                                 ),
@@ -1642,7 +1644,7 @@ class _ComponentProcessDocumentWidgetState
                                         labelStyle: FlutterFlowTheme.of(context)
                                             .labelMedium
                                             .override(
-                                              fontFamily: 'Outfit',
+                                              font: GoogleFonts.outfit(),
                                               letterSpacing: 0.0,
                                             ),
                                         hintText:
@@ -1652,7 +1654,7 @@ class _ComponentProcessDocumentWidgetState
                                         hintStyle: FlutterFlowTheme.of(context)
                                             .labelMedium
                                             .override(
-                                              fontFamily: 'Outfit',
+                                              font: GoogleFonts.outfit(),
                                               letterSpacing: 0.0,
                                             ),
                                         enabledBorder: OutlineInputBorder(
@@ -1699,7 +1701,7 @@ class _ComponentProcessDocumentWidgetState
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            fontFamily: 'Plus Jakarta Sans',
+                                            font: GoogleFonts.plusJakartaSans(),
                                             letterSpacing: 0.0,
                                           ),
                                       cursorColor: FlutterFlowTheme.of(context)
@@ -1716,7 +1718,7 @@ class _ComponentProcessDocumentWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         letterSpacing: 0.0,
                                       ),
                                 ),
@@ -1764,7 +1766,7 @@ class _ComponentProcessDocumentWidgetState
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        fontFamily: 'Plus Jakarta Sans',
+                                        font: GoogleFonts.plusJakartaSans(),
                                         letterSpacing: 0.0,
                                       ),
                                 ),
@@ -1788,7 +1790,7 @@ class _ComponentProcessDocumentWidgetState
                       '5dj02syk' /* Email Description */,
                     ),
                     style: FlutterFlowTheme.of(context).titleSmall.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -1797,7 +1799,7 @@ class _ComponentProcessDocumentWidgetState
                       '7awjl9ze' /* * */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           color: FlutterFlowTheme.of(context).error,
                           fontSize: 14.0,
                           letterSpacing: 0.0,
@@ -1824,7 +1826,7 @@ class _ComponentProcessDocumentWidgetState
                 decoration: InputDecoration(
                   isDense: true,
                   hintStyle: FlutterFlowTheme.of(context).labelMedium.override(
-                        fontFamily: 'Outfit',
+                        font: GoogleFonts.outfit(),
                         letterSpacing: 0.0,
                       ),
                   enabledBorder: OutlineInputBorder(
@@ -1859,7 +1861,7 @@ class _ComponentProcessDocumentWidgetState
                   fillColor: FlutterFlowTheme.of(context).secondaryBackground,
                 ),
                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                      fontFamily: 'Plus Jakarta Sans',
+                      font: GoogleFonts.plusJakartaSans(),
                       letterSpacing: 0.0,
                     ),
                 maxLines: 10,

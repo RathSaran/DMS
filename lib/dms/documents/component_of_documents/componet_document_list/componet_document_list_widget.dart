@@ -88,7 +88,7 @@ class _ComponetDocumentListWidgetState
                         'r5te4lno' /* Name */,
                       ),
                       style: FlutterFlowTheme.of(context).labelLarge.override(
-                            fontFamily: 'Outfit',
+                            font: GoogleFonts.outfit(),
                             letterSpacing: 0.0,
                           ),
                     ),
@@ -102,7 +102,7 @@ class _ComponetDocumentListWidgetState
                         'gfzaeiul' /* Edit Header 3 */,
                       ),
                       style: FlutterFlowTheme.of(context).labelLarge.override(
-                            fontFamily: 'Outfit',
+                            font: GoogleFonts.outfit(),
                             letterSpacing: 0.0,
                           ),
                     ),
@@ -116,7 +116,7 @@ class _ComponetDocumentListWidgetState
                         '3c29tpj2' /* Edit Header 4 */,
                       ),
                       style: FlutterFlowTheme.of(context).labelLarge.override(
-                            fontFamily: 'Outfit',
+                            font: GoogleFonts.outfit(),
                             letterSpacing: 0.0,
                           ),
                     ),
@@ -130,7 +130,7 @@ class _ComponetDocumentListWidgetState
                         'g06mwvi1' /* Edit Header 5 */,
                       ),
                       style: FlutterFlowTheme.of(context).labelLarge.override(
-                            fontFamily: 'Outfit',
+                            font: GoogleFonts.outfit(),
                             letterSpacing: 0.0,
                           ),
                     ),
@@ -144,7 +144,7 @@ class _ComponetDocumentListWidgetState
                         'wey99dhc' /* Edit Header 6 */,
                       ),
                       style: FlutterFlowTheme.of(context).labelLarge.override(
-                            fontFamily: 'Outfit',
+                            font: GoogleFonts.outfit(),
                             letterSpacing: 0.0,
                           ),
                     ),
@@ -158,7 +158,7 @@ class _ComponetDocumentListWidgetState
                         'q3h93n7y' /* Edit Header 7 */,
                       ),
                       style: FlutterFlowTheme.of(context).labelLarge.override(
-                            fontFamily: 'Outfit',
+                            font: GoogleFonts.outfit(),
                             letterSpacing: 0.0,
                           ),
                     ),
@@ -172,7 +172,7 @@ class _ComponetDocumentListWidgetState
                         '8gn8ivk7' /* Edit Header 8 */,
                       ),
                       style: FlutterFlowTheme.of(context).labelLarge.override(
-                            fontFamily: 'Outfit',
+                            font: GoogleFonts.outfit(),
                             letterSpacing: 0.0,
                           ),
                     ),
@@ -206,7 +206,7 @@ class _ComponetDocumentListWidgetState
                       '-',
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -215,7 +215,7 @@ class _ComponetDocumentListWidgetState
                       'kr4b61gm' /* Edit Column 3 */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -224,7 +224,7 @@ class _ComponetDocumentListWidgetState
                       'ln6le8ry' /* Edit Column 4 */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -233,7 +233,7 @@ class _ComponetDocumentListWidgetState
                       'n5zdcy1x' /* Edit Column 5 */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -242,7 +242,7 @@ class _ComponetDocumentListWidgetState
                       'ozo2vjpi' /* Edit Column 6 */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -251,7 +251,7 @@ class _ComponetDocumentListWidgetState
                       'bgad5dce' /* Edit Column 7 */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -260,7 +260,7 @@ class _ComponetDocumentListWidgetState
                       'xw1nnyhs' /* Edit Column 8 */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          fontFamily: 'Plus Jakarta Sans',
+                          font: GoogleFonts.plusJakartaSans(),
                           letterSpacing: 0.0,
                         ),
                   ),

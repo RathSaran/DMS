@@ -77,7 +77,7 @@ class _MyTextFieldWidgetState extends State<MyTextFieldWidget> {
                     'xLabel',
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -89,7 +89,7 @@ class _MyTextFieldWidgetState extends State<MyTextFieldWidget> {
                 )
               ],
               style: FlutterFlowTheme.of(context).bodyMedium.override(
-                    fontFamily: 'Plus Jakarta Sans',
+                    font: GoogleFonts.plusJakartaSans(),
                     letterSpacing: 0.0,
                   ),
             ),
@@ -106,12 +106,12 @@ class _MyTextFieldWidgetState extends State<MyTextFieldWidget> {
             decoration: InputDecoration(
               isDense: true,
               labelStyle: FlutterFlowTheme.of(context).labelMedium.override(
-                    fontFamily: 'Outfit',
+                    font: GoogleFonts.outfit(),
                     letterSpacing: 0.0,
                   ),
               hintText: widget!.hint,
               hintStyle: FlutterFlowTheme.of(context).labelMedium.override(
-                    fontFamily: 'Outfit',
+                    font: GoogleFonts.outfit(),
                     letterSpacing: 0.0,
                   ),
               enabledBorder: OutlineInputBorder(
@@ -147,7 +147,7 @@ class _MyTextFieldWidgetState extends State<MyTextFieldWidget> {
               contentPadding: EdgeInsets.all(20.0),
             ),
             style: FlutterFlowTheme.of(context).bodyMedium.override(
-                  fontFamily: 'Plus Jakarta Sans',
+                  font: GoogleFonts.plusJakartaSans(),
                   letterSpacing: 0.0,
                 ),
             maxLines: widget!.maxLine,

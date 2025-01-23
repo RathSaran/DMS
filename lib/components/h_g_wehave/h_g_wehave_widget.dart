@@ -76,7 +76,7 @@ class _HGWehaveWidgetState extends State<HGWehaveWidget> {
                       ),
                       style:
                           FlutterFlowTheme.of(context).headlineLarge.override(
-                                fontFamily: 'Outfit',
+                                font: GoogleFonts.outfit(),
                                 fontSize: 23.0,
                                 letterSpacing: 0.0,
                               ),
@@ -107,7 +107,7 @@ class _HGWehaveWidgetState extends State<HGWehaveWidget> {
                       ),
                       style:
                           FlutterFlowTheme.of(context).headlineLarge.override(
-                                fontFamily: 'Outfit',
+                                font: GoogleFonts.outfit(),
                                 fontSize: 23.0,
                                 letterSpacing: 0.0,
                               ),
@@ -138,7 +138,7 @@ class _HGWehaveWidgetState extends State<HGWehaveWidget> {
                       ),
                       style:
                           FlutterFlowTheme.of(context).headlineLarge.override(
-                                fontFamily: 'Outfit',
+                                font: GoogleFonts.outfit(),
                                 fontSize: 23.0,
                                 letterSpacing: 0.0,
                               ),
@@ -169,7 +169,7 @@ class _HGWehaveWidgetState extends State<HGWehaveWidget> {
                       ),
                       style:
                           FlutterFlowTheme.of(context).headlineLarge.override(
-                                fontFamily: 'Outfit',
+                                font: GoogleFonts.outfit(),
                                 fontSize: 23.0,
                                 letterSpacing: 0.0,
                               ),
@@ -200,7 +200,7 @@ class _HGWehaveWidgetState extends State<HGWehaveWidget> {
                       ),
                       style:
                           FlutterFlowTheme.of(context).headlineLarge.override(
-                                fontFamily: 'Outfit',
+                                font: GoogleFonts.outfit(),
                                 fontSize: 23.0,
                                 letterSpacing: 0.0,
                               ),

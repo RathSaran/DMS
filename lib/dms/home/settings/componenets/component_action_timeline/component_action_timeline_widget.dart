@@ -233,7 +233,7 @@ class _ComponentActionTimelineWidgetState
                     'lq8h9jax' /* View */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         color: FlutterFlowTheme.of(context).secondaryText,
                         letterSpacing: 0.0,
                         fontWeight: FontWeight.w500,
@@ -253,7 +253,7 @@ class _ComponentActionTimelineWidgetState
                     'ujdgovg7' /* Sign */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         color: FlutterFlowTheme.of(context).secondaryText,
                         letterSpacing: 0.0,
                         fontWeight: FontWeight.w500,
@@ -273,7 +273,7 @@ class _ComponentActionTimelineWidgetState
                     '6u6q6lsc' /* Approve */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         color: FlutterFlowTheme.of(context).secondaryText,
                         letterSpacing: 0.0,
                         fontWeight: FontWeight.w500,
@@ -293,7 +293,7 @@ class _ComponentActionTimelineWidgetState
                     'yzyl4y4p' /* Decline */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        fontFamily: 'Plus Jakarta Sans',
+                        font: GoogleFonts.plusJakartaSans(),
                         color: FlutterFlowTheme.of(context).secondaryText,
                         letterSpacing: 0.0,
                         fontWeight: FontWeight.w500,
