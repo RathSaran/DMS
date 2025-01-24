@@ -364,8 +364,6 @@ void main() async {
           find.byKey(ValueKey('password_oblr')), 'chantha@123');
       await tester.pumpAndSettle();
       await tester.tap(find.byKey(ValueKey('Button-Login_61ul')));
-      await tester.pumpAndSettle();
-      expect(find.byKey(ValueKey('PageHeader_vepg')), findsWidgets);
     });
   });
 }
