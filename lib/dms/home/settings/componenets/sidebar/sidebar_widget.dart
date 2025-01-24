@@ -200,7 +200,7 @@ class _SidebarWidgetState extends State<SidebarWidget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyLarge
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       fontSize: 14.0,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w500,
@@ -219,7 +219,7 @@ class _SidebarWidgetState extends State<SidebarWidget> {
                                   style: FlutterFlowTheme.of(context)
                                       .bodyLarge
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         color: Color(0xFF6F61EF),
                                         fontSize: 12.0,
                                         letterSpacing: 0.0,
@@ -282,7 +282,7 @@ class _SidebarWidgetState extends State<SidebarWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyLarge
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: widget!.textOne,
                                     letterSpacing: 0.0,
                                   ),
@@ -338,7 +338,7 @@ class _SidebarWidgetState extends State<SidebarWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyLarge
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: widget!.textFive,
                                     letterSpacing: 0.0,
                                   ),
@@ -394,7 +394,7 @@ class _SidebarWidgetState extends State<SidebarWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyLarge
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: widget!.textTwo,
                                     letterSpacing: 0.0,
                                   ),
@@ -450,7 +450,7 @@ class _SidebarWidgetState extends State<SidebarWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyLarge
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: widget!.textThree,
                                     letterSpacing: 0.0,
                                   ),
@@ -506,7 +506,7 @@ class _SidebarWidgetState extends State<SidebarWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyLarge
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: widget!.textFour,
                                     letterSpacing: 0.0,
                                   ),

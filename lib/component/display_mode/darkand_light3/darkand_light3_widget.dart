@@ -81,7 +81,7 @@ class _DarkandLight3WidgetState extends State<DarkandLight3Widget> {
                     'lzhcuxna' /* Light Mode */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         fontSize: 16.0,
                         letterSpacing: 0.0,
                         fontWeight: FontWeight.w800,
@@ -123,7 +123,7 @@ class _DarkandLight3WidgetState extends State<DarkandLight3Widget> {
                     'kxepqoim' /* Dark Mode */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         color: FlutterFlowTheme.of(context).primaryBackground,
                         fontSize: 16.0,
                         letterSpacing: 0.0,
@@ -166,7 +166,7 @@ class _DarkandLight3WidgetState extends State<DarkandLight3Widget> {
                     'k5klm4ty' /* System Mode */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         fontSize: 16.0,
                         letterSpacing: 0.0,
                         fontWeight: FontWeight.w800,

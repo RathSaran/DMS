@@ -162,7 +162,7 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                     'nir30xgu' /* Customers */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        font: GoogleFonts.outfit(),
+                        fontFamily: 'Outfit',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -273,8 +273,7 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                         style: FlutterFlowTheme.of(context)
                                             .titleSmall
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.w600,
                                             ),
@@ -415,8 +414,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                     context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -432,8 +431,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                     context)
                                                                 .bodySmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .secondaryText,
@@ -586,8 +585,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -681,8 +680,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -783,8 +782,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -878,8 +877,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -980,8 +979,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1075,8 +1074,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -1177,8 +1176,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1271,8 +1270,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -1372,8 +1371,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1466,8 +1465,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -1568,8 +1567,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1663,8 +1662,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -1765,8 +1764,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1860,8 +1859,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -1962,8 +1961,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -2057,8 +2056,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -2151,8 +2150,7 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               letterSpacing: 0.0,
                                             ),
                                       ),
@@ -2224,8 +2222,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                   context)
                                                               .labelMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .outfit(),
+                                                                fontFamily:
+                                                                    'Outfit',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primaryText,
@@ -2243,8 +2241,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                   context)
                                                               .labelMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .outfit(),
+                                                                fontFamily:
+                                                                    'Outfit',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primaryText,
@@ -2271,8 +2269,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           letterSpacing: 0.0,
                                                         ),
                                                     keyboardType:
@@ -2305,8 +2303,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 26.0,
                                                         letterSpacing: 0.0,
                                                       ),
@@ -2323,8 +2321,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -2430,7 +2428,7 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                       textStyle: FlutterFlowTheme.of(context)
                                           .titleSmall
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: FlutterFlowTheme.of(context)
                                                 .primaryText,
                                             letterSpacing: 0.0,
@@ -2455,8 +2453,7 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .secondaryText,
@@ -2831,8 +2828,7 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                   context)
                                               .titleSmall
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .info,
@@ -3020,8 +3016,7 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                   context)
                                               .titleSmall
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .info,
@@ -3186,8 +3181,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                     context)
                                                                 .bodyLarge
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3300,8 +3295,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                     context)
                                                                 .bodyLarge
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3376,8 +3371,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                     context)
                                                                 .bodyLarge
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3452,8 +3447,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                     context)
                                                                 .bodyLarge
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3527,8 +3522,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                     context)
                                                                 .bodyLarge
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3602,8 +3597,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                     context)
                                                                 .bodyLarge
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3677,8 +3672,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                     context)
                                                                 .bodyLarge
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3752,8 +3747,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                                                     context)
                                                                 .bodyLarge
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -3926,8 +3921,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -4017,8 +4012,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -4108,8 +4103,8 @@ class _PagePrepareSignatureWidgetState extends State<PagePrepareSignatureWidget>
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),

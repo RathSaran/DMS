@@ -97,7 +97,7 @@ class _ComponentRenameFolderWidgetState
                         ),
                         style:
                             FlutterFlowTheme.of(context).headlineSmall.override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   fontSize: 16.0,
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.w500,
@@ -135,7 +135,7 @@ class _ComponentRenameFolderWidgetState
                     decoration: InputDecoration(
                       labelStyle:
                           FlutterFlowTheme.of(context).bodyLarge.override(
-                                font: GoogleFonts.plusJakartaSans(),
+                                fontFamily: 'Plus Jakarta Sans',
                                 letterSpacing: 0.0,
                               ),
                       hintText: FFLocalizations.of(context).getText(
@@ -143,7 +143,7 @@ class _ComponentRenameFolderWidgetState
                       ),
                       hintStyle:
                           FlutterFlowTheme.of(context).labelLarge.override(
-                                font: GoogleFonts.outfit(),
+                                fontFamily: 'Outfit',
                                 letterSpacing: 0.0,
                               ),
                       enabledBorder: OutlineInputBorder(
@@ -181,7 +181,7 @@ class _ComponentRenameFolderWidgetState
                           24.0, 24.0, 20.0, 24.0),
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w500,
                         ),
@@ -218,7 +218,7 @@ class _ComponentRenameFolderWidgetState
                           textStyle: FlutterFlowTheme.of(context)
                               .titleSmall
                               .override(
-                                font: GoogleFonts.plusJakartaSans(),
+                                fontFamily: 'Plus Jakarta Sans',
                                 color: FlutterFlowTheme.of(context).primaryText,
                                 letterSpacing: 0.0,
                                 fontWeight: FontWeight.w600,
@@ -271,7 +271,7 @@ class _ComponentRenameFolderWidgetState
                           color: FlutterFlowTheme.of(context).primary,
                           textStyle:
                               FlutterFlowTheme.of(context).titleSmall.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: FlutterFlowTheme.of(context).info,
                                     fontSize: 16.0,
                                     letterSpacing: 0.0,

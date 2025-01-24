@@ -192,7 +192,7 @@ class _ComponentSignInboxActionWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                   ),
                             ),
@@ -297,7 +297,7 @@ class _ComponentSignInboxActionWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                   ),
                             ),
@@ -341,7 +341,7 @@ class _ComponentSignInboxActionWidgetState
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   letterSpacing: 0.0,
                                 ),
                           ),
@@ -408,7 +408,7 @@ class _ComponentSignInboxActionWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                   ),
                             ),
@@ -477,7 +477,7 @@ class _ComponentSignInboxActionWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                   ),
                             ),
@@ -522,7 +522,7 @@ class _ComponentSignInboxActionWidgetState
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   letterSpacing: 0.0,
                                 ),
                           ),
@@ -598,7 +598,7 @@ class _ComponentSignInboxActionWidgetState
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       letterSpacing: 0.0,
                                     ),
                               ),
@@ -667,7 +667,7 @@ class _ComponentSignInboxActionWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                   ),
                             ),

@@ -178,7 +178,7 @@ class _ComponentSignDTInboxWidgetState
                       'gc91qg4v' /* Receive NO */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -195,7 +195,7 @@ class _ComponentSignDTInboxWidgetState
                       'macx83ts' /* Message Description */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -210,7 +210,7 @@ class _ComponentSignDTInboxWidgetState
                       '3bsm2dp8' /* From */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -226,7 +226,7 @@ class _ComponentSignDTInboxWidgetState
                       'suhranou' /* Receive Date */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -243,7 +243,7 @@ class _ComponentSignDTInboxWidgetState
                       'xrzdw9mk' /* Validate Date */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -260,7 +260,7 @@ class _ComponentSignDTInboxWidgetState
                       'wcokx6qn' /* Status */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -380,7 +380,7 @@ class _ComponentSignDTInboxWidgetState
                   ),
                   maxLines: 2,
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         color: messageDataItem.isRead == false
                             ? FlutterFlowTheme.of(context).primary
                             : FlutterFlowTheme.of(context).primaryText,
@@ -400,7 +400,7 @@ class _ComponentSignDTInboxWidgetState
                         ),
                         maxLines: 2,
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               color: messageDataItem.isRead == false
                                   ? FlutterFlowTheme.of(context).primary
                                   : FlutterFlowTheme.of(context).primaryText,
@@ -536,7 +536,7 @@ class _ComponentSignDTInboxWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           letterSpacing: 0.0,
                                         ),
                                   ),
@@ -551,7 +551,7 @@ class _ComponentSignDTInboxWidgetState
                                     style: FlutterFlowTheme.of(context)
                                         .bodySmall
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           color: FlutterFlowTheme.of(context)
                                               .secondaryText,
                                           letterSpacing: 0.0,
@@ -576,7 +576,7 @@ class _ComponentSignDTInboxWidgetState
                     '-',
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -590,7 +590,7 @@ class _ComponentSignDTInboxWidgetState
                     '-',
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -682,7 +682,7 @@ class _ComponentSignDTInboxWidgetState
                         ),
                         maxLines: 1,
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               color: FlutterFlowTheme.of(context).primaryText,
                               fontSize: 12.0,
                               letterSpacing: 0.0,

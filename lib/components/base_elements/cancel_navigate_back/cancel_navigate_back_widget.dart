@@ -55,7 +55,7 @@ class _CancelNavigateBackWidgetState extends State<CancelNavigateBackWidget> {
         iconPadding: EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
         color: FlutterFlowTheme.of(context).lineColor,
         textStyle: FlutterFlowTheme.of(context).titleSmall.override(
-              font: GoogleFonts.plusJakartaSans(),
+              fontFamily: 'Plus Jakarta Sans',
               color: FlutterFlowTheme.of(context).primaryText,
               letterSpacing: 0.0,
               fontWeight: FontWeight.w600,

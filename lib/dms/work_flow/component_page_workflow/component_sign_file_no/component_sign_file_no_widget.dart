@@ -117,7 +117,7 @@ class _ComponentSignFileNoWidgetState extends State<ComponentSignFileNoWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .labelLarge
                                 .override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   letterSpacing: 0.0,
                                 ),
                           ),

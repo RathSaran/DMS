@@ -68,7 +68,7 @@ class _ComponentSignEmptyDataWidgetState
                   '2kekbd4k' /* You don't have any message! */,
                 ),
                 style: FlutterFlowTheme.of(context).labelLarge.override(
-                      font: GoogleFonts.outfit(),
+                      fontFamily: 'Outfit',
                       letterSpacing: 0.0,
                     ),
               ),

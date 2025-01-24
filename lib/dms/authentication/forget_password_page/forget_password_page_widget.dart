@@ -145,7 +145,7 @@ class _ForgetPasswordPageWidgetState extends State<ForgetPasswordPageWidget>
             '3hcuc8v6' /* Forgot Password */,
           ),
           style: FlutterFlowTheme.of(context).headlineSmall.override(
-                font: GoogleFonts.outfit(),
+                fontFamily: 'Outfit',
                 color: FlutterFlowTheme.of(context).primaryText,
                 letterSpacing: 0.0,
               ),
@@ -190,7 +190,7 @@ class _ForgetPasswordPageWidgetState extends State<ForgetPasswordPageWidget>
                         'sjjd1jb9' /* Don't remember your password? ... */,
                       ),
                       style: FlutterFlowTheme.of(context).labelMedium.override(
-                            font: GoogleFonts.outfit(),
+                            fontFamily: 'Outfit',
                             color: FlutterFlowTheme.of(context).primaryText,
                             letterSpacing: 0.0,
                           ),
@@ -214,7 +214,7 @@ class _ForgetPasswordPageWidgetState extends State<ForgetPasswordPageWidget>
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       color: FlutterFlowTheme.of(context)
                                           .primaryText,
                                       letterSpacing: 0.0,
@@ -233,7 +233,7 @@ class _ForgetPasswordPageWidgetState extends State<ForgetPasswordPageWidget>
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   color: FlutterFlowTheme.of(context).info,
                                   letterSpacing: 0.0,
                                 ),
@@ -252,13 +252,13 @@ class _ForgetPasswordPageWidgetState extends State<ForgetPasswordPageWidget>
                             labelStyle: FlutterFlowTheme.of(context)
                                 .labelMedium
                                 .override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   letterSpacing: 0.0,
                                 ),
                             hintStyle: FlutterFlowTheme.of(context)
                                 .labelMedium
                                 .override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   letterSpacing: 0.0,
                                 ),
                             enabledBorder: OutlineInputBorder(
@@ -296,7 +296,7 @@ class _ForgetPasswordPageWidgetState extends State<ForgetPasswordPageWidget>
                           ),
                           style:
                               FlutterFlowTheme.of(context).bodyMedium.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                   ),
                           cursorColor: FlutterFlowTheme.of(context).primaryText,
@@ -327,7 +327,7 @@ class _ForgetPasswordPageWidgetState extends State<ForgetPasswordPageWidget>
                           color: FlutterFlowTheme.of(context).primary,
                           textStyle:
                               FlutterFlowTheme.of(context).titleSmall.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: FlutterFlowTheme.of(context).info,
                                     fontSize: 16.0,
                                     letterSpacing: 0.0,

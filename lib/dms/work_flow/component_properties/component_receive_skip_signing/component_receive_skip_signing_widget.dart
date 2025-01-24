@@ -131,7 +131,7 @@ class _ComponentReceiveSkipSigningWidgetState
                           ),
                           style:
                               FlutterFlowTheme.of(context).bodyLarge.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: FlutterFlowTheme.of(context).info,
                                     letterSpacing: 0.0,
                                   ),
@@ -182,8 +182,8 @@ class _ComponentReceiveSkipSigningWidgetState
                                                     FlutterFlowTheme.of(context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           letterSpacing: 0.0,
                                                         ),
                                               ),
@@ -244,7 +244,7 @@ class _ComponentReceiveSkipSigningWidgetState
                                             style: FlutterFlowTheme.of(context)
                                                 .headlineSmall
                                                 .override(
-                                                  font: GoogleFonts.outfit(),
+                                                  fontFamily: 'Outfit',
                                                   fontSize: 14.0,
                                                   letterSpacing: 0.0,
                                                 ),
@@ -261,8 +261,8 @@ class _ComponentReceiveSkipSigningWidgetState
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -311,7 +311,7 @@ class _ComponentReceiveSkipSigningWidgetState
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         color: FlutterFlowTheme.of(context)
                                             .primaryText,
                                         letterSpacing: 0.0,
@@ -348,7 +348,7 @@ class _ComponentReceiveSkipSigningWidgetState
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         color: Colors.white,
                                         letterSpacing: 0.0,
                                       ),

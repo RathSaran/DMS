@@ -134,7 +134,7 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                     'bzb4npu4' /* Customers */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        font: GoogleFonts.outfit(),
+                        fontFamily: 'Outfit',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -310,8 +310,7 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 letterSpacing: 0.0,
                                               ),
                                         ),
@@ -408,8 +407,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           letterSpacing: 0.0,
                                                         ),
                                                   ),
@@ -433,8 +432,7 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                             context)
                                                         .labelSmall
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .outfit(),
+                                                          fontFamily: 'Outfit',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -505,8 +503,7 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 letterSpacing: 0.0,
                                               ),
                                         ),
@@ -552,8 +549,7 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 letterSpacing: 0.0,
                                               ),
                                         ),
@@ -632,8 +628,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                     context)
                                                                 .labelMedium
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .primaryText,
@@ -651,8 +647,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                     context)
                                                                 .labelMedium
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .primaryText,
@@ -680,8 +676,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             letterSpacing: 0.0,
                                                           ),
                                                       keyboardType:
@@ -714,8 +710,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           fontSize: 26.0,
                                                           letterSpacing: 0.0,
                                                         ),
@@ -732,8 +728,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primaryText,
@@ -985,8 +981,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                   .of(context)
                                                               .bodyLarge
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1064,8 +1060,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                   .of(context)
                                                               .bodyLarge
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1143,8 +1139,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                   .of(context)
                                                               .bodyLarge
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1222,8 +1218,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                   .of(context)
                                                               .bodyLarge
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1301,8 +1297,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                   .of(context)
                                                               .bodyLarge
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1380,8 +1376,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                   .of(context)
                                                               .bodyLarge
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1458,8 +1454,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                   .of(context)
                                                               .bodyLarge
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -1583,8 +1579,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                       .of(context)
                                                                   .bodyLarge
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .primary,
@@ -1670,8 +1666,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                       .of(context)
                                                                   .bodyLarge
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .primary,
@@ -1757,8 +1753,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                       .of(context)
                                                                   .bodyLarge
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .primary,
@@ -1844,8 +1840,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                       .of(context)
                                                                   .bodyLarge
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .primary,
@@ -1931,8 +1927,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                       .of(context)
                                                                   .bodyLarge
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .primary,
@@ -2018,8 +2014,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                       .of(context)
                                                                   .bodyLarge
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .primary,
@@ -2105,8 +2101,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                       .of(context)
                                                                   .bodyLarge
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .primary,
@@ -2482,8 +2478,8 @@ class _PagePreviewDocumentWidgetState extends State<PagePreviewDocumentWidget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       letterSpacing:
                                                                           0.0,
                                                                     ),

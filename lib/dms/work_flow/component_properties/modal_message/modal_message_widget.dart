@@ -239,7 +239,7 @@ class _ModalMessageWidgetState extends State<ModalMessageWidget>
                           style: FlutterFlowTheme.of(context)
                               .headlineSmall
                               .override(
-                                font: GoogleFonts.outfit(),
+                                fontFamily: 'Outfit',
                                 letterSpacing: 0.0,
                               ),
                         ).animateOnPageLoad(
@@ -254,7 +254,7 @@ class _ModalMessageWidgetState extends State<ModalMessageWidget>
                             style: FlutterFlowTheme.of(context)
                                 .labelMedium
                                 .override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   letterSpacing: 0.0,
                                 ),
                           ).animateOnPageLoad(
@@ -290,7 +290,7 @@ class _ModalMessageWidgetState extends State<ModalMessageWidget>
                                       textStyle: FlutterFlowTheme.of(context)
                                           .titleSmall
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             letterSpacing: 0.0,
                                           ),
                                       elevation: 2.0,
@@ -329,7 +329,7 @@ class _ModalMessageWidgetState extends State<ModalMessageWidget>
                                       textStyle: FlutterFlowTheme.of(context)
                                           .bodyLarge
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             letterSpacing: 0.0,
                                           ),
                                       elevation: 2.0,

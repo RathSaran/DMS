@@ -326,8 +326,8 @@ class _PageDocumentUploadOnlyWidgetState
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.w500,
@@ -384,8 +384,7 @@ class _PageDocumentUploadOnlyWidgetState
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 letterSpacing: 0.0,
                                               ),
                                         ),
@@ -470,8 +469,8 @@ class _PageDocumentUploadOnlyWidgetState
                                                     context)
                                                 .titleSmall
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   color: FlutterFlowTheme.of(
                                                           context)
                                                       .info,
@@ -565,8 +564,8 @@ class _PageDocumentUploadOnlyWidgetState
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -625,8 +624,8 @@ class _PageDocumentUploadOnlyWidgetState
                                                               context)
                                                           .bodyMedium
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             letterSpacing: 0.0,
                                                           ),
                                                   hintText: FFLocalizations.of(
@@ -704,8 +703,8 @@ class _PageDocumentUploadOnlyWidgetState
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -748,8 +747,8 @@ class _PageDocumentUploadOnlyWidgetState
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                               hintText:
@@ -817,8 +816,8 @@ class _PageDocumentUploadOnlyWidgetState
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -861,8 +860,8 @@ class _PageDocumentUploadOnlyWidgetState
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                               hintText:
@@ -937,8 +936,8 @@ class _PageDocumentUploadOnlyWidgetState
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -981,8 +980,8 @@ class _PageDocumentUploadOnlyWidgetState
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                               hintText:
@@ -1074,7 +1073,7 @@ class _PageDocumentUploadOnlyWidgetState
                                 textStyle: FlutterFlowTheme.of(context)
                                     .titleSmall
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       color: FlutterFlowTheme.of(context)
                                           .primaryText,
                                       letterSpacing: 0.0,
@@ -1132,7 +1131,7 @@ class _PageDocumentUploadOnlyWidgetState
                                     textStyle: FlutterFlowTheme.of(context)
                                         .titleSmall
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           color:
                                               FlutterFlowTheme.of(context).info,
                                           fontSize: 16.0,
@@ -1183,8 +1182,7 @@ class _PageDocumentUploadOnlyWidgetState
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color:
                                                   FlutterFlowTheme.of(context)
                                                       .primaryText,
@@ -1230,7 +1228,7 @@ class _PageDocumentUploadOnlyWidgetState
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         color: FlutterFlowTheme.of(context)
                                             .primaryText,
                                         letterSpacing: 0.0,

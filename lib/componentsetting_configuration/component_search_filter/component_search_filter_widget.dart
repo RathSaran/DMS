@@ -115,7 +115,7 @@ class _ComponentSearchFilterWidgetState
                                 labelStyle: FlutterFlowTheme.of(context)
                                     .labelMedium
                                     .override(
-                                      font: GoogleFonts.outfit(),
+                                      fontFamily: 'Outfit',
                                       fontSize: 18.0,
                                       letterSpacing: 0.0,
                                     ),
@@ -125,7 +125,7 @@ class _ComponentSearchFilterWidgetState
                                 hintStyle: FlutterFlowTheme.of(context)
                                     .labelMedium
                                     .override(
-                                      font: GoogleFonts.outfit(),
+                                      fontFamily: 'Outfit',
                                       fontSize: 18.0,
                                       letterSpacing: 0.0,
                                     ),
@@ -165,7 +165,7 @@ class _ComponentSearchFilterWidgetState
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: FlutterFlowTheme.of(context).info,
                                     fontSize: 18.0,
                                     letterSpacing: 0.0,
@@ -255,7 +255,7 @@ class _ComponentSearchFilterWidgetState
                                 textStyle: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       fontSize: 16.0,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w600,

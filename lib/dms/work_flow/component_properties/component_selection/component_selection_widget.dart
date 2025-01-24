@@ -92,7 +92,7 @@ class _ComponentSelectionWidgetState extends State<ComponentSelectionWidget> {
                       'uv8ep45c' /* Selection */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyLarge.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           color: Colors.white,
                           letterSpacing: 0.0,
                         ),
@@ -150,7 +150,7 @@ class _ComponentSelectionWidgetState extends State<ComponentSelectionWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.bold,
                                   ),
@@ -177,7 +177,7 @@ class _ComponentSelectionWidgetState extends State<ComponentSelectionWidget> {
                             textStyle: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   fontSize: 14.0,
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.w500,
@@ -220,7 +220,7 @@ class _ComponentSelectionWidgetState extends State<ComponentSelectionWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.bold,
                                 ),
@@ -246,7 +246,7 @@ class _ComponentSelectionWidgetState extends State<ComponentSelectionWidget> {
                             textStyle: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   fontSize: 14.0,
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.w500,
@@ -320,7 +320,7 @@ class _ComponentSelectionWidgetState extends State<ComponentSelectionWidget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       color: FlutterFlowTheme.of(context)
                                           .primaryText,
                                       fontSize: 14.0,
@@ -353,7 +353,7 @@ class _ComponentSelectionWidgetState extends State<ComponentSelectionWidget> {
                           color: FlutterFlowTheme.of(context).primary,
                           textStyle:
                               FlutterFlowTheme.of(context).titleSmall.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: Colors.white,
                                     letterSpacing: 0.0,
                                   ),

@@ -67,7 +67,7 @@ class _PaginationPanelWidgetState extends State<PaginationPanelWidget> {
                     '14us0pqg' /* Show */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -98,7 +98,7 @@ class _PaginationPanelWidgetState extends State<PaginationPanelWidget> {
                 width: 100.0,
                 height: 50.0,
                 textStyle: FlutterFlowTheme.of(context).bodyMedium.override(
-                      font: GoogleFonts.plusJakartaSans(),
+                      fontFamily: 'Plus Jakarta Sans',
                       letterSpacing: 0.0,
                     ),
                 icon: Icon(
@@ -160,7 +160,7 @@ class _PaginationPanelWidgetState extends State<PaginationPanelWidget> {
                             labelStyle: FlutterFlowTheme.of(context)
                                 .labelMedium
                                 .override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   color:
                                       FlutterFlowTheme.of(context).primaryText,
                                   letterSpacing: 0.0,
@@ -171,7 +171,7 @@ class _PaginationPanelWidgetState extends State<PaginationPanelWidget> {
                             hintStyle: FlutterFlowTheme.of(context)
                                 .labelMedium
                                 .override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   color:
                                       FlutterFlowTheme.of(context).primaryText,
                                   letterSpacing: 0.0,
@@ -187,7 +187,7 @@ class _PaginationPanelWidgetState extends State<PaginationPanelWidget> {
                           ),
                           style:
                               FlutterFlowTheme.of(context).bodyMedium.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                   ),
                           keyboardType: const TextInputType.numberWithOptions(
@@ -208,7 +208,7 @@ class _PaginationPanelWidgetState extends State<PaginationPanelWidget> {
                           'prbvtcuv' /*  /  */,
                         ),
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               fontSize: 26.0,
                               letterSpacing: 0.0,
                             ),
@@ -221,7 +221,7 @@ class _PaginationPanelWidgetState extends State<PaginationPanelWidget> {
                         ),
                         textAlign: TextAlign.center,
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               color: FlutterFlowTheme.of(context).primaryText,
                               letterSpacing: 0.0,
                             ),

@@ -95,7 +95,7 @@ class _LandingPageWidgetState extends State<LandingPageWidget> {
                           borderRadius: 8.0,
                           textStyle:
                               FlutterFlowTheme.of(context).bodyLarge.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     fontSize: 14.0,
                                     letterSpacing: 0.0,
                                   ),
@@ -124,7 +124,7 @@ class _LandingPageWidgetState extends State<LandingPageWidget> {
                         color: FlutterFlowTheme.of(context).primary,
                         textStyle:
                             FlutterFlowTheme.of(context).titleSmall.override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   color: Colors.white,
                                   letterSpacing: 0.0,
                                 ),

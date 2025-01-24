@@ -80,7 +80,7 @@ class _EmptyListWidgetState extends State<EmptyListWidget> {
                   'a95cimwb' /* No Data */,
                 ),
                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                      font: GoogleFonts.plusJakartaSans(),
+                      fontFamily: 'Plus Jakarta Sans',
                       fontSize: 16.0,
                       letterSpacing: 0.0,
                       fontWeight: FontWeight.w600,

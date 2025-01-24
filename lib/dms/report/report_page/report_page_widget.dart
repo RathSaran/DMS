@@ -66,7 +66,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                     '4h88trkp' /* Contracts */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        font: GoogleFonts.outfit(),
+                        fontFamily: 'Outfit',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -191,22 +191,21 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                         labelStyle: FlutterFlowTheme.of(context)
                                             .titleMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               fontSize: 16.0,
                                               letterSpacing: 0.0,
                                               fontWeight: FontWeight.w600,
                                             ),
-                                        unselectedLabelStyle: FlutterFlowTheme
-                                                .of(context)
-                                            .titleMedium
-                                            .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
-                                              fontSize: 16.0,
-                                              letterSpacing: 0.0,
-                                              fontWeight: FontWeight.w600,
-                                            ),
+                                        unselectedLabelStyle:
+                                            FlutterFlowTheme.of(context)
+                                                .titleMedium
+                                                .override(
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
+                                                  fontSize: 16.0,
+                                                  letterSpacing: 0.0,
+                                                  fontWeight: FontWeight.w600,
+                                                ),
                                         indicatorColor:
                                             FlutterFlowTheme.of(context)
                                                 .primary,
@@ -342,7 +341,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodyMedium
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               color: FlutterFlowTheme.of(context).primary,
                                                                               fontSize: 14.0,
                                                                               letterSpacing: 0.0,
@@ -414,8 +413,8 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       fontSize:
                                                                           14.0,
                                                                       letterSpacing:
@@ -537,8 +536,8 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       fontSize:
                                                                           14.0,
                                                                       letterSpacing:
@@ -625,8 +624,8 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       fontSize:
                                                                           14.0,
                                                                       letterSpacing:
@@ -714,8 +713,8 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             letterSpacing:
                                                                                 0.0,
                                                                           ),
@@ -859,8 +858,8 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                             context)
                                                                         .headlineMedium
                                                                         .override(
-                                                                          font:
-                                                                              GoogleFonts.outfit(),
+                                                                          fontFamily:
+                                                                              'Outfit',
                                                                           fontSize:
                                                                               16.0,
                                                                           letterSpacing:
@@ -888,8 +887,8 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                               context)
                                                                           .headlineMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.outfit(),
+                                                                            fontFamily:
+                                                                                'Outfit',
                                                                             fontSize:
                                                                                 16.0,
                                                                             letterSpacing:
@@ -916,8 +915,8 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                               context)
                                                                           .headlineMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.outfit(),
+                                                                            fontFamily:
+                                                                                'Outfit',
                                                                             fontSize:
                                                                                 16.0,
                                                                             letterSpacing:
@@ -937,8 +936,8 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                             context)
                                                                         .headlineMedium
                                                                         .override(
-                                                                          font:
-                                                                              GoogleFonts.outfit(),
+                                                                          fontFamily:
+                                                                              'Outfit',
                                                                           color:
                                                                               FlutterFlowTheme.of(context).primaryText,
                                                                           fontSize:
@@ -968,8 +967,8 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                               context)
                                                                           .headlineMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.outfit(),
+                                                                            fontFamily:
+                                                                                'Outfit',
                                                                             fontSize:
                                                                                 16.0,
                                                                             letterSpacing:
@@ -997,8 +996,8 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                               context)
                                                                           .headlineMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.outfit(),
+                                                                            fontFamily:
+                                                                                'Outfit',
                                                                             fontSize:
                                                                                 16.0,
                                                                             letterSpacing:
@@ -1088,7 +1087,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'bqjveg70' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1105,7 +1104,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         '24oy4deo' /* Login system */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1121,7 +1120,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'odw2ifld' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1133,7 +1132,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'sjo10zxm' /* Frontier */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1150,7 +1149,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1167,7 +1166,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1222,7 +1221,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'bmqk3laf' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1239,7 +1238,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'chse9kr6' /* Login system */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1255,7 +1254,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'yivugqww' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1267,7 +1266,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       '4kyvpa70' /* Frontier */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1284,7 +1283,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1301,7 +1300,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1356,7 +1355,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'pvkpuyny' /* Soa Soksovan */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1373,7 +1372,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         '5qzhy1km' /* Document has been upload */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1389,7 +1388,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         '1ov5s88b' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1401,7 +1400,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'q82l5arh' /* UAT */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1418,7 +1417,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1435,7 +1434,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1490,7 +1489,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'eluhe39y' /* Sok Pisey */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1507,7 +1506,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'e4z66cdr' /* Document successfully signed */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1523,7 +1522,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'jkl7or9o' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1535,7 +1534,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'vo1zehpl' /* Dev */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1552,7 +1551,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1569,7 +1568,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1624,7 +1623,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       '56kteguv' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1641,7 +1640,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'uhbcnekp' /* Document has been approval */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1657,7 +1656,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'z6c5a4l2' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1669,7 +1668,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       '8169red6' /* UAT */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1686,7 +1685,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1703,7 +1702,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1758,7 +1757,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'm8rx1dkp' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1775,7 +1774,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'bbjdwqo6' /* Document has been deleted */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1791,7 +1790,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         '74wt676p' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1803,7 +1802,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       '0u7vug1q' /* HR */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1820,7 +1819,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1837,7 +1836,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1892,7 +1891,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'dzwlpqmm' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1909,7 +1908,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'hppcfxye' /* Document has been deleted */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1925,7 +1924,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'l94euq6n' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1937,7 +1936,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       '2bktqdb6' /* HR */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -1954,7 +1953,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -1971,7 +1970,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2026,7 +2025,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'f7isjwqt' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2043,7 +2042,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'xshin5i4' /* Document has been upload */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2059,7 +2058,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         '5wrhtbeo' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2071,7 +2070,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'w7mjhpx5' /* Frontier */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2088,7 +2087,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2105,7 +2104,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2160,7 +2159,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       '985ycfy8' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2177,7 +2176,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'djzl0hya' /* Document has been upload */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2193,7 +2192,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'd5w9tgbz' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2205,7 +2204,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       '10lxch8b' /* HR */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2222,7 +2221,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2239,7 +2238,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2294,7 +2293,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'hnz4qjr7' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2311,7 +2310,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'gyfzw7c3' /* Document has been upload */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2327,7 +2326,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'lq55pxce' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2339,7 +2338,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'wq2d1m7c' /* HR */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2356,7 +2355,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2373,7 +2372,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2428,7 +2427,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'kc7aezs7' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2445,7 +2444,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'w9f3apok' /* Document has been upload */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2461,7 +2460,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         '4n2qb2ix' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2473,7 +2472,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'dvq15fio' /* HR */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2490,7 +2489,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2507,7 +2506,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2562,7 +2561,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'xxcmr1yb' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2579,7 +2578,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'gjmy8sk7' /* Document has been approval */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2595,7 +2594,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'jnvoekf3' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2607,7 +2606,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       '1bywgjbu' /* HR */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2624,7 +2623,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2641,7 +2640,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2696,7 +2695,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'y74iyvsp' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2713,7 +2712,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'w9ccqehr' /* Document has been approval */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2729,7 +2728,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         '3pdm940e' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2741,7 +2740,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       '4sdia306' /* HR */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2758,7 +2757,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2775,7 +2774,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2830,7 +2829,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       '3w7wlw2v' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2847,7 +2846,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'bzwbz9hg' /* Document has been approval */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2863,7 +2862,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         '472nwgmn' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2875,7 +2874,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'ghi9l382' /* HR */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2892,7 +2891,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2909,7 +2908,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2964,7 +2963,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'fmhtecwn' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -2981,7 +2980,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'n1qsfdmg' /* Document has been approval */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -2997,7 +2996,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'gv3gxcnx' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -3009,7 +3008,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       't982ml50' /* HR */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                         ),
                                                                                   ),
@@ -3026,7 +3025,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -3043,7 +3042,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                           ),
                                                                                     ),
@@ -3098,7 +3097,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       'u4wucwn6' /* Sok San */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).labelSmall.override(
-                                                                                          font: GoogleFonts.outfit(),
+                                                                                          fontFamily: 'Outfit',
                                                                                           fontSize: 14.0,
                                                                                           letterSpacing: 0.0,
                                                                                         ),
@@ -3116,7 +3115,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'ba39hfp4' /* Document has been drafted */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).labelSmall.override(
-                                                                                            font: GoogleFonts.outfit(),
+                                                                                            fontFamily: 'Outfit',
                                                                                             fontSize: 14.0,
                                                                                             letterSpacing: 0.0,
                                                                                           ),
@@ -3133,7 +3132,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                         'vget975w' /* 12/09/2024 11:56:01 am */,
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).labelSmall.override(
-                                                                                            font: GoogleFonts.outfit(),
+                                                                                            fontFamily: 'Outfit',
                                                                                             fontSize: 14.0,
                                                                                             letterSpacing: 0.0,
                                                                                           ),
@@ -3146,7 +3145,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       '6q0bqshh' /* HR */,
                                                                                     ),
                                                                                     style: FlutterFlowTheme.of(context).labelSmall.override(
-                                                                                          font: GoogleFonts.outfit(),
+                                                                                          fontFamily: 'Outfit',
                                                                                           fontSize: 14.0,
                                                                                           letterSpacing: 0.0,
                                                                                         ),
@@ -3164,7 +3163,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).labelSmall.override(
-                                                                                            font: GoogleFonts.outfit(),
+                                                                                            fontFamily: 'Outfit',
                                                                                             fontSize: 14.0,
                                                                                             letterSpacing: 0.0,
                                                                                           ),
@@ -3182,7 +3181,7 @@ class _ReportPageWidgetState extends State<ReportPageWidget>
                                                                                       ),
                                                                                       textAlign: TextAlign.start,
                                                                                       style: FlutterFlowTheme.of(context).labelSmall.override(
-                                                                                            font: GoogleFonts.outfit(),
+                                                                                            fontFamily: 'Outfit',
                                                                                             fontSize: 14.0,
                                                                                             letterSpacing: 0.0,
                                                                                           ),

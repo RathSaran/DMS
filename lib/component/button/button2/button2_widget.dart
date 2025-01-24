@@ -64,7 +64,7 @@ class _Button2WidgetState extends State<Button2Widget> {
                       EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
                   color: Colors.white,
                   textStyle: FlutterFlowTheme.of(context).titleSmall.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         color: FlutterFlowTheme.of(context).primary,
                         letterSpacing: 0.0,
                         fontWeight: FontWeight.normal,
@@ -95,7 +95,7 @@ class _Button2WidgetState extends State<Button2Widget> {
                       EdgeInsetsDirectional.fromSTEB(0.0, 0.0, 0.0, 0.0),
                   color: FlutterFlowTheme.of(context).primary,
                   textStyle: FlutterFlowTheme.of(context).titleSmall.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         color: Colors.white,
                         letterSpacing: 0.0,
                         fontWeight: FontWeight.normal,

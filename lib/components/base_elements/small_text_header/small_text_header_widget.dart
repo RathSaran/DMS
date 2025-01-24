@@ -57,7 +57,7 @@ class _SmallTextHeaderWidgetState extends State<SmallTextHeaderWidget> {
       ),
       maxLines: widget!.maxLine,
       style: FlutterFlowTheme.of(context).bodyMedium.override(
-            font: GoogleFonts.plusJakartaSans(),
+            fontFamily: 'Plus Jakarta Sans',
             color: valueOrDefault<Color>(
               widget!.color,
               FlutterFlowTheme.of(context).primaryText,

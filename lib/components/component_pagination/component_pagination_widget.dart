@@ -107,8 +107,7 @@ class _ComponentPaginationWidgetState extends State<ComponentPaginationWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .secondaryText,
@@ -139,7 +138,7 @@ class _ComponentPaginationWidgetState extends State<ComponentPaginationWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .labelLarge
                                           .override(
-                                            font: GoogleFonts.outfit(),
+                                            fontFamily: 'Outfit',
                                             letterSpacing: 0.0,
                                             fontWeight: FontWeight.normal,
                                           ),
@@ -170,7 +169,7 @@ class _ComponentPaginationWidgetState extends State<ComponentPaginationWidget> {
                                   textStyle: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         letterSpacing: 0.0,
                                       ),
                                   hintText: FFLocalizations.of(context).getText(

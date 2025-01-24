@@ -157,7 +157,7 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                     labelStyle: FlutterFlowTheme.of(context)
                                         .titleMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           fontSize: 16.0,
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w600,
@@ -166,8 +166,7 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                         FlutterFlowTheme.of(context)
                                             .titleMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               fontSize: 16.0,
                                               letterSpacing: 0.0,
                                             ),
@@ -290,8 +289,8 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -345,8 +344,8 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       color: FlutterFlowTheme.of(
                                                                               context)
                                                                           .primary,
@@ -521,8 +520,8 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             letterSpacing:
                                                                                 0.0,
                                                                             fontWeight:
@@ -539,8 +538,8 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             letterSpacing:
                                                                                 0.0,
                                                                             fontWeight:
@@ -557,8 +556,8 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             letterSpacing:
                                                                                 0.0,
                                                                             fontWeight:
@@ -575,8 +574,8 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             letterSpacing:
                                                                                 0.0,
                                                                             fontWeight:
@@ -614,7 +613,7 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                               ),
                                                                         ),
@@ -628,7 +627,7 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                               ),
                                                                         ),
@@ -641,7 +640,7 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                               ),
                                                                         ),
@@ -653,7 +652,7 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                               ),
                                                                         ),
@@ -733,7 +732,7 @@ class _NotificationPageWidgetState extends State<NotificationPageWidget>
                                 textStyle: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       letterSpacing: 0.0,
                                     ),
                                 hintText: FFLocalizations.of(context).getText(

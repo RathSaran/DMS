@@ -111,7 +111,7 @@ class _ComponentAcivityDocumentsWidgetState
                         ),
                         style:
                             FlutterFlowTheme.of(context).headlineSmall.override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   letterSpacing: 0.0,
                                 ),
                       ),
@@ -143,7 +143,7 @@ class _ComponentAcivityDocumentsWidgetState
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   letterSpacing: 0.0,
                                 ),
                           ),
@@ -159,7 +159,7 @@ class _ComponentAcivityDocumentsWidgetState
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       letterSpacing: 0.0,
                                     ),
                               ),
@@ -175,7 +175,7 @@ class _ComponentAcivityDocumentsWidgetState
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   letterSpacing: 0.0,
                                 ),
                           ),
@@ -232,13 +232,13 @@ class _ComponentAcivityDocumentsWidgetState
                                                   .getText(
                                                 'nhgqb0q2' /* Managing Director */,
                                               ),
-                                              style: FlutterFlowTheme.of(
-                                                      context)
-                                                  .titleLarge
-                                                  .override(
-                                                    font: GoogleFonts.outfit(),
-                                                    letterSpacing: 0.0,
-                                                  ),
+                                              style:
+                                                  FlutterFlowTheme.of(context)
+                                                      .titleLarge
+                                                      .override(
+                                                        fontFamily: 'Outfit',
+                                                        letterSpacing: 0.0,
+                                                      ),
                                             ),
                                             collapsed: Column(
                                               mainAxisSize: MainAxisSize.min,
@@ -263,8 +263,8 @@ class _ComponentAcivityDocumentsWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -287,8 +287,8 @@ class _ComponentAcivityDocumentsWidgetState
                                                                     context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -316,8 +316,8 @@ class _ComponentAcivityDocumentsWidgetState
                                                                     .of(context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -340,8 +340,8 @@ class _ComponentAcivityDocumentsWidgetState
                                                                     context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                 ),
@@ -458,7 +458,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodyMedium
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               letterSpacing: 0.0,
                                                                               fontWeight: FontWeight.bold,
                                                                             ),
@@ -580,7 +580,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                                     'whzd78cj' /* Need to sign */,
                                                                                   ),
                                                                                   style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                        font: GoogleFonts.outfit(),
+                                                                                        fontFamily: 'Outfit',
                                                                                         color: FlutterFlowTheme.of(context).primary,
                                                                                         letterSpacing: 0.0,
                                                                                         fontWeight: FontWeight.bold,
@@ -588,7 +588,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                                 )
                                                                               ],
                                                                               style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                    font: GoogleFonts.outfit(),
+                                                                                    fontFamily: 'Outfit',
                                                                                     letterSpacing: 0.0,
                                                                                   ),
                                                                             ),
@@ -611,7 +611,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                                   'kzexnczf' /* 19/09/2024 12:24 PM */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                      font: GoogleFonts.outfit(),
+                                                                                      fontFamily: 'Outfit',
                                                                                       color: FlutterFlowTheme.of(context).primary,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.bold,
@@ -619,7 +619,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                               )
                                                                             ],
                                                                             style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                  font: GoogleFonts.outfit(),
+                                                                                  fontFamily: 'Outfit',
                                                                                   letterSpacing: 0.0,
                                                                                 ),
                                                                           ),
@@ -746,7 +746,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodyMedium
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               letterSpacing: 0.0,
                                                                               fontWeight: FontWeight.bold,
                                                                             ),
@@ -868,7 +868,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                                     'jorxhm9w' /* Need to Approve */,
                                                                                   ),
                                                                                   style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                        font: GoogleFonts.outfit(),
+                                                                                        fontFamily: 'Outfit',
                                                                                         color: FlutterFlowTheme.of(context).primary,
                                                                                         letterSpacing: 0.0,
                                                                                         fontWeight: FontWeight.bold,
@@ -876,7 +876,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                                 )
                                                                               ],
                                                                               style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                    font: GoogleFonts.outfit(),
+                                                                                    fontFamily: 'Outfit',
                                                                                     letterSpacing: 0.0,
                                                                                   ),
                                                                             ),
@@ -899,7 +899,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                                   'ue5mbrf4' /* 19/09/2024 12:24 PM */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                      font: GoogleFonts.outfit(),
+                                                                                      fontFamily: 'Outfit',
                                                                                       color: FlutterFlowTheme.of(context).primary,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.bold,
@@ -907,7 +907,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                               )
                                                                             ],
                                                                             style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                  font: GoogleFonts.outfit(),
+                                                                                  fontFamily: 'Outfit',
                                                                                   letterSpacing: 0.0,
                                                                                 ),
                                                                           ),
@@ -1042,7 +1042,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodyMedium
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               letterSpacing: 0.0,
                                                                               fontWeight: FontWeight.bold,
                                                                             ),
@@ -1137,7 +1137,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                                     'ir4g3b3o' /* Need to sign */,
                                                                                   ),
                                                                                   style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                        font: GoogleFonts.outfit(),
+                                                                                        fontFamily: 'Outfit',
                                                                                         color: FlutterFlowTheme.of(context).primary,
                                                                                         letterSpacing: 0.0,
                                                                                         fontWeight: FontWeight.bold,
@@ -1145,7 +1145,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                                 )
                                                                               ],
                                                                               style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                    font: GoogleFonts.outfit(),
+                                                                                    fontFamily: 'Outfit',
                                                                                     letterSpacing: 0.0,
                                                                                   ),
                                                                             ),
@@ -1168,7 +1168,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                                   'g2xlecvc' /* 19/09/2024 12:24 PM */,
                                                                                 ),
                                                                                 style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                      font: GoogleFonts.outfit(),
+                                                                                      fontFamily: 'Outfit',
                                                                                       color: FlutterFlowTheme.of(context).primary,
                                                                                       letterSpacing: 0.0,
                                                                                       fontWeight: FontWeight.bold,
@@ -1176,7 +1176,7 @@ class _ComponentAcivityDocumentsWidgetState
                                                                               )
                                                                             ],
                                                                             style: FlutterFlowTheme.of(context).labelMedium.override(
-                                                                                  font: GoogleFonts.outfit(),
+                                                                                  fontFamily: 'Outfit',
                                                                                   letterSpacing: 0.0,
                                                                                 ),
                                                                           ),

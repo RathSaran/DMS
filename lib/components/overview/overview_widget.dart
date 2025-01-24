@@ -104,7 +104,7 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .displaySmall
                                         .override(
-                                          font: GoogleFonts.outfit(),
+                                          fontFamily: 'Outfit',
                                           color: FlutterFlowTheme.of(context)
                                               .primary,
                                           fontSize: 32.0,
@@ -158,8 +158,8 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 18.0,
                                                         letterSpacing: 0.0,
                                                         fontWeight:
@@ -190,8 +190,8 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 17.0,
                                                         letterSpacing: 0.0,
                                                       ),
@@ -248,7 +248,7 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .displaySmall
                                               .override(
-                                                font: GoogleFonts.outfit(),
+                                                fontFamily: 'Outfit',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primary,
@@ -315,7 +315,7 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .displaySmall
                                               .override(
-                                                font: GoogleFonts.outfit(),
+                                                fontFamily: 'Outfit',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primary,
@@ -339,8 +339,8 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   fontSize: 18.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.w500,
@@ -411,7 +411,7 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .displaySmall
                                               .override(
-                                                font: GoogleFonts.outfit(),
+                                                fontFamily: 'Outfit',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primary,
@@ -434,8 +434,8 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   fontSize: 18.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.w500,
@@ -506,7 +506,7 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .displaySmall
                                               .override(
-                                                font: GoogleFonts.outfit(),
+                                                fontFamily: 'Outfit',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primary,
@@ -536,8 +536,8 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         fontSize: 18.0,
                                                         letterSpacing: 0.0,
                                                         fontWeight:
@@ -610,7 +610,7 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .displaySmall
                                               .override(
-                                                font: GoogleFonts.outfit(),
+                                                fontFamily: 'Outfit',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primary,
@@ -633,8 +633,8 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   fontSize: 18.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.w500,
@@ -705,7 +705,7 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .displaySmall
                                               .override(
-                                                font: GoogleFonts.outfit(),
+                                                fontFamily: 'Outfit',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primary,
@@ -728,8 +728,8 @@ class _OverviewWidgetState extends State<OverviewWidget> {
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   fontSize: 18.0,
                                                   letterSpacing: 0.0,
                                                   fontWeight: FontWeight.w500,

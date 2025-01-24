@@ -114,7 +114,7 @@ class _DropdownUserWidgetState extends State<DropdownUserWidget>
                         'vb3kahb1' /* Right Click Options */,
                       ),
                       style: FlutterFlowTheme.of(context).bodySmall.override(
-                            font: GoogleFonts.plusJakartaSans(),
+                            fontFamily: 'Plus Jakarta Sans',
                             fontSize: 12.0,
                             letterSpacing: 0.0,
                           ),
@@ -168,7 +168,7 @@ class _DropdownUserWidgetState extends State<DropdownUserWidget>
                                     style: FlutterFlowTheme.of(context)
                                         .labelSmall
                                         .override(
-                                          font: GoogleFonts.outfit(),
+                                          fontFamily: 'Outfit',
                                           letterSpacing: 0.0,
                                         ),
                                   ),
@@ -223,8 +223,8 @@ class _DropdownUserWidgetState extends State<DropdownUserWidget>
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                             ),
@@ -271,8 +271,8 @@ class _DropdownUserWidgetState extends State<DropdownUserWidget>
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                             ),
@@ -319,8 +319,8 @@ class _DropdownUserWidgetState extends State<DropdownUserWidget>
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                             ),
@@ -519,7 +519,7 @@ class _DropdownUserWidgetState extends State<DropdownUserWidget>
                                   style: FlutterFlowTheme.of(context)
                                       .labelSmall
                                       .override(
-                                        font: GoogleFonts.outfit(),
+                                        fontFamily: 'Outfit',
                                         letterSpacing: 0.0,
                                       ),
                                 ),
@@ -571,8 +571,8 @@ class _DropdownUserWidgetState extends State<DropdownUserWidget>
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -616,8 +616,8 @@ class _DropdownUserWidgetState extends State<DropdownUserWidget>
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -661,8 +661,8 @@ class _DropdownUserWidgetState extends State<DropdownUserWidget>
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -712,8 +712,8 @@ class _DropdownUserWidgetState extends State<DropdownUserWidget>
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                             ),

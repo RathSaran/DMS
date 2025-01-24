@@ -121,7 +121,7 @@ class _CpSignAddTagsWidgetState extends State<CpSignAddTagsWidget> {
                           's9i2h8p2' /* Create New Tags */,
                         ),
                         style: FlutterFlowTheme.of(context).titleLarge.override(
-                              font: GoogleFonts.outfit(),
+                              fontFamily: 'Outfit',
                               color: FlutterFlowTheme.of(context).primaryText,
                               letterSpacing: 0.0,
                             ),
@@ -168,7 +168,7 @@ class _CpSignAddTagsWidgetState extends State<CpSignAddTagsWidget> {
                                   labelStyle: FlutterFlowTheme.of(context)
                                       .labelMedium
                                       .override(
-                                        font: GoogleFonts.outfit(),
+                                        fontFamily: 'Outfit',
                                         letterSpacing: 0.0,
                                       ),
                                   hintText: FFLocalizations.of(context).getText(
@@ -177,7 +177,7 @@ class _CpSignAddTagsWidgetState extends State<CpSignAddTagsWidget> {
                                   hintStyle: FlutterFlowTheme.of(context)
                                       .labelMedium
                                       .override(
-                                        font: GoogleFonts.outfit(),
+                                        fontFamily: 'Outfit',
                                         letterSpacing: 0.0,
                                       ),
                                   enabledBorder: InputBorder.none,
@@ -189,7 +189,7 @@ class _CpSignAddTagsWidgetState extends State<CpSignAddTagsWidget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       letterSpacing: 0.0,
                                     ),
                                 cursorColor:
@@ -224,7 +224,7 @@ class _CpSignAddTagsWidgetState extends State<CpSignAddTagsWidget> {
                             textStyle: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   letterSpacing: 0.0,
                                 ),
                             icon: Icon(
@@ -692,7 +692,7 @@ class _CpSignAddTagsWidgetState extends State<CpSignAddTagsWidget> {
                               textStyle: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: FlutterFlowTheme.of(context)
                                         .primaryText,
                                     fontSize: 14.0,
@@ -723,7 +723,7 @@ class _CpSignAddTagsWidgetState extends State<CpSignAddTagsWidget> {
                               textStyle: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     fontSize: 14.0,
                                     letterSpacing: 0.0,
                                   ),

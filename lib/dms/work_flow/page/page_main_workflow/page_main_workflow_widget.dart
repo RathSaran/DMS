@@ -337,8 +337,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                                     context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .primaryText,
@@ -425,8 +425,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                                   .of(context)
                                                               .bodyLarge
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -539,8 +539,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                                   .of(context)
                                                               .bodyLarge
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -661,8 +661,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                                     .of(context)
                                                                 .bodyLarge
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .primary,
@@ -755,8 +755,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                     FlutterFlowTheme.of(context)
                                                         .titleMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           fontSize: 16.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
@@ -766,8 +766,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                     FlutterFlowTheme.of(context)
                                                         .titleMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           fontSize: 16.0,
                                                           letterSpacing: 0.0,
                                                         ),
@@ -1165,8 +1165,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       color: FlutterFlowTheme.of(
                                                                               context)
                                                                           .primaryText,
@@ -1417,8 +1417,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                                     .of(context)
                                                                 .titleSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .primaryText,
@@ -1498,8 +1498,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                                   .of(context)
                                                               .titleSmall
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primaryText,
@@ -1579,8 +1579,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                                   .of(context)
                                                               .titleSmall
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 letterSpacing:
                                                                     0.0,
                                                                 fontWeight:
@@ -1657,8 +1657,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                                   .of(context)
                                                               .titleSmall
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 letterSpacing:
                                                                     0.0,
                                                                 fontWeight:
@@ -1755,8 +1755,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                                     .of(context)
                                                                 .titleSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   letterSpacing:
                                                                       0.0,
                                                                   fontWeight:
@@ -1834,8 +1834,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                                   .of(context)
                                                               .titleSmall
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 letterSpacing:
                                                                     0.0,
                                                                 fontWeight:
@@ -1931,8 +1931,8 @@ class _PageMainWorkflowWidgetState extends State<PageMainWorkflowWidget>
                                                               .of(context)
                                                           .titleSmall
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w600,

@@ -80,7 +80,7 @@ class _CustomDateFormatWidgetState extends State<CustomDateFormatWidget> {
                           '1cxkhe0h' /* Date format */,
                         ),
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               fontSize: 18.0,
                               letterSpacing: 0.0,
                               fontWeight: FontWeight.w600,
@@ -122,7 +122,7 @@ class _CustomDateFormatWidgetState extends State<CustomDateFormatWidget> {
                       'yh8y5b5g' /* Select the date format to be u... */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -139,7 +139,7 @@ class _CustomDateFormatWidgetState extends State<CustomDateFormatWidget> {
                           ),
                           style:
                               FlutterFlowTheme.of(context).bodyMedium.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                   ),
                         ),
@@ -153,7 +153,7 @@ class _CustomDateFormatWidgetState extends State<CustomDateFormatWidget> {
                         )
                       ],
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                            font: GoogleFonts.plusJakartaSans(),
+                            fontFamily: 'Plus Jakarta Sans',
                             letterSpacing: 0.0,
                           ),
                     ),
@@ -172,7 +172,7 @@ class _CustomDateFormatWidgetState extends State<CustomDateFormatWidget> {
                         isDense: true,
                         labelStyle:
                             FlutterFlowTheme.of(context).labelMedium.override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   letterSpacing: 0.0,
                                 ),
                         hintText: FFLocalizations.of(context).getText(
@@ -180,7 +180,7 @@ class _CustomDateFormatWidgetState extends State<CustomDateFormatWidget> {
                         ),
                         hintStyle:
                             FlutterFlowTheme.of(context).labelMedium.override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   letterSpacing: 0.0,
                                 ),
                         enabledBorder: OutlineInputBorder(
@@ -216,7 +216,7 @@ class _CustomDateFormatWidgetState extends State<CustomDateFormatWidget> {
                             FlutterFlowTheme.of(context).secondaryBackground,
                       ),
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                            font: GoogleFonts.plusJakartaSans(),
+                            fontFamily: 'Plus Jakarta Sans',
                             letterSpacing: 0.0,
                           ),
                       keyboardType: TextInputType.datetime,
@@ -253,7 +253,7 @@ class _CustomDateFormatWidgetState extends State<CustomDateFormatWidget> {
                           textStyle: FlutterFlowTheme.of(context)
                               .titleSmall
                               .override(
-                                font: GoogleFonts.plusJakartaSans(),
+                                fontFamily: 'Plus Jakarta Sans',
                                 color: FlutterFlowTheme.of(context).primaryText,
                                 letterSpacing: 0.0,
                               ),
@@ -285,7 +285,7 @@ class _CustomDateFormatWidgetState extends State<CustomDateFormatWidget> {
                         textStyle: FlutterFlowTheme.of(context)
                             .titleSmall
                             .override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               color: FlutterFlowTheme.of(context).primaryText,
                               letterSpacing: 0.0,
                             ),

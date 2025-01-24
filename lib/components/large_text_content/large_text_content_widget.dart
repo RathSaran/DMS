@@ -57,7 +57,7 @@ class _LargeTextContentWidgetState extends State<LargeTextContentWidget> {
       ),
       maxLines: widget!.maxLine,
       style: FlutterFlowTheme.of(context).bodyMedium.override(
-            font: GoogleFonts.plusJakartaSans(),
+            fontFamily: 'Plus Jakarta Sans',
             color: widget!.color,
             fontSize: widget!.size,
             letterSpacing: 0.0,

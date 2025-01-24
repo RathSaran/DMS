@@ -99,7 +99,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                     'kf5jjs8f' /* Contracts */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        font: GoogleFonts.outfit(),
+                        fontFamily: 'Outfit',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -220,7 +220,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                             style: FlutterFlowTheme.of(context)
                                                 .displaySmall
                                                 .override(
-                                                  font: GoogleFonts.outfit(),
+                                                  fontFamily: 'Outfit',
                                                   fontSize: 28.0,
                                                   letterSpacing: 0.0,
                                                 ),
@@ -525,8 +525,8 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       color: FlutterFlowTheme.of(
                                                                               context)
                                                                           .primaryText,
@@ -622,8 +622,8 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        font: GoogleFonts
-                                                                            .plusJakartaSans(),
+                                                                        fontFamily:
+                                                                            'Plus Jakarta Sans',
                                                                         color: FlutterFlowTheme.of(context)
                                                                             .primaryText,
                                                                         letterSpacing:
@@ -719,7 +719,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                                     width: 120.0,
                                                                                     height: 40.0,
                                                                                     textStyle: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                           letterSpacing: 0.0,
                                                                                           fontWeight: FontWeight.w500,
                                                                                         ),
@@ -830,8 +830,8 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                             context)
                                                                         .headlineSmall
                                                                         .override(
-                                                                          font:
-                                                                              GoogleFonts.outfit(),
+                                                                          fontFamily:
+                                                                              'Outfit',
                                                                           letterSpacing:
                                                                               0.0,
                                                                         ),
@@ -900,8 +900,8 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        font: GoogleFonts
-                                                                            .plusJakartaSans(),
+                                                                        fontFamily:
+                                                                            'Plus Jakarta Sans',
                                                                         letterSpacing:
                                                                             0.0,
                                                                         fontWeight:
@@ -920,8 +920,8 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        font: GoogleFonts
-                                                                            .plusJakartaSans(),
+                                                                        fontFamily:
+                                                                            'Plus Jakarta Sans',
                                                                         letterSpacing:
                                                                             0.0,
                                                                         fontWeight:
@@ -940,8 +940,8 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        font: GoogleFonts
-                                                                            .plusJakartaSans(),
+                                                                        fontFamily:
+                                                                            'Plus Jakarta Sans',
                                                                         letterSpacing:
                                                                             0.0,
                                                                         fontWeight:
@@ -960,8 +960,8 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        font: GoogleFonts
-                                                                            .plusJakartaSans(),
+                                                                        fontFamily:
+                                                                            'Plus Jakarta Sans',
                                                                         letterSpacing:
                                                                             0.0,
                                                                         fontWeight:
@@ -1046,7 +1046,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1062,7 +1062,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1078,7 +1078,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1094,7 +1094,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1151,7 +1151,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1167,7 +1167,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1183,7 +1183,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1199,7 +1199,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1256,7 +1256,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1272,7 +1272,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1288,7 +1288,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1304,7 +1304,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1361,7 +1361,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1377,7 +1377,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1393,7 +1393,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1409,7 +1409,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1466,7 +1466,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1482,7 +1482,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1498,7 +1498,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1514,7 +1514,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1571,7 +1571,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1587,7 +1587,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1603,7 +1603,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1619,7 +1619,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1676,7 +1676,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1692,7 +1692,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1708,7 +1708,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1724,7 +1724,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1781,7 +1781,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1797,7 +1797,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1813,7 +1813,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1829,7 +1829,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1886,7 +1886,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1902,7 +1902,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1918,7 +1918,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),
@@ -1934,7 +1934,7 @@ class _PageReportsV1WidgetState extends State<PageReportsV1Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.normal,
                                                                               ),

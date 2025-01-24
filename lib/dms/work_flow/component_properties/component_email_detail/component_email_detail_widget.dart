@@ -62,7 +62,7 @@ class _ComponentEmailDetailWidgetState
           decoration: InputDecoration(
             isDense: true,
             labelStyle: FlutterFlowTheme.of(context).labelMedium.override(
-                  font: GoogleFonts.outfit(),
+                  fontFamily: 'Outfit',
                   color: FlutterFlowTheme.of(context).primaryText,
                   fontSize: 14.0,
                   letterSpacing: 0.0,
@@ -71,7 +71,7 @@ class _ComponentEmailDetailWidgetState
               'ws5cnad1' /* Email */,
             ),
             hintStyle: FlutterFlowTheme.of(context).bodyMedium.override(
-                  font: GoogleFonts.plusJakartaSans(),
+                  fontFamily: 'Plus Jakarta Sans',
                   letterSpacing: 0.0,
                 ),
             enabledBorder: OutlineInputBorder(
@@ -104,7 +104,7 @@ class _ComponentEmailDetailWidgetState
             ),
           ),
           style: FlutterFlowTheme.of(context).bodyMedium.override(
-                font: GoogleFonts.plusJakartaSans(),
+                fontFamily: 'Plus Jakarta Sans',
                 color: FlutterFlowTheme.of(context).primaryText,
                 letterSpacing: 0.0,
                 fontWeight: FontWeight.w500,

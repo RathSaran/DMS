@@ -138,7 +138,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                           '2dowvsqx' /* Receive No */,
                         ),
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               letterSpacing: 0.0,
                               fontWeight: FontWeight.w600,
                             ),
@@ -152,7 +152,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                         'uya81s7o' /* Document Name */,
                       ),
                       style: FlutterFlowTheme.of(context).bodySmall.override(
-                            font: GoogleFonts.plusJakartaSans(),
+                            fontFamily: 'Plus Jakarta Sans',
                             fontSize: 14.0,
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.w600,
@@ -166,7 +166,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                         'uivc1mxn' /* From */,
                       ),
                       style: FlutterFlowTheme.of(context).bodySmall.override(
-                            font: GoogleFonts.plusJakartaSans(),
+                            fontFamily: 'Plus Jakarta Sans',
                             fontSize: 14.0,
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.w600,
@@ -180,7 +180,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                         'yemidjnz' /* Receive Date */,
                       ),
                       style: FlutterFlowTheme.of(context).bodySmall.override(
-                            font: GoogleFonts.plusJakartaSans(),
+                            fontFamily: 'Plus Jakarta Sans',
                             fontSize: 14.0,
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.w600,
@@ -194,7 +194,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                         'eum0f8rp' /* Validate */,
                       ),
                       style: FlutterFlowTheme.of(context).bodySmall.override(
-                            font: GoogleFonts.plusJakartaSans(),
+                            fontFamily: 'Plus Jakarta Sans',
                             fontSize: 14.0,
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.w600,
@@ -208,7 +208,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                         'bidyfcmq' /* Status */,
                       ),
                       style: FlutterFlowTheme.of(context).bodySmall.override(
-                            font: GoogleFonts.plusJakartaSans(),
+                            fontFamily: 'Plus Jakarta Sans',
                             fontSize: 14.0,
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.w600,
@@ -316,7 +316,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             letterSpacing: 0.0,
                                           ),
                                     ),
@@ -334,7 +334,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             letterSpacing: 0.0,
                                           ),
                                     ),
@@ -388,8 +388,8 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.w600,
@@ -411,8 +411,8 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                                                                   context)
                                                               .bodySmall
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .primary,
@@ -438,7 +438,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .titleLarge
                                         .override(
-                                          font: GoogleFonts.outfit(),
+                                          fontFamily: 'Outfit',
                                           color: FlutterFlowTheme.of(context)
                                               .primaryText,
                                           fontSize: 14.0,
@@ -456,7 +456,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .titleLarge
                                         .override(
-                                          font: GoogleFonts.outfit(),
+                                          fontFamily: 'Outfit',
                                           fontSize: 14.0,
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.normal,
@@ -488,8 +488,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryText,
@@ -549,7 +548,7 @@ class _CpListMessageWidgetState extends State<CpListMessageWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .labelLarge
                                   .override(
-                                    font: GoogleFonts.outfit(),
+                                    fontFamily: 'Outfit',
                                     letterSpacing: 0.0,
                                   ),
                             ),

@@ -224,7 +224,7 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                                         hintStyle: FlutterFlowTheme.of(context)
                                             .titleLarge
                                             .override(
-                                              font: GoogleFonts.outfit(),
+                                              fontFamily: 'Outfit',
                                               color:
                                                   FlutterFlowTheme.of(context)
                                                       .secondaryText,
@@ -279,7 +279,7 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                                       style: FlutterFlowTheme.of(context)
                                           .titleLarge
                                           .override(
-                                            font: GoogleFonts.outfit(),
+                                            fontFamily: 'Outfit',
                                             letterSpacing: 0.0,
                                           ),
                                       validator: _model.textControllerValidator
@@ -302,8 +302,8 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                                                   FlutterFlowTheme.of(context)
                                                       .titleMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -336,8 +336,7 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                                         textStyle: FlutterFlowTheme.of(context)
                                             .titleSmall
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: Colors.white,
                                               fontSize: 14.0,
                                               letterSpacing: 0.0,
@@ -372,7 +371,7 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       fontSize: 12.0,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.bold,
@@ -425,7 +424,7 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                                             style: FlutterFlowTheme.of(context)
                                                 .labelMedium
                                                 .override(
-                                                  font: GoogleFonts.outfit(),
+                                                  fontFamily: 'Outfit',
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -491,14 +490,13 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                                                     .getText(
                                                   'zsq8vj02' /* Find folder */,
                                                 ),
-                                                style: FlutterFlowTheme.of(
-                                                        context)
-                                                    .labelMedium
-                                                    .override(
-                                                      font:
-                                                          GoogleFonts.outfit(),
-                                                      letterSpacing: 0.0,
-                                                    ),
+                                                style:
+                                                    FlutterFlowTheme.of(context)
+                                                        .labelMedium
+                                                        .override(
+                                                          fontFamily: 'Outfit',
+                                                          letterSpacing: 0.0,
+                                                        ),
                                               ),
                                             ),
                                           ),
@@ -557,14 +555,13 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                                                     .getText(
                                                   'iqxwv326' /* New documents */,
                                                 ),
-                                                style: FlutterFlowTheme.of(
-                                                        context)
-                                                    .labelMedium
-                                                    .override(
-                                                      font:
-                                                          GoogleFonts.outfit(),
-                                                      letterSpacing: 0.0,
-                                                    ),
+                                                style:
+                                                    FlutterFlowTheme.of(context)
+                                                        .labelMedium
+                                                        .override(
+                                                          fontFamily: 'Outfit',
+                                                          letterSpacing: 0.0,
+                                                        ),
                                               ),
                                             ),
                                           ),
@@ -610,14 +607,13 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                                                     .getText(
                                                   's60yfg0g' /* New folder */,
                                                 ),
-                                                style: FlutterFlowTheme.of(
-                                                        context)
-                                                    .labelMedium
-                                                    .override(
-                                                      font:
-                                                          GoogleFonts.outfit(),
-                                                      letterSpacing: 0.0,
-                                                    ),
+                                                style:
+                                                    FlutterFlowTheme.of(context)
+                                                        .labelMedium
+                                                        .override(
+                                                          fontFamily: 'Outfit',
+                                                          letterSpacing: 0.0,
+                                                        ),
                                               ),
                                             ),
                                           ),
@@ -653,7 +649,7 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                           ),
                           style:
                               FlutterFlowTheme.of(context).bodyMedium.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     fontSize: 12.0,
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.bold,
@@ -704,7 +700,7 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                                       style: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            font: GoogleFonts.outfit(),
+                                            fontFamily: 'Outfit',
                                             letterSpacing: 0.0,
                                           ),
                                     ),
@@ -753,7 +749,7 @@ class _SearchDialogWidgetState extends State<SearchDialogWidget>
                                       style: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            font: GoogleFonts.outfit(),
+                                            fontFamily: 'Outfit',
                                             letterSpacing: 0.0,
                                           ),
                                     ),

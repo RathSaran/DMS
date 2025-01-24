@@ -73,7 +73,7 @@ class _ComponentInDropDownWidgetState extends State<ComponentInDropDownWidget> {
                           'as0incqb' /* Add options in bulk to the drr... */,
                         ),
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               color: FlutterFlowTheme.of(context)
                                   .secondaryBackground,
                               fontSize: 16.0,
@@ -119,7 +119,7 @@ class _ComponentInDropDownWidgetState extends State<ComponentInDropDownWidget> {
                           onSelected: onSelected,
                           textStyle:
                               FlutterFlowTheme.of(context).bodyMedium.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                   ),
                           textHighlightStyle: TextStyle(),
@@ -157,7 +157,7 @@ class _ComponentInDropDownWidgetState extends State<ComponentInDropDownWidget> {
                             labelStyle: FlutterFlowTheme.of(context)
                                 .labelMedium
                                 .override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   letterSpacing: 0.0,
                                 ),
                             hintText: FFLocalizations.of(context).getText(
@@ -166,7 +166,7 @@ class _ComponentInDropDownWidgetState extends State<ComponentInDropDownWidget> {
                             hintStyle: FlutterFlowTheme.of(context)
                                 .labelMedium
                                 .override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   letterSpacing: 0.0,
                                 ),
                             enabledBorder: OutlineInputBorder(
@@ -203,7 +203,7 @@ class _ComponentInDropDownWidgetState extends State<ComponentInDropDownWidget> {
                           ),
                           style:
                               FlutterFlowTheme.of(context).bodyMedium.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                   ),
                           maxLines: null,
@@ -260,7 +260,7 @@ class _ComponentInDropDownWidgetState extends State<ComponentInDropDownWidget> {
                                   textStyle: FlutterFlowTheme.of(context)
                                       .titleSmall
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         color: FlutterFlowTheme.of(context)
                                             .primaryText,
                                         letterSpacing: 0.0,
@@ -280,7 +280,7 @@ class _ComponentInDropDownWidgetState extends State<ComponentInDropDownWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .displaySmall
                                 .override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   fontSize: 16.0,
                                   letterSpacing: 0.0,
                                 ),
@@ -304,7 +304,7 @@ class _ComponentInDropDownWidgetState extends State<ComponentInDropDownWidget> {
                                 textStyle: FlutterFlowTheme.of(context)
                                     .titleSmall
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       color: FlutterFlowTheme.of(context).info,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w600,

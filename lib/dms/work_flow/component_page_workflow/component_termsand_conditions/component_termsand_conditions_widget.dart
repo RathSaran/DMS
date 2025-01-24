@@ -118,7 +118,7 @@ class _ComponentTermsandConditionsWidgetState
                         'lyalamnr' /* Terms and Conditions */,
                       ),
                       style: FlutterFlowTheme.of(context).titleLarge.override(
-                            font: GoogleFonts.outfit(),
+                            fontFamily: 'Outfit',
                             color: FlutterFlowTheme.of(context).primaryText,
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.bold,
@@ -208,7 +208,7 @@ class _ComponentTermsandConditionsWidgetState
                             style: FlutterFlowTheme.of(context)
                                 .labelLarge
                                 .override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   letterSpacing: 0.0,
                                   decoration: TextDecoration.underline,
                                 ),
@@ -249,7 +249,7 @@ class _ComponentTermsandConditionsWidgetState
                               textStyle: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: FlutterFlowTheme.of(context)
                                         .primaryText,
                                     letterSpacing: 0.0,
@@ -308,7 +308,7 @@ class _ComponentTermsandConditionsWidgetState
                               textStyle: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: FlutterFlowTheme.of(context).info,
                                     fontSize: 16.0,
                                     letterSpacing: 0.0,

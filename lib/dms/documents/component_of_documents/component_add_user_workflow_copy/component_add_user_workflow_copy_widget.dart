@@ -156,7 +156,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                     's29j8l2o' /* Choose User or Department */,
                   ),
                   style: FlutterFlowTheme.of(context).titleLarge.override(
-                        font: GoogleFonts.outfit(),
+                        fontFamily: 'Outfit',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -170,7 +170,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                       'gczj5wdc' /* Choose Severity */,
                     ),
                     style: FlutterFlowTheme.of(context).titleSmall.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                         ),
                   ),
@@ -278,8 +278,8 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -350,7 +350,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                     textStyle: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           letterSpacing: 0.0,
                                         ),
                                     hintText:
@@ -393,7 +393,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                         'nzwpbeql' /* Choose User or Department */,
                       ),
                       style: FlutterFlowTheme.of(context).titleSmall.override(
-                            font: GoogleFonts.plusJakartaSans(),
+                            fontFamily: 'Plus Jakarta Sans',
                             letterSpacing: 0.0,
                           ),
                     ),
@@ -449,7 +449,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                           ),
                           style:
                               FlutterFlowTheme.of(context).titleSmall.override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.normal,
                                   ),
@@ -493,8 +493,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                 FlutterFlowTheme.of(context)
                                                     .labelMedium
                                                     .override(
-                                                      font:
-                                                          GoogleFonts.outfit(),
+                                                      fontFamily: 'Outfit',
                                                       letterSpacing: 0.0,
                                                     ),
                                             hintText:
@@ -506,8 +505,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                 FlutterFlowTheme.of(context)
                                                     .labelMedium
                                                     .override(
-                                                      font:
-                                                          GoogleFonts.outfit(),
+                                                      fontFamily: 'Outfit',
                                                       letterSpacing: 0.0,
                                                     ),
                                             enabledBorder: OutlineInputBorder(
@@ -555,8 +553,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 fontSize: 16.0,
                                                 letterSpacing: 0.0,
                                               ),
@@ -649,8 +646,8 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                               FlutterFlowTheme.of(context)
                                                   .bodyMedium
                                                   .override(
-                                                    font: GoogleFonts
-                                                        .plusJakartaSans(),
+                                                    fontFamily:
+                                                        'Plus Jakarta Sans',
                                                     letterSpacing: 0.0,
                                                   ),
                                           icon: Icon(
@@ -826,8 +823,8 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                   FlutterFlowTheme.of(context)
                                                       .titleSmall
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                             ),
@@ -1066,8 +1063,8 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             letterSpacing:
                                                                                 0.0,
                                                                             fontWeight:
@@ -1182,8 +1179,8 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                       .of(context)
                                                                   .titleSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     letterSpacing:
                                                                         0.0,
                                                                   ),
@@ -1380,7 +1377,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                         '-',
                                                                                       ),
                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                             letterSpacing: 0.0,
                                                                                             fontWeight: FontWeight.w600,
                                                                                           ),
@@ -1458,7 +1455,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                 '-',
                                                                               ),
                                                                               style: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                    font: GoogleFonts.plusJakartaSans(),
+                                                                                    fontFamily: 'Plus Jakarta Sans',
                                                                                     letterSpacing: 0.0,
                                                                                   ),
                                                                             ),
@@ -1614,7 +1611,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                                         '-',
                                                                                                       ),
                                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                                             letterSpacing: 0.0,
                                                                                                             fontWeight: FontWeight.w600,
                                                                                                           ),
@@ -1679,7 +1676,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                                 '-',
                                                                                               ),
                                                                                               style: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                                    font: GoogleFonts.plusJakartaSans(),
+                                                                                                    fontFamily: 'Plus Jakarta Sans',
                                                                                                     letterSpacing: 0.0,
                                                                                                   ),
                                                                                             ),
@@ -1789,7 +1786,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                                                     '-',
                                                                                                                   ),
                                                                                                                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                                        font: GoogleFonts.plusJakartaSans(),
+                                                                                                                        fontFamily: 'Plus Jakarta Sans',
                                                                                                                         letterSpacing: 0.0,
                                                                                                                         fontWeight: FontWeight.w600,
                                                                                                                       ),
@@ -2051,8 +2048,8 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                           context)
                                                       .titleSmall
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -2292,7 +2289,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.w600,
                                                                               ),
@@ -2401,8 +2398,8 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                           context)
                                                                       .titleSmall
                                                                       .override(
-                                                                        font: GoogleFonts
-                                                                            .plusJakartaSans(),
+                                                                        fontFamily:
+                                                                            'Plus Jakarta Sans',
                                                                         letterSpacing:
                                                                             0.0,
                                                                       ),
@@ -2596,7 +2593,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                             '-',
                                                                                           ),
                                                                                           style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                                 letterSpacing: 0.0,
                                                                                                 fontWeight: FontWeight.w600,
                                                                                               ),
@@ -2672,7 +2669,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                     '-',
                                                                                   ),
                                                                                   style: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                        font: GoogleFonts.plusJakartaSans(),
+                                                                                        fontFamily: 'Plus Jakarta Sans',
                                                                                         letterSpacing: 0.0,
                                                                                       ),
                                                                                 ),
@@ -2821,7 +2818,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                                             '-',
                                                                                                           ),
                                                                                                           style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                                                 letterSpacing: 0.0,
                                                                                                                 fontWeight: FontWeight.w600,
                                                                                                               ),
@@ -2886,7 +2883,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                                     '-',
                                                                                                   ),
                                                                                                   style: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                                        font: GoogleFonts.plusJakartaSans(),
+                                                                                                        fontFamily: 'Plus Jakarta Sans',
                                                                                                         letterSpacing: 0.0,
                                                                                                       ),
                                                                                                 ),
@@ -3027,7 +3024,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                                                             '-',
                                                                                                                           ),
                                                                                                                           style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                                                                 letterSpacing: 0.0,
                                                                                                                                 fontWeight: FontWeight.w600,
                                                                                                                               ),
@@ -3092,7 +3089,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                                                     '-',
                                                                                                                   ),
                                                                                                                   style: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                                                        font: GoogleFonts.plusJakartaSans(),
+                                                                                                                        fontFamily: 'Plus Jakarta Sans',
                                                                                                                         letterSpacing: 0.0,
                                                                                                                       ),
                                                                                                                 ),
@@ -3233,7 +3230,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                                                                             '-',
                                                                                                                                           ),
                                                                                                                                           style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                                                                                 letterSpacing: 0.0,
                                                                                                                                                 fontWeight: FontWeight.w600,
                                                                                                                                               ),
@@ -3298,7 +3295,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                                                                     '-',
                                                                                                                                   ),
                                                                                                                                   style: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                                                                        font: GoogleFonts.plusJakartaSans(),
+                                                                                                                                        fontFamily: 'Plus Jakarta Sans',
                                                                                                                                         letterSpacing: 0.0,
                                                                                                                                       ),
                                                                                                                                 ),
@@ -3439,7 +3436,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                                                                                             '-',
                                                                                                                                                           ),
                                                                                                                                                           style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                                                                                                 letterSpacing: 0.0,
                                                                                                                                                                 fontWeight: FontWeight.w600,
                                                                                                                                                               ),
@@ -3504,7 +3501,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                                                                                                                                                     '-',
                                                                                                                                                   ),
                                                                                                                                                   style: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                                                                                        font: GoogleFonts.plusJakartaSans(),
+                                                                                                                                                        fontFamily: 'Plus Jakarta Sans',
                                                                                                                                                         letterSpacing: 0.0,
                                                                                                                                                       ),
                                                                                                                                                 ),
@@ -3667,7 +3664,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                         textStyle: FlutterFlowTheme.of(context)
                             .titleSmall
                             .override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               color: FlutterFlowTheme.of(context).primaryText,
                               letterSpacing: 0.0,
                               fontWeight: FontWeight.w600,
@@ -3705,7 +3702,7 @@ class _ComponentAddUserWorkflowCopyWidgetState
                         color: FlutterFlowTheme.of(context).primary,
                         textStyle:
                             FlutterFlowTheme.of(context).titleSmall.override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   color: FlutterFlowTheme.of(context).info,
                                   fontSize: 16.0,
                                   letterSpacing: 0.0,

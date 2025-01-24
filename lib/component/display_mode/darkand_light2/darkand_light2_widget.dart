@@ -89,7 +89,7 @@ class _DarkandLight2WidgetState extends State<DarkandLight2Widget> {
                     '1ooofnwi' /* Light Mode */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -175,7 +175,7 @@ class _DarkandLight2WidgetState extends State<DarkandLight2Widget> {
                     '4pk3vzdw' /* Dark Mode */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -261,7 +261,7 @@ class _DarkandLight2WidgetState extends State<DarkandLight2Widget> {
                     '1jqrj97d' /* System Mode */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         letterSpacing: 0.0,
                       ),
                 ),

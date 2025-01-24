@@ -196,7 +196,7 @@ class _NavigateBackPageHeaderWidgetState
                   ),
                   textAlign: TextAlign.start,
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        font: GoogleFonts.outfit(),
+                        fontFamily: 'Outfit',
                         fontSize: 20.0,
                         letterSpacing: 0.0,
                       ),
@@ -217,7 +217,7 @@ class _NavigateBackPageHeaderWidgetState
                   ),
                   textAlign: TextAlign.start,
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        font: GoogleFonts.outfit(),
+                        fontFamily: 'Outfit',
                         fontSize: 18.0,
                         letterSpacing: 0.0,
                       ),
@@ -233,7 +233,7 @@ class _NavigateBackPageHeaderWidgetState
                 ),
                 textAlign: TextAlign.center,
                 style: FlutterFlowTheme.of(context).bodyLarge.override(
-                      font: GoogleFonts.plusJakartaSans(),
+                      fontFamily: 'Plus Jakarta Sans',
                       color: FlutterFlowTheme.of(context).primary,
                       letterSpacing: 0.0,
                     ),
@@ -293,7 +293,7 @@ class _NavigateBackPageHeaderWidgetState
                 ),
                 textAlign: TextAlign.center,
                 style: FlutterFlowTheme.of(context).bodyLarge.override(
-                      font: GoogleFonts.plusJakartaSans(),
+                      fontFamily: 'Plus Jakarta Sans',
                       color: FlutterFlowTheme.of(context).primary,
                       letterSpacing: 0.0,
                     ),
@@ -313,7 +313,7 @@ class _NavigateBackPageHeaderWidgetState
               badgeContent: Text(
                 FFAppState().notificationsCounts.toString(),
                 style: FlutterFlowTheme.of(context).titleSmall.override(
-                      font: GoogleFonts.plusJakartaSans(),
+                      fontFamily: 'Plus Jakarta Sans',
                       color: Colors.white,
                       fontSize: 6.0,
                       letterSpacing: 0.0,
@@ -363,7 +363,7 @@ class _NavigateBackPageHeaderWidgetState
                 ),
                 textAlign: TextAlign.center,
                 style: FlutterFlowTheme.of(context).bodyLarge.override(
-                      font: GoogleFonts.plusJakartaSans(),
+                      fontFamily: 'Plus Jakarta Sans',
                       color: FlutterFlowTheme.of(context).primary,
                       letterSpacing: 0.0,
                     ),

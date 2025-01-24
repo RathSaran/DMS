@@ -75,7 +75,7 @@ class _ComponentCardViewReportWidgetState
                           'f4l36299' /* Reports Staff of 2024 */,
                         ),
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               fontSize: 18.0,
                               letterSpacing: 0.0,
                               fontWeight: FontWeight.w500,
@@ -90,7 +90,7 @@ class _ComponentCardViewReportWidgetState
                           'xlxxii8v' /* In folder E-Power */,
                         ),
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               fontSize: 12.0,
                               letterSpacing: 0.0,
                               fontWeight: FontWeight.normal,
@@ -112,7 +112,7 @@ class _ComponentCardViewReportWidgetState
                           style: FlutterFlowTheme.of(context)
                               .bodyMedium
                               .override(
-                                font: GoogleFonts.plusJakartaSans(),
+                                fontFamily: 'Plus Jakarta Sans',
                                 color:
                                     FlutterFlowTheme.of(context).secondaryText,
                                 letterSpacing: 0.0,
@@ -136,7 +136,7 @@ class _ComponentCardViewReportWidgetState
                           style: FlutterFlowTheme.of(context)
                               .bodyMedium
                               .override(
-                                font: GoogleFonts.plusJakartaSans(),
+                                fontFamily: 'Plus Jakarta Sans',
                                 color:
                                     FlutterFlowTheme.of(context).secondaryText,
                                 letterSpacing: 0.0,
@@ -160,7 +160,7 @@ class _ComponentCardViewReportWidgetState
                           style: FlutterFlowTheme.of(context)
                               .bodyMedium
                               .override(
-                                font: GoogleFonts.plusJakartaSans(),
+                                fontFamily: 'Plus Jakarta Sans',
                                 color:
                                     FlutterFlowTheme.of(context).secondaryText,
                                 letterSpacing: 0.0,
@@ -184,7 +184,7 @@ class _ComponentCardViewReportWidgetState
                           style: FlutterFlowTheme.of(context)
                               .bodyMedium
                               .override(
-                                font: GoogleFonts.plusJakartaSans(),
+                                fontFamily: 'Plus Jakarta Sans',
                                 color:
                                     FlutterFlowTheme.of(context).secondaryText,
                                 letterSpacing: 0.0,
@@ -208,7 +208,7 @@ class _ComponentCardViewReportWidgetState
                           style: FlutterFlowTheme.of(context)
                               .bodyMedium
                               .override(
-                                font: GoogleFonts.plusJakartaSans(),
+                                fontFamily: 'Plus Jakarta Sans',
                                 color:
                                     FlutterFlowTheme.of(context).secondaryText,
                                 letterSpacing: 0.0,

@@ -73,7 +73,7 @@ class _UserviewComponentWidgetState extends State<UserviewComponentWidget> {
                         '2wpoo944' /* User Name */,
                       ),
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                            font: GoogleFonts.plusJakartaSans(),
+                            fontFamily: 'Plus Jakarta Sans',
                             fontSize: 15.0,
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.w500,
@@ -84,7 +84,7 @@ class _UserviewComponentWidgetState extends State<UserviewComponentWidget> {
                         'wht5ntuf' /* Time:  16.10.24 */,
                       ),
                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                            font: GoogleFonts.plusJakartaSans(),
+                            fontFamily: 'Plus Jakarta Sans',
                             letterSpacing: 0.0,
                             fontWeight: FontWeight.w500,
                           ),

@@ -100,7 +100,7 @@ class _PageReportsActivityLogWidgetState
                     '1x6kdkbh' /* Contracts */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        font: GoogleFonts.outfit(),
+                        fontFamily: 'Outfit',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -216,7 +216,7 @@ class _PageReportsActivityLogWidgetState
                                           style: FlutterFlowTheme.of(context)
                                               .displaySmall
                                               .override(
-                                                font: GoogleFonts.outfit(),
+                                                fontFamily: 'Outfit',
                                                 fontSize: 28.0,
                                                 letterSpacing: 0.0,
                                               ),
@@ -442,8 +442,8 @@ class _PageReportsActivityLogWidgetState
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -505,8 +505,8 @@ class _PageReportsActivityLogWidgetState
                                                 FlutterFlowTheme.of(context)
                                                     .bodyMedium
                                                     .override(
-                                                      font: GoogleFonts
-                                                          .plusJakartaSans(),
+                                                      fontFamily:
+                                                          'Plus Jakarta Sans',
                                                       fontSize: 12.0,
                                                       letterSpacing: 0.0,
                                                     ),
@@ -599,8 +599,8 @@ class _PageReportsActivityLogWidgetState
                                                 FlutterFlowTheme.of(context)
                                                     .bodyMedium
                                                     .override(
-                                                      font: GoogleFonts
-                                                          .plusJakartaSans(),
+                                                      fontFamily:
+                                                          'Plus Jakarta Sans',
                                                       fontSize: 12.0,
                                                       letterSpacing: 0.0,
                                                     ),
@@ -664,8 +664,8 @@ class _PageReportsActivityLogWidgetState
                                                 FlutterFlowTheme.of(context)
                                                     .bodyMedium
                                                     .override(
-                                                      font: GoogleFonts
-                                                          .plusJakartaSans(),
+                                                      fontFamily:
+                                                          'Plus Jakarta Sans',
                                                       fontSize: 12.0,
                                                       letterSpacing: 0.0,
                                                     ),
@@ -734,8 +734,8 @@ class _PageReportsActivityLogWidgetState
                                                               context)
                                                           .bodyMedium
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             letterSpacing: 0.0,
                                                           ),
                                                   hintText: FFLocalizations.of(
@@ -827,15 +827,14 @@ class _PageReportsActivityLogWidgetState
                                                     .getText(
                                                   'z3r2ynw1' /* Activity By */,
                                                 ),
-                                                style: FlutterFlowTheme.of(
-                                                        context)
-                                                    .labelSmall
-                                                    .override(
-                                                      font:
-                                                          GoogleFonts.outfit(),
-                                                      fontSize: 16.0,
-                                                      letterSpacing: 0.0,
-                                                    ),
+                                                style:
+                                                    FlutterFlowTheme.of(context)
+                                                        .labelSmall
+                                                        .override(
+                                                          fontFamily: 'Outfit',
+                                                          fontSize: 16.0,
+                                                          letterSpacing: 0.0,
+                                                        ),
                                               ),
                                             ),
                                             if (responsiveVisibility(
@@ -854,8 +853,7 @@ class _PageReportsActivityLogWidgetState
                                                           context)
                                                       .labelSmall
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .outfit(),
+                                                        fontFamily: 'Outfit',
                                                         fontSize: 16.0,
                                                         letterSpacing: 0.0,
                                                       ),
@@ -876,8 +874,7 @@ class _PageReportsActivityLogWidgetState
                                                           context)
                                                       .labelSmall
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .outfit(),
+                                                        fontFamily: 'Outfit',
                                                         fontSize: 16.0,
                                                         letterSpacing: 0.0,
                                                       ),
@@ -890,15 +887,14 @@ class _PageReportsActivityLogWidgetState
                                                     .getText(
                                                   'ltqxg2zq' /* Team */,
                                                 ),
-                                                style: FlutterFlowTheme.of(
-                                                        context)
-                                                    .labelSmall
-                                                    .override(
-                                                      font:
-                                                          GoogleFonts.outfit(),
-                                                      fontSize: 16.0,
-                                                      letterSpacing: 0.0,
-                                                    ),
+                                                style:
+                                                    FlutterFlowTheme.of(context)
+                                                        .labelSmall
+                                                        .override(
+                                                          fontFamily: 'Outfit',
+                                                          fontSize: 16.0,
+                                                          letterSpacing: 0.0,
+                                                        ),
                                               ),
                                             ),
                                             if (responsiveVisibility(
@@ -917,8 +913,7 @@ class _PageReportsActivityLogWidgetState
                                                           context)
                                                       .labelSmall
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .outfit(),
+                                                        fontFamily: 'Outfit',
                                                         fontSize: 16.0,
                                                         letterSpacing: 0.0,
                                                       ),
@@ -940,8 +935,7 @@ class _PageReportsActivityLogWidgetState
                                                           context)
                                                       .labelSmall
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .outfit(),
+                                                        fontFamily: 'Outfit',
                                                         fontSize: 16.0,
                                                         letterSpacing: 0.0,
                                                       ),
@@ -1011,8 +1005,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -1037,8 +1031,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1062,8 +1056,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1083,8 +1077,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -1111,8 +1105,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1139,8 +1133,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1198,8 +1192,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -1224,8 +1218,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1249,8 +1243,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1270,8 +1264,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -1298,8 +1292,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1326,8 +1320,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1385,8 +1379,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -1411,8 +1405,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1436,8 +1430,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1457,8 +1451,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -1485,8 +1479,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1513,8 +1507,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1572,8 +1566,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -1598,8 +1592,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1623,8 +1617,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1644,8 +1638,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -1672,8 +1666,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1700,8 +1694,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1759,8 +1753,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -1785,8 +1779,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1810,8 +1804,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1831,8 +1825,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -1859,8 +1853,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1887,8 +1881,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1946,8 +1940,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -1972,8 +1966,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -1997,8 +1991,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2018,8 +2012,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -2046,8 +2040,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2074,8 +2068,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2133,8 +2127,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -2159,8 +2153,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2184,8 +2178,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2205,8 +2199,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -2233,8 +2227,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2261,8 +2255,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2320,8 +2314,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -2346,8 +2340,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2371,8 +2365,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2392,8 +2386,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -2420,8 +2414,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2448,8 +2442,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2507,8 +2501,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -2533,8 +2527,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2558,8 +2552,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2579,8 +2573,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -2607,8 +2601,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2635,8 +2629,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2694,8 +2688,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -2720,8 +2714,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2745,8 +2739,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2766,8 +2760,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -2794,8 +2788,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2822,8 +2816,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2881,8 +2875,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -2907,8 +2901,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2932,8 +2926,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2953,8 +2947,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -2981,8 +2975,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3009,8 +3003,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3068,8 +3062,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -3094,8 +3088,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3119,8 +3113,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3140,8 +3134,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -3168,8 +3162,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3196,8 +3190,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3255,8 +3249,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -3281,8 +3275,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3306,8 +3300,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3327,8 +3321,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -3355,8 +3349,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3383,8 +3377,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3442,8 +3436,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -3468,8 +3462,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3493,8 +3487,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3514,8 +3508,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -3542,8 +3536,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3570,8 +3564,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3629,8 +3623,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -3655,8 +3649,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3680,8 +3674,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3701,8 +3695,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -3729,8 +3723,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3757,8 +3751,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3816,8 +3810,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -3842,8 +3836,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3867,8 +3861,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3888,8 +3882,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -3916,8 +3910,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -3944,8 +3938,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4003,8 +3997,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -4029,8 +4023,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4054,8 +4048,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4075,8 +4069,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -4103,8 +4097,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4131,8 +4125,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4190,8 +4184,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -4216,8 +4210,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4241,8 +4235,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4262,8 +4256,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -4290,8 +4284,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4318,8 +4312,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4377,8 +4371,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -4403,8 +4397,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4428,8 +4422,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4449,8 +4443,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -4477,8 +4471,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4505,8 +4499,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4564,8 +4558,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -4590,8 +4584,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4615,8 +4609,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4636,8 +4630,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -4664,8 +4658,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4692,8 +4686,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4751,8 +4745,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -4777,8 +4771,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4802,8 +4796,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4823,8 +4817,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -4851,8 +4845,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4879,8 +4873,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4938,8 +4932,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -4964,8 +4958,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -4989,8 +4983,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -5010,8 +5004,8 @@ class _PageReportsActivityLogWidgetState
                                                                     .of(context)
                                                                 .labelSmall
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .outfit(),
+                                                                  fontFamily:
+                                                                      'Outfit',
                                                                   fontSize:
                                                                       14.0,
                                                                   letterSpacing:
@@ -5038,8 +5032,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -5066,8 +5060,8 @@ class _PageReportsActivityLogWidgetState
                                                                       .of(context)
                                                                   .labelSmall
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .outfit(),
+                                                                    fontFamily:
+                                                                        'Outfit',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:

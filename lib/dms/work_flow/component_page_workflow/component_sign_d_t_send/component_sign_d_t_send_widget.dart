@@ -171,7 +171,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                       'spgqh7ym' /* Send NO */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -188,7 +188,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                       'dy7xg65w' /* Message Description */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -203,7 +203,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                       'hb1w87gz' /* To */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -219,7 +219,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                       'cl5jumu9' /* Send Date */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -236,7 +236,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                       'j9xrlp86' /* Validate Date */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -253,7 +253,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                       'tvamc25w' /* Status */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           letterSpacing: 0.0,
                           fontWeight: FontWeight.w600,
                         ),
@@ -373,7 +373,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                   ),
                   maxLines: 2,
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         color: messageDataItem.isRead == false
                             ? FlutterFlowTheme.of(context).primary
                             : FlutterFlowTheme.of(context).primaryText,
@@ -393,7 +393,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                         ),
                         maxLines: 2,
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               color: messageDataItem.isRead == false
                                   ? FlutterFlowTheme.of(context).primary
                                   : FlutterFlowTheme.of(context).primaryText,
@@ -526,7 +526,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           letterSpacing: 0.0,
                                         ),
                                   ),
@@ -541,7 +541,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodySmall
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           color: FlutterFlowTheme.of(context)
                                               .secondaryText,
                                           letterSpacing: 0.0,
@@ -566,7 +566,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                     '-',
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -580,7 +580,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                     '-',
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         letterSpacing: 0.0,
                       ),
                 ),
@@ -672,7 +672,7 @@ class _ComponentSignDTSendWidgetState extends State<ComponentSignDTSendWidget> {
                         ),
                         maxLines: 1,
                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                              font: GoogleFonts.plusJakartaSans(),
+                              fontFamily: 'Plus Jakarta Sans',
                               color: FlutterFlowTheme.of(context).primaryText,
                               fontSize: 12.0,
                               letterSpacing: 0.0,

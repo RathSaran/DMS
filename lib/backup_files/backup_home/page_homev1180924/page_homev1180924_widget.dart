@@ -125,7 +125,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                     'i1lvi08i' /* Dashboard */,
                   ),
                   style: FlutterFlowTheme.of(context).displaySmall.override(
-                        font: GoogleFonts.outfit(),
+                        fontFamily: 'Outfit',
                         color: FlutterFlowTheme.of(context).primaryBtnText,
                         letterSpacing: 0.0,
                       ),
@@ -228,7 +228,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                         style: FlutterFlowTheme.of(context)
                                             .displaySmall
                                             .override(
-                                              font: GoogleFonts.outfit(),
+                                              fontFamily: 'Outfit',
                                               fontSize: 28.0,
                                               letterSpacing: 0.0,
                                             ),
@@ -430,8 +430,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             fontSize: 16.0,
                                                             letterSpacing: 0.0,
                                                             fontWeight:
@@ -449,8 +449,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .secondaryText,
@@ -537,8 +537,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                             context)
                                                                         .bodyMedium
                                                                         .override(
-                                                                          font:
-                                                                              GoogleFonts.plusJakartaSans(),
+                                                                          fontFamily:
+                                                                              'Plus Jakarta Sans',
                                                                           color:
                                                                               FlutterFlowTheme.of(context).secondaryBackground,
                                                                           letterSpacing:
@@ -575,8 +575,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        font: GoogleFonts
-                                                                            .plusJakartaSans(),
+                                                                        fontFamily:
+                                                                            'Plus Jakarta Sans',
                                                                         color: FlutterFlowTheme.of(context)
                                                                             .primaryText,
                                                                         letterSpacing:
@@ -670,8 +670,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              font: GoogleFonts
-                                                                  .plusJakartaSans(),
+                                                              fontFamily:
+                                                                  'Plus Jakarta Sans',
                                                               fontSize: 16.0,
                                                               letterSpacing:
                                                                   0.0,
@@ -691,8 +691,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                     context)
                                                                 .bodyMedium
                                                                 .override(
-                                                                  font: GoogleFonts
-                                                                      .plusJakartaSans(),
+                                                                  fontFamily:
+                                                                      'Plus Jakarta Sans',
                                                                   color: FlutterFlowTheme.of(
                                                                           context)
                                                                       .secondaryText,
@@ -712,8 +712,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -816,8 +816,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             fontSize:
                                                                                 14.0,
                                                                             letterSpacing:
@@ -840,7 +840,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -866,7 +866,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -970,8 +970,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             fontSize:
                                                                                 14.0,
                                                                             letterSpacing:
@@ -994,7 +994,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -1020,7 +1020,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -1124,8 +1124,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             fontSize:
                                                                                 14.0,
                                                                             letterSpacing:
@@ -1148,7 +1148,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -1174,7 +1174,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -1288,8 +1288,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             fontSize:
                                                                                 14.0,
                                                                             letterSpacing:
@@ -1312,7 +1312,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -1338,7 +1338,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -1442,8 +1442,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             fontSize:
                                                                                 14.0,
                                                                             letterSpacing:
@@ -1466,7 +1466,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -1492,7 +1492,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -1596,8 +1596,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                               context)
                                                                           .bodyMedium
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             fontSize:
                                                                                 14.0,
                                                                             letterSpacing:
@@ -1620,7 +1620,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -1646,7 +1646,7 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodyMedium
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 color: FlutterFlowTheme.of(context).secondaryText,
                                                                                 letterSpacing: 0.0,
                                                                               ),
@@ -1755,8 +1755,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             fontSize: 16.0,
                                                             letterSpacing: 0.0,
                                                             fontWeight:
@@ -1774,8 +1774,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                   context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 color: FlutterFlowTheme.of(
                                                                         context)
                                                                     .secondaryText,
@@ -1795,8 +1795,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         color:
                                                             FlutterFlowTheme.of(
                                                                     context)
@@ -1884,8 +1884,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .secondaryText,
@@ -1919,8 +1919,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .secondaryText,
@@ -1954,8 +1954,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     color: FlutterFlowTheme.of(
                                                                             context)
                                                                         .secondaryText,
@@ -2037,8 +2037,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2070,8 +2070,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2103,8 +2103,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2194,8 +2194,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2227,8 +2227,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2260,8 +2260,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2348,8 +2348,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2381,8 +2381,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2414,8 +2414,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                       .of(context)
                                                                   .bodyMedium
                                                                   .override(
-                                                                    font: GoogleFonts
-                                                                        .plusJakartaSans(),
+                                                                    fontFamily:
+                                                                        'Plus Jakarta Sans',
                                                                     fontSize:
                                                                         14.0,
                                                                     letterSpacing:
@@ -2503,8 +2503,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                             context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           fontSize: 16.0,
                                                           letterSpacing: 0.0,
                                                           fontWeight:
@@ -2598,8 +2598,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       fontSize:
                                                                           14.0,
                                                                       letterSpacing:
@@ -2626,8 +2626,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       color: FlutterFlowTheme.of(
                                                                               context)
                                                                           .secondaryText,
@@ -2674,8 +2674,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       fontSize:
                                                                           14.0,
                                                                       letterSpacing:
@@ -2713,8 +2713,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                             context)
                                                                         .bodyMedium
                                                                         .override(
-                                                                          font:
-                                                                              GoogleFonts.plusJakartaSans(),
+                                                                          fontFamily:
+                                                                              'Plus Jakarta Sans',
                                                                           color:
                                                                               FlutterFlowTheme.of(context).secondaryText,
                                                                           letterSpacing:
@@ -2756,8 +2756,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       fontSize:
                                                                           14.0,
                                                                       letterSpacing:
@@ -2795,8 +2795,8 @@ class _PageHomev1180924WidgetState extends State<PageHomev1180924Widget>
                                                                             context)
                                                                         .bodyMedium
                                                                         .override(
-                                                                          font:
-                                                                              GoogleFonts.plusJakartaSans(),
+                                                                          fontFamily:
+                                                                              'Plus Jakarta Sans',
                                                                           color:
                                                                               FlutterFlowTheme.of(context).secondaryText,
                                                                           letterSpacing:

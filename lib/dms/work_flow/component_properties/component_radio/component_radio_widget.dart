@@ -153,7 +153,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyLarge
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: Colors.white,
                                     letterSpacing: 0.0,
                                   ),
@@ -223,7 +223,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             letterSpacing: 0.0,
                                             fontWeight: FontWeight.bold,
                                           ),
@@ -250,7 +250,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                       textStyle: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             fontSize: 14.0,
                                             letterSpacing: 0.0,
                                             fontWeight: FontWeight.w500,
@@ -350,8 +350,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryText,
@@ -386,7 +385,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             letterSpacing: 0.0,
                                             fontWeight: FontWeight.bold,
                                           ),
@@ -401,7 +400,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                         labelStyle: FlutterFlowTheme.of(context)
                                             .labelMedium
                                             .override(
-                                              font: GoogleFonts.outfit(),
+                                              fontFamily: 'Outfit',
                                               color:
                                                   FlutterFlowTheme.of(context)
                                                       .secondaryText,
@@ -415,7 +414,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                         hintStyle: FlutterFlowTheme.of(context)
                                             .labelMedium
                                             .override(
-                                              font: GoogleFonts.outfit(),
+                                              fontFamily: 'Outfit',
                                               letterSpacing: 0.0,
                                             ),
                                         enabledBorder: OutlineInputBorder(
@@ -460,7 +459,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: FlutterFlowTheme.of(context)
                                                 .primaryText,
                                             letterSpacing: 0.0,
@@ -486,7 +485,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             letterSpacing: 0.0,
                                             fontWeight: FontWeight.bold,
                                           ),
@@ -501,7 +500,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                         labelStyle: FlutterFlowTheme.of(context)
                                             .labelMedium
                                             .override(
-                                              font: GoogleFonts.outfit(),
+                                              fontFamily: 'Outfit',
                                               color:
                                                   FlutterFlowTheme.of(context)
                                                       .secondaryText,
@@ -515,7 +514,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                         hintStyle: FlutterFlowTheme.of(context)
                                             .labelMedium
                                             .override(
-                                              font: GoogleFonts.outfit(),
+                                              fontFamily: 'Outfit',
                                               letterSpacing: 0.0,
                                             ),
                                         enabledBorder: OutlineInputBorder(
@@ -560,7 +559,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: FlutterFlowTheme.of(context)
                                                 .primaryText,
                                             letterSpacing: 0.0,
@@ -607,7 +606,7 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.w600,
                                       ),
@@ -658,16 +657,15 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                                 FlutterFlowTheme.of(context)
                                                     .labelMedium
                                                     .override(
-                                                      font:
-                                                          GoogleFonts.outfit(),
+                                                      fontFamily: 'Outfit',
                                                       letterSpacing: 0.0,
                                                     ),
                                             selectedTextStyle:
                                                 FlutterFlowTheme.of(context)
                                                     .bodyMedium
                                                     .override(
-                                                      font: GoogleFonts
-                                                          .plusJakartaSans(),
+                                                      fontFamily:
+                                                          'Plus Jakarta Sans',
                                                       letterSpacing: 0.0,
                                                     ),
                                             buttonPosition:
@@ -702,8 +700,8 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                                               context)
                                                           .bodyMedium
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w500,
@@ -718,8 +716,8 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                                               context)
                                                           .bodyMedium
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w500,
@@ -784,8 +782,8 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                                     FlutterFlowTheme.of(context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.w500,
@@ -863,16 +861,15 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                                 FlutterFlowTheme.of(context)
                                                     .labelMedium
                                                     .override(
-                                                      font:
-                                                          GoogleFonts.outfit(),
+                                                      fontFamily: 'Outfit',
                                                       letterSpacing: 0.0,
                                                     ),
                                             selectedTextStyle:
                                                 FlutterFlowTheme.of(context)
                                                     .bodyMedium
                                                     .override(
-                                                      font: GoogleFonts
-                                                          .plusJakartaSans(),
+                                                      fontFamily:
+                                                          'Plus Jakarta Sans',
                                                       letterSpacing: 0.0,
                                                     ),
                                             buttonPosition:
@@ -902,15 +899,13 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                                 obscureText: false,
                                                 decoration: InputDecoration(
                                                   isDense: true,
-                                                  labelStyle:
-                                                      FlutterFlowTheme.of(
-                                                              context)
-                                                          .labelMedium
-                                                          .override(
-                                                            font: GoogleFonts
-                                                                .outfit(),
-                                                            letterSpacing: 0.0,
-                                                          ),
+                                                  labelStyle: FlutterFlowTheme
+                                                          .of(context)
+                                                      .labelMedium
+                                                      .override(
+                                                        fontFamily: 'Outfit',
+                                                        letterSpacing: 0.0,
+                                                      ),
                                                   hintText: FFLocalizations.of(
                                                           context)
                                                       .getText(
@@ -921,8 +916,8 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                                               context)
                                                           .bodyMedium
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             letterSpacing: 0.0,
                                                             fontWeight:
                                                                 FontWeight.w500,
@@ -987,8 +982,8 @@ class _ComponentRadioWidgetState extends State<ComponentRadioWidget> {
                                                     FlutterFlowTheme.of(context)
                                                         .bodyMedium
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           letterSpacing: 0.0,
                                                           fontWeight:
                                                               FontWeight.w500,

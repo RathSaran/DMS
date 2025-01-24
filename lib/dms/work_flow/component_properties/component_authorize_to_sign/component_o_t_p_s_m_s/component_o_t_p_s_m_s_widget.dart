@@ -192,7 +192,7 @@ class _ComponentOTPSMSWidgetState extends State<ComponentOTPSMSWidget>
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       fontSize: 16.0,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w500,
@@ -210,7 +210,7 @@ class _ComponentOTPSMSWidgetState extends State<ComponentOTPSMSWidget>
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     fontSize: 15.0,
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.w500,
@@ -253,8 +253,8 @@ class _ComponentOTPSMSWidgetState extends State<ComponentOTPSMSWidget>
                                               FlutterFlowTheme.of(context)
                                                   .bodyLarge
                                                   .override(
-                                                    font: GoogleFonts
-                                                        .plusJakartaSans(),
+                                                    fontFamily:
+                                                        'Plus Jakarta Sans',
                                                     letterSpacing: 0.0,
                                                   ),
                                           mainAxisAlignment:
@@ -360,8 +360,8 @@ class _ComponentOTPSMSWidgetState extends State<ComponentOTPSMSWidget>
                                                     FlutterFlowTheme.of(context)
                                                         .titleSmall
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .info,
@@ -417,8 +417,8 @@ class _ComponentOTPSMSWidgetState extends State<ComponentOTPSMSWidget>
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 fontSize: 15.0,
                                                                 letterSpacing:
                                                                     0.0,
@@ -476,8 +476,8 @@ class _ComponentOTPSMSWidgetState extends State<ComponentOTPSMSWidget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        font: GoogleFonts
-                                                                            .plusJakartaSans(),
+                                                                        fontFamily:
+                                                                            'Plus Jakarta Sans',
                                                                         color: FlutterFlowTheme.of(context)
                                                                             .primaryText,
                                                                         fontSize:

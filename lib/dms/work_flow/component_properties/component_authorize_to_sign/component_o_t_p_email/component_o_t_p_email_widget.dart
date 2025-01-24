@@ -193,7 +193,7 @@ class _ComponentOTPEmailWidgetState extends State<ComponentOTPEmailWidget>
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       fontSize: 16.0,
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w500,
@@ -211,7 +211,7 @@ class _ComponentOTPEmailWidgetState extends State<ComponentOTPEmailWidget>
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     fontSize: 15.0,
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.w500,
@@ -254,8 +254,8 @@ class _ComponentOTPEmailWidgetState extends State<ComponentOTPEmailWidget>
                                               FlutterFlowTheme.of(context)
                                                   .bodyLarge
                                                   .override(
-                                                    font: GoogleFonts
-                                                        .plusJakartaSans(),
+                                                    fontFamily:
+                                                        'Plus Jakarta Sans',
                                                     letterSpacing: 0.0,
                                                   ),
                                           mainAxisAlignment:
@@ -357,8 +357,8 @@ class _ComponentOTPEmailWidgetState extends State<ComponentOTPEmailWidget>
                                                     FlutterFlowTheme.of(context)
                                                         .titleSmall
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .info,
@@ -412,8 +412,8 @@ class _ComponentOTPEmailWidgetState extends State<ComponentOTPEmailWidget>
                                                                   .of(context)
                                                               .bodyMedium
                                                               .override(
-                                                                font: GoogleFonts
-                                                                    .plusJakartaSans(),
+                                                                fontFamily:
+                                                                    'Plus Jakarta Sans',
                                                                 fontSize: 15.0,
                                                                 letterSpacing:
                                                                     0.0,
@@ -462,8 +462,8 @@ class _ComponentOTPEmailWidgetState extends State<ComponentOTPEmailWidget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        font: GoogleFonts
-                                                                            .plusJakartaSans(),
+                                                                        fontFamily:
+                                                                            'Plus Jakarta Sans',
                                                                         fontSize:
                                                                             16.0,
                                                                         letterSpacing:

@@ -116,7 +116,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                         'qkbzioej' /* Batch Email */,
                       ),
                       style: FlutterFlowTheme.of(context).titleLarge.override(
-                            font: GoogleFonts.outfit(),
+                            fontFamily: 'Outfit',
                             color: FlutterFlowTheme.of(context).primaryText,
                             letterSpacing: 0.0,
                           ),
@@ -160,8 +160,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyLarge
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color:
                                                   FlutterFlowTheme.of(context)
                                                       .primary,
@@ -196,7 +195,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           color: FlutterFlowTheme.of(context)
                                               .primary,
                                           letterSpacing: 0.0,
@@ -256,7 +255,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: FlutterFlowTheme.of(context)
                                                 .secondaryText,
                                             letterSpacing: 0.0,
@@ -325,8 +324,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               letterSpacing: 0.0,
                                             ),
                                       ),
@@ -344,8 +342,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               letterSpacing: 0.0,
                                             ),
                                       ),
@@ -363,8 +360,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               letterSpacing: 0.0,
                                             ),
                                       ),
@@ -399,8 +395,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               letterSpacing: 0.0,
                                             ),
                                       ),
@@ -418,8 +413,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               letterSpacing: 0.0,
                                             ),
                                       ),
@@ -437,8 +431,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               letterSpacing: 0.0,
                                             ),
                                       ),
@@ -456,8 +449,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               letterSpacing: 0.0,
                                             ),
                                       ),
@@ -520,7 +512,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                               textStyle: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: FlutterFlowTheme.of(context)
                                         .primaryText,
                                     fontSize: 14.0,
@@ -551,7 +543,7 @@ class _CpSignAddBatchEmailWidgetState extends State<CpSignAddBatchEmailWidget> {
                               textStyle: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     fontSize: 14.0,
                                     letterSpacing: 0.0,
                                   ),

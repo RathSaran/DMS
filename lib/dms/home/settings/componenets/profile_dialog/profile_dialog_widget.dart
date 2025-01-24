@@ -158,7 +158,7 @@ class _ProfileDialogWidgetState extends State<ProfileDialogWidget>
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   color:
                                       FlutterFlowTheme.of(context).primaryText,
                                   fontSize: 14.0,
@@ -174,7 +174,7 @@ class _ProfileDialogWidgetState extends State<ProfileDialogWidget>
                               style: FlutterFlowTheme.of(context)
                                   .bodySmall
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: Color(0xFF4B39EF),
                                     fontSize: 12.0,
                                     letterSpacing: 0.0,
@@ -263,7 +263,7 @@ class _ProfileDialogWidgetState extends State<ProfileDialogWidget>
                                       style: FlutterFlowTheme.of(context)
                                           .bodyMedium
                                           .override(
-                                            font: GoogleFonts.plusJakartaSans(),
+                                            fontFamily: 'Plus Jakarta Sans',
                                             color: FlutterFlowTheme.of(context)
                                                 .primaryText,
                                             fontSize: 14.0,
@@ -346,8 +346,8 @@ class _ProfileDialogWidgetState extends State<ProfileDialogWidget>
                                             style: FlutterFlowTheme.of(context)
                                                 .bodyMedium
                                                 .override(
-                                                  font: GoogleFonts
-                                                      .plusJakartaSans(),
+                                                  fontFamily:
+                                                      'Plus Jakarta Sans',
                                                   letterSpacing: 0.0,
                                                 ),
                                           ),
@@ -386,8 +386,7 @@ class _ProfileDialogWidgetState extends State<ProfileDialogWidget>
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primary,
@@ -416,7 +415,7 @@ class _ProfileDialogWidgetState extends State<ProfileDialogWidget>
                   dropdownIconColor: FlutterFlowTheme.of(context).secondaryText,
                   borderRadius: 10.0,
                   textStyle: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         letterSpacing: 0.0,
                       ),
                   hideFlags: true,
@@ -491,7 +490,7 @@ class _ProfileDialogWidgetState extends State<ProfileDialogWidget>
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         color: FlutterFlowTheme.of(context)
                                             .primaryText,
                                         fontSize: 14.0,
@@ -576,8 +575,7 @@ class _ProfileDialogWidgetState extends State<ProfileDialogWidget>
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: Theme.of(context)
                                                           .brightness ==
                                                       Brightness.light
@@ -644,8 +642,7 @@ class _ProfileDialogWidgetState extends State<ProfileDialogWidget>
                                         style: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               color: Theme.of(context)
                                                           .brightness ==
                                                       Brightness.dark
@@ -726,7 +723,7 @@ class _ProfileDialogWidgetState extends State<ProfileDialogWidget>
                       color: FlutterFlowTheme.of(context).dangerButton,
                       textStyle:
                           FlutterFlowTheme.of(context).titleSmall.override(
-                                font: GoogleFonts.plusJakartaSans(),
+                                fontFamily: 'Plus Jakarta Sans',
                                 color: Colors.white,
                                 letterSpacing: 0.0,
                               ),

@@ -315,8 +315,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             color: FlutterFlowTheme
                                                                     .of(context)
                                                                 .primaryText,
@@ -370,8 +370,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                     FlutterFlowTheme.of(context)
                                                         .bodyLarge
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -485,8 +485,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                     FlutterFlowTheme.of(context)
                                                         .bodyLarge
                                                         .override(
-                                                          font: GoogleFonts
-                                                              .plusJakartaSans(),
+                                                          fontFamily:
+                                                              'Plus Jakarta Sans',
                                                           color: FlutterFlowTheme
                                                                   .of(context)
                                                               .primary,
@@ -577,8 +577,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                 FlutterFlowTheme.of(context)
                                                     .titleMedium
                                                     .override(
-                                                      font: GoogleFonts
-                                                          .plusJakartaSans(),
+                                                      fontFamily:
+                                                          'Plus Jakarta Sans',
                                                       fontSize: 16.0,
                                                       letterSpacing: 0.0,
                                                       fontWeight:
@@ -588,8 +588,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                 FlutterFlowTheme.of(context)
                                                     .titleMedium
                                                     .override(
-                                                      font: GoogleFonts
-                                                          .plusJakartaSans(),
+                                                      fontFamily:
+                                                          'Plus Jakarta Sans',
                                                       fontSize: 16.0,
                                                       letterSpacing: 0.0,
                                                       fontWeight:
@@ -752,8 +752,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                               context)
                                                                           .titleSmall
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             letterSpacing:
                                                                                 0.0,
                                                                           ),
@@ -900,7 +900,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .titleSmall
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               letterSpacing: 0.0,
                                                                             ),
                                                                       ),
@@ -1065,7 +1065,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                               '3479p09t' /* Back */,
                                                                             ),
                                                                             style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                  font: GoogleFonts.plusJakartaSans(),
+                                                                                  fontFamily: 'Plus Jakarta Sans',
                                                                                   color: FlutterFlowTheme.of(context).primary,
                                                                                   letterSpacing: 0.0,
                                                                                 ),
@@ -1114,7 +1114,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                               'sgo1mrr8' /* My Folder */,
                                                                             ),
                                                                             style: FlutterFlowTheme.of(context).titleSmall.override(
-                                                                                  font: GoogleFonts.plusJakartaSans(),
+                                                                                  fontFamily: 'Plus Jakarta Sans',
                                                                                   letterSpacing: 0.0,
                                                                                   decoration: TextDecoration.underline,
                                                                                 ),
@@ -1231,7 +1231,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                               '08jtfjl2' /* Name */,
                                                                             ),
                                                                             style: FlutterFlowTheme.of(context).bodySmall.override(
-                                                                                  font: GoogleFonts.plusJakartaSans(),
+                                                                                  fontFamily: 'Plus Jakarta Sans',
                                                                                   fontSize: 14.0,
                                                                                   letterSpacing: 0.0,
                                                                                   fontWeight: FontWeight.w600,
@@ -1264,7 +1264,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodySmall
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               fontSize: 14.0,
                                                                               letterSpacing: 0.0,
                                                                               fontWeight: FontWeight.w600,
@@ -1282,7 +1282,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodySmall
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               fontSize: 14.0,
                                                                               letterSpacing: 0.0,
                                                                               fontWeight: FontWeight.w600,
@@ -1301,7 +1301,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodySmall
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               fontSize: 14.0,
                                                                               letterSpacing: 0.0,
                                                                               fontWeight: FontWeight.w600,
@@ -1607,7 +1607,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                                   'reports',
                                                                                                 ),
                                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                      font: GoogleFonts.plusJakartaSans(),
+                                                                                                      fontFamily: 'Plus Jakarta Sans',
                                                                                                       letterSpacing: 0.0,
                                                                                                     ),
                                                                                               ),
@@ -1651,7 +1651,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                                         'Guest',
                                                                                                       ),
                                                                                                       style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                                             letterSpacing: 0.0,
                                                                                                             fontWeight: FontWeight.w600,
                                                                                                           ),
@@ -1661,7 +1661,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                                       child: Text(
                                                                                                         listViewFolderRow.role != null ? 'General' : 'Admin',
                                                                                                         style: FlutterFlowTheme.of(context).bodySmall.override(
-                                                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                                                               color: FlutterFlowTheme.of(context).primary,
                                                                                                               letterSpacing: 0.0,
                                                                                                             ),
@@ -1688,7 +1688,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                             locale: FFLocalizations.of(context).languageCode,
                                                                                           ),
                                                                                           style: FlutterFlowTheme.of(context).titleLarge.override(
-                                                                                                font: GoogleFonts.outfit(),
+                                                                                                fontFamily: 'Outfit',
                                                                                                 fontSize: 14.0,
                                                                                                 letterSpacing: 0.0,
                                                                                                 fontWeight: FontWeight.normal,
@@ -1708,7 +1708,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                             locale: '',
                                                                                           )} ${listViewFolderRow.unit}',
                                                                                           style: FlutterFlowTheme.of(context).titleLarge.override(
-                                                                                                font: GoogleFonts.outfit(),
+                                                                                                fontFamily: 'Outfit',
                                                                                                 fontSize: 14.0,
                                                                                                 letterSpacing: 0.0,
                                                                                                 fontWeight: FontWeight.normal,
@@ -1795,8 +1795,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        font: GoogleFonts
-                                                                            .plusJakartaSans(),
+                                                                        fontFamily:
+                                                                            'Plus Jakarta Sans',
                                                                         fontSize:
                                                                             18.0,
                                                                         letterSpacing:
@@ -1819,8 +1819,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:
@@ -1936,7 +1936,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .titleSmall
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               letterSpacing: 0.0,
                                                                             ),
                                                                       ),
@@ -2059,8 +2059,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                               context)
                                                                           .titleSmall
                                                                           .override(
-                                                                            font:
-                                                                                GoogleFonts.plusJakartaSans(),
+                                                                            fontFamily:
+                                                                                'Plus Jakarta Sans',
                                                                             letterSpacing:
                                                                                 0.0,
                                                                           ),
@@ -2267,7 +2267,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .titleSmall
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                               ),
                                                                         ),
@@ -2378,7 +2378,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                 '0pb4xb8o' /* Name */,
                                                                               ),
                                                                               style: FlutterFlowTheme.of(context).bodySmall.override(
-                                                                                    font: GoogleFonts.plusJakartaSans(),
+                                                                                    fontFamily: 'Plus Jakarta Sans',
                                                                                     fontSize: 14.0,
                                                                                     letterSpacing: 0.0,
                                                                                     fontWeight: FontWeight.w600,
@@ -2406,7 +2406,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodySmall
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 fontSize: 14.0,
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.w600,
@@ -2424,7 +2424,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .bodySmall
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 fontSize: 14.0,
                                                                                 letterSpacing: 0.0,
                                                                                 fontWeight: FontWeight.w600,
@@ -2673,7 +2673,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                                   'reports',
                                                                                                 ),
                                                                                                 style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                      font: GoogleFonts.plusJakartaSans(),
+                                                                                                      fontFamily: 'Plus Jakarta Sans',
                                                                                                       letterSpacing: 0.0,
                                                                                                     ),
                                                                                               ),
@@ -2716,7 +2716,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                                           'Guest',
                                                                                                         ),
                                                                                                         style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                                                               letterSpacing: 0.0,
                                                                                                               fontWeight: FontWeight.w600,
                                                                                                             ),
@@ -2726,7 +2726,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                                         child: Text(
                                                                                                           listViewFolderRow.role == 1 ? 'General' : 'Admin',
                                                                                                           style: FlutterFlowTheme.of(context).bodySmall.override(
-                                                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                                                 color: FlutterFlowTheme.of(context).primary,
                                                                                                                 letterSpacing: 0.0,
                                                                                                               ),
@@ -2753,7 +2753,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                               locale: FFLocalizations.of(context).languageCode,
                                                                                             ),
                                                                                             style: FlutterFlowTheme.of(context).titleLarge.override(
-                                                                                                  font: GoogleFonts.outfit(),
+                                                                                                  fontFamily: 'Outfit',
                                                                                                   fontSize: 14.0,
                                                                                                   letterSpacing: 0.0,
                                                                                                   fontWeight: FontWeight.normal,
@@ -2839,8 +2839,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                 .of(context)
                                                             .bodyMedium
                                                             .override(
-                                                              font: GoogleFonts
-                                                                  .plusJakartaSans(),
+                                                              fontFamily:
+                                                                  'Plus Jakarta Sans',
                                                               fontSize: 18.0,
                                                               letterSpacing:
                                                                   0.0,
@@ -2862,8 +2862,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                               .of(context)
                                                           .bodyMedium
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .plusJakartaSans(),
+                                                            fontFamily:
+                                                                'Plus Jakarta Sans',
                                                             fontSize: 16.0,
                                                             letterSpacing: 0.0,
                                                           ),
@@ -2958,7 +2958,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .titleSmall
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               letterSpacing: 0.0,
                                                                             ),
                                                                       ),
@@ -3093,7 +3093,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                           style: FlutterFlowTheme.of(context)
                                                                               .titleSmall
                                                                               .override(
-                                                                                font: GoogleFonts.plusJakartaSans(),
+                                                                                fontFamily: 'Plus Jakarta Sans',
                                                                                 letterSpacing: 0.0,
                                                                               ),
                                                                         ),
@@ -3276,7 +3276,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .titleSmall
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               letterSpacing: 0.0,
                                                                             ),
                                                                       ),
@@ -3390,7 +3390,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                               'zd8epvwn' /* Name */,
                                                                             ),
                                                                             style: FlutterFlowTheme.of(context).bodySmall.override(
-                                                                                  font: GoogleFonts.plusJakartaSans(),
+                                                                                  fontFamily: 'Plus Jakarta Sans',
                                                                                   fontSize: 14.0,
                                                                                   letterSpacing: 0.0,
                                                                                   fontWeight: FontWeight.w600,
@@ -3423,7 +3423,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodySmall
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               fontSize: 14.0,
                                                                               letterSpacing: 0.0,
                                                                               fontWeight: FontWeight.w600,
@@ -3441,7 +3441,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodySmall
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               fontSize: 14.0,
                                                                               letterSpacing: 0.0,
                                                                               fontWeight: FontWeight.w600,
@@ -3460,7 +3460,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         style: FlutterFlowTheme.of(context)
                                                                             .bodySmall
                                                                             .override(
-                                                                              font: GoogleFonts.plusJakartaSans(),
+                                                                              fontFamily: 'Plus Jakarta Sans',
                                                                               fontSize: 14.0,
                                                                               letterSpacing: 0.0,
                                                                               fontWeight: FontWeight.w600,
@@ -3768,7 +3768,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                                 'reports',
                                                                                               ),
                                                                                               style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                    font: GoogleFonts.plusJakartaSans(),
+                                                                                                    fontFamily: 'Plus Jakarta Sans',
                                                                                                     letterSpacing: 0.0,
                                                                                                   ),
                                                                                             ),
@@ -3812,7 +3812,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                                       'Guest',
                                                                                                     ),
                                                                                                     style: FlutterFlowTheme.of(context).bodyMedium.override(
-                                                                                                          font: GoogleFonts.plusJakartaSans(),
+                                                                                                          fontFamily: 'Plus Jakarta Sans',
                                                                                                           letterSpacing: 0.0,
                                                                                                           fontWeight: FontWeight.w600,
                                                                                                         ),
@@ -3822,7 +3822,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                                     child: Text(
                                                                                                       listViewFolderRow.role != null ? 'General' : 'Admin',
                                                                                                       style: FlutterFlowTheme.of(context).bodySmall.override(
-                                                                                                            font: GoogleFonts.plusJakartaSans(),
+                                                                                                            fontFamily: 'Plus Jakarta Sans',
                                                                                                             color: FlutterFlowTheme.of(context).primary,
                                                                                                             letterSpacing: 0.0,
                                                                                                           ),
@@ -3849,7 +3849,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                           locale: FFLocalizations.of(context).languageCode,
                                                                                         ),
                                                                                         style: FlutterFlowTheme.of(context).titleLarge.override(
-                                                                                              font: GoogleFonts.outfit(),
+                                                                                              fontFamily: 'Outfit',
                                                                                               fontSize: 14.0,
                                                                                               letterSpacing: 0.0,
                                                                                               fontWeight: FontWeight.normal,
@@ -3869,7 +3869,7 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                                           locale: '',
                                                                                         )} ${listViewFolderRow.unit}',
                                                                                         style: FlutterFlowTheme.of(context).titleLarge.override(
-                                                                                              font: GoogleFonts.outfit(),
+                                                                                              fontFamily: 'Outfit',
                                                                                               fontSize: 14.0,
                                                                                               letterSpacing: 0.0,
                                                                                               fontWeight: FontWeight.normal,
@@ -3955,8 +3955,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                           context)
                                                                       .bodyMedium
                                                                       .override(
-                                                                        font: GoogleFonts
-                                                                            .plusJakartaSans(),
+                                                                        fontFamily:
+                                                                            'Plus Jakarta Sans',
                                                                         fontSize:
                                                                             18.0,
                                                                         letterSpacing:
@@ -3979,8 +3979,8 @@ class _PageDocumentsWidgetState extends State<PageDocumentsWidget>
                                                                         context)
                                                                     .bodyMedium
                                                                     .override(
-                                                                      font: GoogleFonts
-                                                                          .plusJakartaSans(),
+                                                                      fontFamily:
+                                                                          'Plus Jakarta Sans',
                                                                       fontSize:
                                                                           16.0,
                                                                       letterSpacing:

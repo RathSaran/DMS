@@ -342,7 +342,7 @@ void main() async {
   });
 
   group('Chantha', () {
-    testWidgets('LoginPageVerifiy', (WidgetTester tester) async {
+    testWidgets('Login', (WidgetTester tester) async {
       _overrideOnError();
 
       await tester.pumpWidget(MultiProvider(
@@ -357,10 +357,15 @@ void main() async {
       ));
 
       await tester.pumpAndSettle();
-      expect(find.byKey(ValueKey('emailAddress_na8l')), findsOneWidget);
-      expect(find.byKey(ValueKey('password_oblr')), findsOneWidget);
-      expect(find.byKey(ValueKey('Button-Login_61ul')), findsOneWidget);
+      await tester.enterText(
+          find.byKey(ValueKey('emailAddress_na8l')), 'chantha@gmail.com');
       await tester.pumpAndSettle();
+      await tester.enterText(
+          find.byKey(ValueKey('password_oblr')), 'chantha@123');
+      await tester.pumpAndSettle();
+      await tester.tap(find.byKey(ValueKey('Button-Login_61ul')));
+      await tester.pumpAndSettle();
+      expect(find.byKey(ValueKey('PageHeader_vepg')), findsWidgets);
     });
   });
 }

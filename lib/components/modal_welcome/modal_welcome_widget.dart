@@ -251,7 +251,7 @@ class _ModalWelcomeWidgetState extends State<ModalWelcomeWidget>
                           style: FlutterFlowTheme.of(context)
                               .headlineMedium
                               .override(
-                                font: GoogleFonts.outfit(),
+                                fontFamily: 'Outfit',
                                 letterSpacing: 0.0,
                               ),
                         ).animateOnPageLoad(
@@ -265,7 +265,7 @@ class _ModalWelcomeWidgetState extends State<ModalWelcomeWidget>
                             ),
                             style:
                                 FlutterFlowTheme.of(context).bodySmall.override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       letterSpacing: 0.0,
                                     ),
                           ).animateOnPageLoad(
@@ -316,8 +316,7 @@ class _ModalWelcomeWidgetState extends State<ModalWelcomeWidget>
                                           style: FlutterFlowTheme.of(context)
                                               .bodyMedium
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryBtnText,
@@ -346,7 +345,7 @@ class _ModalWelcomeWidgetState extends State<ModalWelcomeWidget>
                                     textStyle: FlutterFlowTheme.of(context)
                                         .titleMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           letterSpacing: 0.0,
                                         ),
                                     elevation: 2.0,

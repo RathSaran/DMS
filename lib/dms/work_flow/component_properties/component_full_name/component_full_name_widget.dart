@@ -96,7 +96,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                       'zj6bkrfu' /* Full Name */,
                     ),
                     style: FlutterFlowTheme.of(context).bodyLarge.override(
-                          font: GoogleFonts.plusJakartaSans(),
+                          fontFamily: 'Plus Jakarta Sans',
                           color: Colors.white,
                           letterSpacing: 0.0,
                         ),
@@ -172,7 +172,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.bold,
                                       ),
@@ -199,7 +199,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                   textStyle: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         fontSize: 14.0,
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.w500,
@@ -246,7 +246,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.bold,
                                       ),
@@ -263,7 +263,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                       labelStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            font: GoogleFonts.outfit(),
+                                            fontFamily: 'Outfit',
                                             letterSpacing: 0.0,
                                           ),
                                       hintText:
@@ -273,7 +273,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                       hintStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            font: GoogleFonts.outfit(),
+                                            fontFamily: 'Outfit',
                                             letterSpacing: 0.0,
                                           ),
                                       enabledBorder: OutlineInputBorder(
@@ -320,7 +320,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           letterSpacing: 0.0,
                                         ),
                                     cursorColor: FlutterFlowTheme.of(context)
@@ -342,7 +342,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                   style: FlutterFlowTheme.of(context)
                                       .bodyMedium
                                       .override(
-                                        font: GoogleFonts.plusJakartaSans(),
+                                        fontFamily: 'Plus Jakarta Sans',
                                         letterSpacing: 0.0,
                                         fontWeight: FontWeight.bold,
                                       ),
@@ -359,7 +359,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                       labelStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            font: GoogleFonts.outfit(),
+                                            fontFamily: 'Outfit',
                                             letterSpacing: 0.0,
                                           ),
                                       hintText:
@@ -369,7 +369,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                       hintStyle: FlutterFlowTheme.of(context)
                                           .labelMedium
                                           .override(
-                                            font: GoogleFonts.outfit(),
+                                            fontFamily: 'Outfit',
                                             letterSpacing: 0.0,
                                           ),
                                       enabledBorder: OutlineInputBorder(
@@ -416,7 +416,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           letterSpacing: 0.0,
                                         ),
                                     cursorColor: FlutterFlowTheme.of(context)
@@ -458,7 +458,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.bold,
                                         ),
@@ -487,7 +487,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                     textStyle: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w500,
                                         ),
@@ -549,7 +549,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                     style: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.bold,
                                         ),
@@ -578,7 +578,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                     textStyle: FlutterFlowTheme.of(context)
                                         .bodyMedium
                                         .override(
-                                          font: GoogleFonts.plusJakartaSans(),
+                                          fontFamily: 'Plus Jakarta Sans',
                                           letterSpacing: 0.0,
                                           fontWeight: FontWeight.w500,
                                         ),
@@ -648,8 +648,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                         textStyle: FlutterFlowTheme.of(context)
                                             .bodyMedium
                                             .override(
-                                              font:
-                                                  GoogleFonts.plusJakartaSans(),
+                                              fontFamily: 'Plus Jakarta Sans',
                                               letterSpacing: 0.0,
                                             ),
                                         hintText:
@@ -700,8 +699,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                                   context)
                                               .titleSmall
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryText,
@@ -749,8 +747,8 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                               FlutterFlowTheme.of(context)
                                                   .titleSmall
                                                   .override(
-                                                    font: GoogleFonts
-                                                        .plusJakartaSans(),
+                                                    fontFamily:
+                                                        'Plus Jakarta Sans',
                                                     color: Colors.white,
                                                     letterSpacing: 0.0,
                                                   ),
@@ -828,8 +826,8 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                               FlutterFlowTheme.of(context)
                                                   .titleSmall
                                                   .override(
-                                                    font: GoogleFonts
-                                                        .plusJakartaSans(),
+                                                    fontFamily:
+                                                        'Plus Jakarta Sans',
                                                     color: Colors.white,
                                                     letterSpacing: 0.0,
                                                   ),
@@ -873,7 +871,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.bold,
                                     ),
@@ -920,8 +918,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                                   context)
                                               .titleSmall
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryText,
@@ -967,8 +964,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                                   context)
                                               .titleSmall
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryText,
@@ -1014,8 +1010,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                                   context)
                                               .titleSmall
                                               .override(
-                                                font: GoogleFonts
-                                                    .plusJakartaSans(),
+                                                fontFamily: 'Plus Jakarta Sans',
                                                 color:
                                                     FlutterFlowTheme.of(context)
                                                         .primaryText,
@@ -1089,7 +1084,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                 style: FlutterFlowTheme.of(context)
                                     .bodyMedium
                                     .override(
-                                      font: GoogleFonts.plusJakartaSans(),
+                                      fontFamily: 'Plus Jakarta Sans',
                                       letterSpacing: 0.0,
                                       fontWeight: FontWeight.w500,
                                     ),
@@ -1143,7 +1138,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                     fontWeight: FontWeight.w500,
                                   ),
@@ -1162,7 +1157,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                             style: FlutterFlowTheme.of(context)
                                 .bodyMedium
                                 .override(
-                                  font: GoogleFonts.plusJakartaSans(),
+                                  fontFamily: 'Plus Jakarta Sans',
                                   letterSpacing: 0.0,
                                   fontWeight: FontWeight.bold,
                                 ),
@@ -1179,7 +1174,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                 labelStyle: FlutterFlowTheme.of(context)
                                     .labelMedium
                                     .override(
-                                      font: GoogleFonts.outfit(),
+                                      fontFamily: 'Outfit',
                                       letterSpacing: 0.0,
                                     ),
                                 hintText: FFLocalizations.of(context).getText(
@@ -1188,7 +1183,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                                 hintStyle: FlutterFlowTheme.of(context)
                                     .labelMedium
                                     .override(
-                                      font: GoogleFonts.outfit(),
+                                      fontFamily: 'Outfit',
                                       letterSpacing: 0.0,
                                     ),
                                 enabledBorder: OutlineInputBorder(
@@ -1228,7 +1223,7 @@ class _ComponentFullNameWidgetState extends State<ComponentFullNameWidget> {
                               style: FlutterFlowTheme.of(context)
                                   .bodyMedium
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     letterSpacing: 0.0,
                                   ),
                               cursorColor:

@@ -133,7 +133,7 @@ class _ComponentSignReceiverReciptWidgetState
                             style: FlutterFlowTheme.of(context)
                                 .headlineSmall
                                 .override(
-                                  font: GoogleFonts.outfit(),
+                                  fontFamily: 'Outfit',
                                   letterSpacing: 0.0,
                                 ),
                           ),
@@ -249,16 +249,17 @@ class _ComponentSignReceiverReciptWidgetState
                                                   .getText(
                                                 '91m04by8' /* Scan to find document */,
                                               ),
-                                              style: FlutterFlowTheme.of(
-                                                      context)
-                                                  .headlineSmall
-                                                  .override(
-                                                    font: GoogleFonts.outfit(),
-                                                    color: FlutterFlowTheme.of(
-                                                            context)
-                                                        .secondaryText,
-                                                    letterSpacing: 0.0,
-                                                  ),
+                                              style:
+                                                  FlutterFlowTheme.of(context)
+                                                      .headlineSmall
+                                                      .override(
+                                                        fontFamily: 'Outfit',
+                                                        color:
+                                                            FlutterFlowTheme.of(
+                                                                    context)
+                                                                .secondaryText,
+                                                        letterSpacing: 0.0,
+                                                      ),
                                             ),
                                           ),
                                           RichText(
@@ -276,8 +277,7 @@ class _ComponentSignReceiverReciptWidgetState
                                                           context)
                                                       .labelLarge
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .outfit(),
+                                                        fontFamily: 'Outfit',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -293,8 +293,8 @@ class _ComponentSignReceiverReciptWidgetState
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                             ),
@@ -314,8 +314,7 @@ class _ComponentSignReceiverReciptWidgetState
                                                           context)
                                                       .labelLarge
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .outfit(),
+                                                        fontFamily: 'Outfit',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -339,8 +338,8 @@ class _ComponentSignReceiverReciptWidgetState
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                             ),
@@ -360,8 +359,7 @@ class _ComponentSignReceiverReciptWidgetState
                                                           context)
                                                       .labelLarge
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .outfit(),
+                                                        fontFamily: 'Outfit',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -384,8 +382,8 @@ class _ComponentSignReceiverReciptWidgetState
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                             ),
@@ -405,8 +403,7 @@ class _ComponentSignReceiverReciptWidgetState
                                                           context)
                                                       .labelLarge
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .outfit(),
+                                                        fontFamily: 'Outfit',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -422,8 +419,8 @@ class _ComponentSignReceiverReciptWidgetState
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                             ),
@@ -482,8 +479,8 @@ class _ComponentSignReceiverReciptWidgetState
                                                               .of(context)
                                                           .labelLarge
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .outfit(),
+                                                            fontFamily:
+                                                                'Outfit',
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -501,8 +498,8 @@ class _ComponentSignReceiverReciptWidgetState
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -563,8 +560,8 @@ class _ComponentSignReceiverReciptWidgetState
                                                               .of(context)
                                                           .labelLarge
                                                           .override(
-                                                            font: GoogleFonts
-                                                                .outfit(),
+                                                            fontFamily:
+                                                                'Outfit',
                                                             letterSpacing: 0.0,
                                                           ),
                                                     ),
@@ -599,8 +596,8 @@ class _ComponentSignReceiverReciptWidgetState
                                                           context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -622,8 +619,7 @@ class _ComponentSignReceiverReciptWidgetState
                                                           context)
                                                       .labelLarge
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .outfit(),
+                                                        fontFamily: 'Outfit',
                                                         letterSpacing: 0.0,
                                                       ),
                                                 ),
@@ -640,8 +636,8 @@ class _ComponentSignReceiverReciptWidgetState
                                                   FlutterFlowTheme.of(context)
                                                       .bodyMedium
                                                       .override(
-                                                        font: GoogleFonts
-                                                            .plusJakartaSans(),
+                                                        fontFamily:
+                                                            'Plus Jakarta Sans',
                                                         letterSpacing: 0.0,
                                                       ),
                                             ),
@@ -736,7 +732,7 @@ class _ComponentSignReceiverReciptWidgetState
                               textStyle: FlutterFlowTheme.of(context)
                                   .titleSmall
                                   .override(
-                                    font: GoogleFonts.plusJakartaSans(),
+                                    fontFamily: 'Plus Jakarta Sans',
                                     color: FlutterFlowTheme.of(context).info,
                                     fontSize: 16.0,
                                     letterSpacing: 0.0,

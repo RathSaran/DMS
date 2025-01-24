@@ -58,7 +58,7 @@ class _FolderCardWidgetState extends State<FolderCardWidget> {
                 'qfha7yxo' /* Folder Name */,
               ),
               style: FlutterFlowTheme.of(context).bodyMedium.override(
-                    font: GoogleFonts.plusJakartaSans(),
+                    fontFamily: 'Plus Jakarta Sans',
                     fontSize: 18.0,
                     letterSpacing: 0.0,
                     fontWeight: FontWeight.w500,
@@ -72,7 +72,7 @@ class _FolderCardWidgetState extends State<FolderCardWidget> {
                     'ygfkpzm2' /* 2.3 GB */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         color: FlutterFlowTheme.of(context).secondaryText,
                         letterSpacing: 0.0,
                       ),
@@ -90,7 +90,7 @@ class _FolderCardWidgetState extends State<FolderCardWidget> {
                     'jdzxvh3v' /* 100 files */,
                   ),
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
-                        font: GoogleFonts.plusJakartaSans(),
+                        fontFamily: 'Plus Jakarta Sans',
                         color: FlutterFlowTheme.of(context).secondaryText,
                         letterSpacing: 0.0,
                       ),
